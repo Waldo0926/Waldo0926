@@ -1,8 +1,8 @@
 # Hi, I'm Shuoxun Wen 👋
 
-Computer Science student at **Monash University Malaysia**, specialising in **Algorithms & Software**. I build full-stack systems, developer/student tools, and reliable software, with particular interest in **backend engineering, security, testing, deployment, and applied algorithms**.
+**Computer Science student at Monash University Malaysia, specialising in Algorithms & Software. I build full-stack products and software systems, with particular interests in backend engineering, security, systems engineering, and applied algorithms.**
 
-**Malaysia** · **Monash University Malaysia** · Open to software engineering internship opportunities
+**Malaysia · Monash University Malaysia · Open to software engineering internship opportunities**
 
 ## Selected Projects
 
