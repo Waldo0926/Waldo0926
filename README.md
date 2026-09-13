@@ -54,7 +54,7 @@ A modern C++17 rebuild of an earlier bike-share coursework project, with a robus
 
 ## Technical Focus
 
-`TypeScript` · `Python` · `C++` · `Vue` · `FastAPI` · `RxJS` · `PostgreSQL` · `MySQL` · `Docker` · `Linux` · `Nginx` · `GitHub Actions`
+`Python` · `TypeScript` · `C++` · `FastAPI` · `Vue` · `PostgreSQL` · `MySQL` · `Docker` · `Linux` · `Nginx` · `RxJS` · `GitHub Actions`
 
 ## Portfolio Notes
 
