@@ -4,6 +4,8 @@ Computer Science student at **Monash University Malaysia**, specialising in **Al
 
 **Malaysia** · **Monash University Malaysia** · Open to software engineering internship opportunities
 
+---
+
 ## Selected Projects
 
 ### 🎓 [Monash Hub](https://github.com/Waldo0926/monash-hub-overview)
