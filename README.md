@@ -40,11 +40,15 @@ An RxJS-powered packet-routing game built around immutable state, typed event st
 
 **TypeScript · RxJS · functional programming · deterministic simulation · automated testing**
 
-### 🧩 [Monash Attendance Helper](https://github.com/Waldo0926/monash-attendance-reminder)
+### 🧭 [Monash Exchange Tracker — Demo](https://github.com/Waldo0926/monash-abroad-tracker-demo)
 
-A configurable Chrome extension that finds attendance codes from user-selected Moodle/Ed sources, reminds the student, and requires explicit confirmation before submission.
+A public, synthetic-data demo of a semester-exchange tracking system I built and operate: scheduled crawling, field-level change detection, historical snapshots, and round-over-round comparison reports used by real partners and applicants.
 
-**JavaScript · Chrome Extensions · browser automation · privacy-conscious design · GitHub Actions**
+**Python · web crawling/ETL · change detection · data-privacy design · GitHub Pages**
+
+The production system and its real dataset stay private; this demo reproduces the interaction design and comparison logic on fully synthetic data.
+
+**[View the demo repository](https://github.com/Waldo0926/monash-abroad-tracker-demo)** · **[Try the live demo](https://waldo0926.github.io/monash-abroad-tracker-demo/)**
 
 ### 🧠 [Pattern Recognition from Scratch](https://github.com/Waldo0926/pattern-recognition-from-scratch)
 
@@ -52,15 +56,15 @@ A NumPy-first implementation library covering Gaussian Naive Bayes, multiclass P
 
 **Python · NumPy · classical machine learning · numerical methods · pytest**
 
-### 🚲 [Bike-Share Visual Monitor](https://github.com/Waldo0926/bike-share-visualizer-cpp)
+### 🛡️ [Enterprise Network Security Architecture](https://github.com/Waldo0926/enterprise-network-security-architecture)
 
-A modern C++17 rebuild of an earlier bike-share coursework project, with a robust CSV data pipeline, station queries, trip simulation, map rendering, automated tests, and cross-platform CI.
+Architecture-as-code for a segmented enterprise network: CIDR-safe VLAN planning, a default-deny firewall policy, DMZ design, 802.1X/RADIUS, VPN, and an explicit IT/OT trust boundary, all checked automatically in CI.
 
-**C++17 · CMake · data processing · testing · cross-platform CI**
+**Python · JSON-as-config · network segmentation · firewall policy · automated validation**
 
 ## Technical Focus
 
-`Python` · `TypeScript` · `C++` · `FastAPI` · `Vue` · `PostgreSQL` · `MySQL` · `Docker` · `Linux` · `Nginx` · `RxJS` · `GitHub Actions`
+`Python` · `TypeScript` · `C++` · `FastAPI` · `Vue` · `PostgreSQL` · `MySQL` · `Docker` · `Linux` · `Nginx` · `RxJS` · `Network Security` · `GitHub Actions`
 
 ## Portfolio Notes
 
