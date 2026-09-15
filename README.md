@@ -31,7 +31,7 @@ A secure file encryption and sharing platform developed by a four-person Final Y
 
 My work focuses on guarded deployment, integration/E2E testing, security integration, technical documentation, and frontend/backend delivery.
 
-**[View the portfolio repository](https://github.com/Waldo0926/SecureView)** · **[Try the live demo](https://secureview.tech)**
+**[View the portfolio repository](https://github.com/Waldo0926/SecureView)** · **[Try the live site](https://secureview.tech)**
 
 *The main team source repository remains private during active university assessment.*
 
