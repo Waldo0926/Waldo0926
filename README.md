@@ -9,7 +9,7 @@
 
 Computer Science student at **Monash University**, specialising in **Algorithms & Software**. I build **full-stack products and software systems**, with particular interests in **backend engineering, security, systems engineering, and applied algorithms**.
 
-**Malaysia** · **Monash University Malaysia** (ranked **31st** in the QS World University Rankings 2027) · Open to **Computer Science / IT internship opportunities**, available **November 2026 – February 2027**
+**Malaysia** · **Monash University** (ranked **31st** in the QS World University Rankings 2027) · Open to **Computer Science / IT internship opportunities**, available **November 2026 – February 2027**
 
 ---
 
