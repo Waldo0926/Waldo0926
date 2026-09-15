@@ -31,7 +31,7 @@ Monash University Malaysia 计算机科学专业学生，主修算法与软件�
 
 我在这个项目里主要负责部署流程的把关、集成/端到端测试、安全相关功能的整合、技术文档，以及前后端的开发工作。
 
-**[查看作品集仓库](https://github.com/Waldo0926/SecureView)** · **[访问在线演示](https://secureview.tech)**
+**[查看作品集仓库](https://github.com/Waldo0926/SecureView)** · **[访问在线站点](https://secureview.tech)**
 
 *团队的主源码仓库在学校评估期间保持私有。*
 
