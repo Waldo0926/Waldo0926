@@ -4,11 +4,12 @@
 
 [![Location](https://img.shields.io/badge/Location-Malaysia-2563eb?style=for-the-badge)](https://github.com/Waldo0926)
 [![University](https://img.shields.io/badge/Monash_University_Malaysia-Computer_Science-7c3aed?style=for-the-badge)](https://www.monash.edu.my/)
-[![Status](https://img.shields.io/badge/Open_to-SWE_Internships-16a34a?style=for-the-badge)](mailto:wensx0926@gmail.com)
+[![QS Ranking](https://img.shields.io/badge/QS_World_Ranking-31st_(2027)-eab308?style=for-the-badge)](https://www.monash.edu.my/study/why/our-world-university-rankings)
+[![Status](https://img.shields.io/badge/Open_to-CS%2FIT_Internships-16a34a?style=for-the-badge)](mailto:wensx0926@gmail.com)
 
 Monash University Malaysia 计算机科学专业学生，主修算法与软件方向。我平时做全栈产品和软件系统开发，比较关注后端工程、安全、系统工程和应用算法这几块。
 
-**马来西亚** · **Monash University Malaysia** · 目前在找软件工程实习机会
+**马来西亚** · **Monash University Malaysia**（QS 世界大学排名 2027 位列**第 31 名**）· 目前在找**计算机 / IT 相关实习机会**，时间在 **2026 年 11 月 – 2027 年 2 月**
 
 ---
 
