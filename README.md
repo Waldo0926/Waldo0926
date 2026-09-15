@@ -51,11 +51,11 @@ The production system and its real dataset stay private; this demo reproduces th
 
 **[View the demo repository](https://github.com/Waldo0926/monash-abroad-tracker-demo)** · **[Try the live demo](https://waldo0926.github.io/monash-abroad-tracker-demo/)**
 
-### 🧠 [Pattern Recognition from Scratch](https://github.com/Waldo0926/pattern-recognition-from-scratch)
+### 🧵 [Advanced String Algorithms](https://github.com/Waldo0926/advanced-string-algorithms)
 
-A NumPy-first implementation library covering Gaussian Naive Bayes, multiclass Perceptron, K-Means, Fuzzy C-Means, Fisher LDA, and Hidden Markov Models, with reproducible experiments and automated tests.
+A pure-Python implementation portfolio of advanced string algorithms, including Ukkonen suffix trees, BWT-based approximate matching, Z-based exact matching, Rabin-Karp rolling hashes, and Miller-Rabin primality testing.
 
-**Python · NumPy · classical machine learning · numerical methods · pytest**
+**Python · Ukkonen suffix trees · BWT · string matching · rolling hash · probabilistic algorithms · pytest**
 
 ### 🛡️ [Enterprise Network Security Architecture](https://github.com/Waldo0926/enterprise-network-security-architecture)
 
