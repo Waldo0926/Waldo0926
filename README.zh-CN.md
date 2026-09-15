@@ -51,11 +51,11 @@ Monash University马来西亚校区计算机科学专业学生，主修算法与
 
 **[查看演示仓库](https://github.com/Waldo0926/monash-abroad-tracker-demo)** · **[访问在线演示](https://waldo0926.github.io/monash-abroad-tracker-demo/)**
 
-### 🧠 [Pattern Recognition from Scratch](https://github.com/Waldo0926/pattern-recognition-from-scratch)
+### 🧵 [Advanced String Algorithms](https://github.com/Waldo0926/advanced-string-algorithms)
 
-一个从零实现的模式识别算法库，涵盖高斯朴素贝叶斯、多分类感知机、K-Means、模糊 C 均值、Fisher 线性判别分析和隐马尔可夫模型，附带可复现的实验和自动化测试。
+一个纯 Python 实现的高级字符串算法作品集，涵盖 Ukkonen 后缀树、基于 BWT 的近似匹配、基于 Z 算法的精确匹配、Rabin-Karp 滚动哈希，以及 Miller-Rabin 素性测试。
 
-**Python · NumPy · 经典机器学习 · 数值方法 · pytest**
+**Python · Ukkonen 后缀树 · BWT · 字符串匹配 · 滚动哈希 · 概率算法 · pytest**
 
 ### 🛡️ [Enterprise Network Security Architecture](https://github.com/Waldo0926/enterprise-network-security-architecture)
 
