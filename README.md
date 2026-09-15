@@ -1,5 +1,11 @@
 # Hi, I'm Shuoxun Wen 👋
 
+**English** · [中文](README.zh-CN.md)
+
+[![Location](https://img.shields.io/badge/Location-Malaysia-2563eb?style=for-the-badge)](https://github.com/Waldo0926)
+[![University](https://img.shields.io/badge/Monash_University_Malaysia-Computer_Science-7c3aed?style=for-the-badge)](https://www.monash.edu.my/)
+[![Status](https://img.shields.io/badge/Open_to-SWE_Internships-16a34a?style=for-the-badge)](mailto:wensx0926@gmail.com)
+
 Computer Science student at **Monash University Malaysia**, specialising in **Algorithms & Software**. I build **full-stack products and software systems**, with particular interests in **backend engineering, security, systems engineering, and applied algorithms**.
 
 **Malaysia** · **Monash University Malaysia** · Open to software engineering internship opportunities
@@ -26,7 +32,7 @@ My work focuses on guarded deployment, integration/E2E testing, security integra
 
 **[View the portfolio repository](https://github.com/Waldo0926/SecureView)** · **[Try the live demo](https://secureview.tech)**
 
-> The main team source repository remains private during active university assessment.
+*The main team source repository remains private during active university assessment.*
 
 ### ⚡ [StreamSwitch](https://github.com/Waldo0926/streamswitch)
 
