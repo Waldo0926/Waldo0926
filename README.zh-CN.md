@@ -7,9 +7,9 @@
 [![University](https://img.shields.io/badge/Monash_University-Computer_Science-7c3aed?style=for-the-badge)](https://www.monash.edu.my/)
 [![Status](https://img.shields.io/badge/Open_to-CS%2FIT_Internships-16a34a?style=for-the-badge)](mailto:wensx0926@gmail.com)
 
-Monash University Malaysia 计算机科学专业学生，主修算法与软件方向。我平时做全栈产品和软件系统开发，比较关注后端工程、安全、系统工程和应用算法这几块。
+Monash University马来西亚校区计算机科学专业学生，主修算法与软件方向。我平时做全栈产品和软件系统开发，比较关注后端工程、安全、系统工程和应用算法这几块。
 
-**马来西亚** · **Monash University Malaysia**（QS 世界大学排名 2027 位列**第 31 名**）· 目前在找**计算机 / IT 相关实习机会**，时间在 **2026 年 11 月 – 2027 年 2 月**
+**马来西亚** · **Monash University**（QS 世界大学排名 2027 位列**第 31 名**）· 目前在找**计算机 / IT 相关实习机会**，时间在 **2026 年 11 月 – 2027 年 2 月**
 
 ---
 
