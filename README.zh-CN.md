@@ -24,7 +24,7 @@ Monash University Malaysia 计算机科学专业学生，主修算法与软件�
 
 ### 🔐 [SecureView](https://github.com/Waldo0926/SecureView)
 
-一个由四人团队共同完成的期末项目(Final Year Project)，是一个安全文件加密与分享平台，用到了浏览器端认证加密、按接收者分发密钥、访问控制、完整性校验和审计日志。
+一个由四人团队共同完成的期末项目（Final Year Project），是一个安全文件加密与分享平台，用到了浏览器端认证加密、按接收者分发密钥、访问控制、完整性校验和审计日志。
 
 **Vue 3 · TypeScript · FastAPI · Python · MySQL · 应用密码学 · Linux/Nginx**
 
@@ -40,11 +40,15 @@ Monash University Malaysia 计算机科学专业学生，主修算法与软件�
 
 **TypeScript · RxJS · 函数式编程 · 确定性模拟 · 自动化测试**
 
-### 🧩 [Monash Attendance Helper](https://github.com/Waldo0926/monash-attendance-reminder)
+### 🧭 [Monash Exchange Tracker — Demo](https://github.com/Waldo0926/monash-abroad-tracker-demo)
 
-一个可配置的 Chrome 扩展，会从用户自己选定的 Moodle/Ed 来源里找出签到码，提醒学生，并且要求手动确认之后才会提交。
+一个交换项目追踪系统的公开演示（数据完全虚构），这套系统由我自己搭建并持续运营：定时抓取、字段级变化检测、历史快照，以及面向真实合作方和申请者的轮次对比报告。
 
-**JavaScript · Chrome 扩展 · 浏览器自动化 · 注重隐私的设计 · GitHub Actions**
+**Python · 网页爬取/ETL · 变化检测 · 数据隐私设计 · GitHub Pages**
+
+生产版本和真实数据保持私有；这份演示用完全虚构的数据复刻了交互设计和对比逻辑。
+
+**[查看演示仓库](https://github.com/Waldo0926/monash-abroad-tracker-demo)** · **[访问在线演示](https://waldo0926.github.io/monash-abroad-tracker-demo/)**
 
 ### 🧠 [Pattern Recognition from Scratch](https://github.com/Waldo0926/pattern-recognition-from-scratch)
 
@@ -52,15 +56,15 @@ Monash University Malaysia 计算机科学专业学生，主修算法与软件�
 
 **Python · NumPy · 经典机器学习 · 数值方法 · pytest**
 
-### 🚲 [Bike-Share Visual Monitor](https://github.com/Waldo0926/bike-share-visualizer-cpp)
+### 🛡️ [Enterprise Network Security Architecture](https://github.com/Waldo0926/enterprise-network-security-architecture)
 
-把早期共享单车课程项目用现代 C++17 重新写了一遍，包含稳定的 CSV 数据处理流程、站点查询、行程模拟、地图渲染、自动化测试和跨平台 CI。
+一个企业网络安全架构的 Architecture-as-Code 项目：CIDR 安全的 VLAN 规划、默认拒绝的防火墙策略、DMZ 设计、802.1X/RADIUS、VPN，以及明确的 IT/OT 信任边界，全部通过 CI 自动校验。
 
-**C++17 · CMake · 数据处理 · 测试 · 跨平台 CI**
+**Python · JSON 配置化 · 网络分段 · 防火墙策略 · 自动化校验**
 
 ## 技术方向
 
-`Python` · `TypeScript` · `C++` · `FastAPI` · `Vue` · `PostgreSQL` · `MySQL` · `Docker` · `Linux` · `Nginx` · `RxJS` · `GitHub Actions`
+`Python` · `TypeScript` · `C++` · `FastAPI` · `Vue` · `PostgreSQL` · `MySQL` · `Docker` · `Linux` · `Nginx` · `RxJS` · `网络安全` · `GitHub Actions`
 
 ## 作品集说明
 
