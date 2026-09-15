@@ -4,11 +4,12 @@
 
 [![Location](https://img.shields.io/badge/Location-Malaysia-2563eb?style=for-the-badge)](https://github.com/Waldo0926)
 [![University](https://img.shields.io/badge/Monash_University_Malaysia-Computer_Science-7c3aed?style=for-the-badge)](https://www.monash.edu.my/)
-[![Status](https://img.shields.io/badge/Open_to-SWE_Internships-16a34a?style=for-the-badge)](mailto:wensx0926@gmail.com)
+[![QS Ranking](https://img.shields.io/badge/QS_World_Ranking-31st_(2027)-eab308?style=for-the-badge)](https://www.monash.edu.my/study/why/our-world-university-rankings)
+[![Status](https://img.shields.io/badge/Open_to-CS%2FIT_Internships-16a34a?style=for-the-badge)](mailto:wensx0926@gmail.com)
 
 Computer Science student at **Monash University Malaysia**, specialising in **Algorithms & Software**. I build **full-stack products and software systems**, with particular interests in **backend engineering, security, systems engineering, and applied algorithms**.
 
-**Malaysia** · **Monash University Malaysia** · Open to software engineering internship opportunities
+**Malaysia** · **Monash University Malaysia** (ranked **31st** in the QS World University Rankings 2027) · Open to **Computer Science / IT internship opportunities**, available **November 2026 – February 2027**
 
 ---
 
