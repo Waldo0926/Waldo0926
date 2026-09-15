@@ -7,7 +7,7 @@
 [![University](https://img.shields.io/badge/Monash_University-Computer_Science-7c3aed?style=for-the-badge)](https://www.monash.edu.my/)
 [![Status](https://img.shields.io/badge/Open_to-CS%2FIT_Internships-16a34a?style=for-the-badge)](mailto:wensx0926@gmail.com)
 
-Computer Science student at **Monash University Malaysia**, specialising in **Algorithms & Software**. I build **full-stack products and software systems**, with particular interests in **backend engineering, security, systems engineering, and applied algorithms**.
+Computer Science student at **Monash University**, specialising in **Algorithms & Software**. I build **full-stack products and software systems**, with particular interests in **backend engineering, security, systems engineering, and applied algorithms**.
 
 **Malaysia** · **Monash University Malaysia** (ranked **31st** in the QS World University Rankings 2027) · Open to **Computer Science / IT internship opportunities**, available **November 2026 – February 2027**
 
