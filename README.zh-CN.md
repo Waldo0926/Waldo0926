@@ -84,7 +84,7 @@ Monash University 马来西亚校区计算机科学专业学生，主修**算法
 | 项目 | 简介 |
 | --- | --- |
 | [ed-web](https://github.com/Waldo0926/ed-web) | 隐私优先的纯前端 Ed Discussion 工具，用于抓取、整理、搜索和总结课程论坛。 |
-| [monash-attendance-reminder](https://github.com/Waldo0926/monash-attendance-reminder) | 一个 macOS 小助手，按计划打开签到码来源页面和 Monash 签到系统；最终提交始终由本人手动完成。 |
+| [monash-attendance-reminder](https://github.com/Waldo0926/monash-attendance-reminder) | 跨平台 Chrome 扩展：自动发现 Monash Attendance 近期课程，从 Gmail、Moodle 与 Ed（含本地 OCR）查找签到码、发送提醒，并仅在本人明确确认后提交。 |
 
 **软件系统、网络与基础设施**
 
