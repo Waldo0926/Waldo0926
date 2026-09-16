@@ -11,17 +11,23 @@ Computer Science student at **Monash University**, specialising in **Algorithms 
 
 **Malaysia** · **Monash University** (ranked **31st** in the QS World University Rankings 2027) · Open to **Computer Science / IT internship opportunities**, available **November 2026 – February 2027**
 
+📫 **Get in touch**
+[![Email](https://img.shields.io/badge/Email-wensx0926%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:wensx0926@gmail.com)
+[![Monash Email](https://img.shields.io/badge/Email-swen0027%40student.monash.edu-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](mailto:swen0027@student.monash.edu)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B60_17--256_0436-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/60172560436)
+[![WeChat](https://img.shields.io/badge/WeChat-WenSX0926-07C160?style=flat-square&logo=wechat&logoColor=white)](#)
+
 ---
 
 ## Selected Projects
 
-### 🎓 [Monash Hub](https://github.com/Waldo0926/monash-hub-overview)
+### 🎓 [Monash Hub](https://github.com/Waldo0926/monash-hub)
 
 A solo-built student information platform that brings together unit search, official-source search, course planning, prerequisite graphs, and WAM/GPA tools.
 
 **FastAPI · PostgreSQL · web crawling · course-planning logic · Docker/Nginx**
 
-**[View the portfolio repository](https://github.com/Waldo0926/monash-hub-overview)** · **[Try the live site](https://monashhub.secureview.tech)**
+**[View the repository](https://github.com/Waldo0926/monash-hub)** · **[Try the live site](https://monashhub.secureview.tech)**
 
 ### 🔐 [SecureView](https://github.com/Waldo0926/SecureView)
 
@@ -41,6 +47,8 @@ An RxJS-powered packet-routing game built around immutable state, typed event st
 
 **TypeScript · RxJS · functional programming · deterministic simulation · automated testing**
 
+**[View the repository](https://github.com/Waldo0926/streamswitch)**
+
 ### 🧭 [Monash Exchange Tracker — Demo](https://github.com/Waldo0926/monash-abroad-tracker-demo)
 
 A public, synthetic-data demo of a semester-exchange tracking system I built and operate: scheduled crawling, field-level change detection, historical snapshots, and round-over-round comparison reports used by real partners and applicants.
@@ -57,11 +65,57 @@ A pure-Python implementation portfolio of advanced string algorithms, including 
 
 **Python · Ukkonen suffix trees · BWT · string matching · rolling hash · probabilistic algorithms · pytest**
 
+**[View the repository](https://github.com/Waldo0926/advanced-string-algorithms)**
+
 ### 🛡️ [Enterprise Network Security Architecture](https://github.com/Waldo0926/enterprise-network-security-architecture)
 
 Architecture-as-code for a segmented enterprise network: CIDR-safe VLAN planning, a default-deny firewall policy, DMZ design, 802.1X/RADIUS, VPN, and an explicit IT/OT trust boundary, all checked automatically in CI.
 
 **Python · JSON-as-config · network segmentation · firewall policy · automated validation**
+
+**[View the repository](https://github.com/Waldo0926/enterprise-network-security-architecture)**
+
+## More Projects
+
+Coursework-derived and independent projects, grouped by area. Each has been refactored into a standalone, documented repository.
+
+**Student Tools & Browser Utilities**
+
+| Project | What it does |
+| --- | --- |
+| [ed-web](https://github.com/Waldo0926/ed-web) | A privacy-first, client-side web app for fetching, organising, searching, and summarising Ed Discussion course forums. |
+| [monash-attendance-reminder](https://github.com/Waldo0926/monash-attendance-reminder) | A macOS helper that opens configured attendance-code sources and the Monash Attendance portal on a schedule; final submission always stays manual. |
+
+**Algorithms & Data Structures (C/C++)**
+
+| Project | What it does |
+| --- | --- |
+| [classical-algorithms-cpp](https://github.com/Waldo0926/classical-algorithms-cpp) | Classic algorithms in C++: dynamic programming, backtracking, branch and bound, divide and conquer, and genetic algorithms. |
+| [data-structures-labs-cpp](https://github.com/Waldo0926/data-structures-labs-cpp) | Modernised C++17 implementations covering stacks, queues, trees, Huffman coding, graphs and sorting. |
+| [bst-record-management-cpp](https://github.com/Waldo0926/bst-record-management-cpp) | Modernised C++17 BST record management system with CRUD, persistence, RAII, tests and CI. |
+| [n-queens-algorithm-visualizer](https://github.com/Waldo0926/n-queens-algorithm-visualizer) | N-Queens algorithm visualizer with backtracking, state-space pruning, and hill climbing. |
+| [MARIE-Bitmap-Text-Renderer](https://github.com/Waldo0926/MARIE-Bitmap-Text-Renderer) | MARIE assembly bitmap renderer with indirect addressing, pointer arithmetic, a 4×8 font, and a memory-mapped framebuffer. |
+| [c-cpp-programming-foundations](https://github.com/Waldo0926/c-cpp-programming-foundations) | C/C++ programming foundations, debugging exercises and CCF CSP practice. |
+
+**Data, ML & Analytics**
+
+| Project | What it does |
+| --- | --- |
+| [tensorflow-cnn-image-classification](https://github.com/Waldo0926/tensorflow-cnn-image-classification) | Reproducible TensorFlow/Keras CNN experiments on CIFAR-10 and MNIST with automated evaluation. |
+| [student-performance-ml-pipeline](https://github.com/Waldo0926/student-performance-ml-pipeline) | Leakage-safe student grade classification with scikit-learn pipelines, SVM, Random Forest, and imbalance-aware evaluation. |
+| [pattern-recognition-from-scratch](https://github.com/Waldo0926/pattern-recognition-from-scratch) | Classical pattern-recognition algorithms implemented from scratch with NumPy: Naive Bayes, Perceptron, Fisher LDA, K-Means, FCM, HMM. |
+| [million-row-tweet-analysis-bash-r](https://github.com/Waldo0926/million-row-tweet-analysis-bash-r) | Streaming analysis of 1.47M tweets using Unix/Bash pipelines, CSV-safe Python parsing, and R aggregation/visualisation. |
+| [animal-expert-system](https://github.com/Waldo0926/animal-expert-system) | Rule-based animal expert system using forward-chaining inference. |
+
+**Systems, Signals & Databases**
+
+| Project | What it does |
+| --- | --- |
+| [database-systems-sql-labs](https://github.com/Waldo0926/database-systems-sql-labs) | Database systems labs covering SQL queries, relational design, views, indexes, triggers, stored procedures and cursors. |
+| [digital-signal-processing-matlab](https://github.com/Waldo0926/digital-signal-processing-matlab) | MATLAB DSP experiments: FFT, sampling, windowing, FIR/IIR filtering and vital-sign analysis. |
+| [puma560-robot-trajectory-planning](https://github.com/Waldo0926/puma560-robot-trajectory-planning) | MATLAB simulation of PUMA 560 robot kinematics, Euler-angle transformations and Cartesian trajectory planning. |
+| [wifi-site-survey-analysis](https://github.com/Waldo0926/wifi-site-survey-analysis) | Privacy-safe Wi-Fi site survey analysis with RSSI, channel usage, and physical-AP-aware roaming overlap. |
+| [bike-share-visualizer-cpp](https://github.com/Waldo0926/bike-share-visualizer-cpp) | A modernised C++17 reimplementation of an MFC bike-share station visualiser, with real-data tests and cross-platform CI. |
 
 ## Technical Focus
 
