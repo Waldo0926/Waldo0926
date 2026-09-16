@@ -7,21 +7,27 @@
 [![University](https://img.shields.io/badge/Monash_University-Computer_Science-7c3aed?style=for-the-badge)](https://www.monash.edu.my/)
 [![Status](https://img.shields.io/badge/Open_to-CS%2FIT_Internships-16a34a?style=for-the-badge)](mailto:wensx0926@gmail.com)
 
-Monash University马来西亚校区计算机科学专业学生，主修算法与软件方向。我平时做全栈产品和软件系统开发，比较关注后端工程、安全、系统工程和应用算法这几块。
+Monash University 马来西亚校区计算机科学专业学生，主修算法与软件方向。我平时做全栈产品和软件系统开发，比较关注后端工程、安全、系统工程和应用算法这几块。
 
 **马来西亚** · **Monash University**（QS 世界大学排名 2027 位列**第 31 名**）· 目前在找**计算机 / IT 相关实习机会**，时间在 **2026 年 11 月 – 2027 年 2 月**
+
+📫 **联系方式**
+[![Email](https://img.shields.io/badge/Email-wensx0926%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:wensx0926@gmail.com)
+[![Monash Email](https://img.shields.io/badge/Email-swen0027%40student.monash.edu-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](mailto:swen0027@student.monash.edu)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B60_17--256_0436-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/60172560436)
+[![WeChat](https://img.shields.io/badge/WeChat-WenSX0926-07C160?style=flat-square&logo=wechat&logoColor=white)](#)
 
 ---
 
 ## 精选项目
 
-### 🎓 [Monash Hub](https://github.com/Waldo0926/monash-hub-overview)
+### 🎓 [Monash Hub](https://github.com/Waldo0926/monash-hub)
 
 一个我自己一个人做的学生信息平台，把选课查询、官方资料检索、选课规划、先修课程关系图和 WAM/GPA 工具整合在了一起。
 
 **FastAPI · PostgreSQL · 网页爬取 · 选课规划逻辑 · Docker/Nginx**
 
-**[查看作品集仓库](https://github.com/Waldo0926/monash-hub-overview)** · **[访问在线站点](https://monashhub.secureview.tech)**
+**[查看仓库](https://github.com/Waldo0926/monash-hub)** · **[访问在线站点](https://monashhub.secureview.tech)**
 
 ### 🔐 [SecureView](https://github.com/Waldo0926/SecureView)
 
@@ -41,6 +47,8 @@ Monash University马来西亚校区计算机科学专业学生，主修算法与
 
 **TypeScript · RxJS · 函数式编程 · 确定性模拟 · 自动化测试**
 
+**[查看仓库](https://github.com/Waldo0926/streamswitch)**
+
 ### 🧭 [Monash Exchange Tracker — Demo](https://github.com/Waldo0926/monash-abroad-tracker-demo)
 
 一个交换项目追踪系统的公开演示（数据完全虚构），这套系统由我自己搭建并持续运营：定时抓取、字段级变化检测、历史快照，以及面向真实合作方和申请者的轮次对比报告。
@@ -57,11 +65,57 @@ Monash University马来西亚校区计算机科学专业学生，主修算法与
 
 **Python · Ukkonen 后缀树 · BWT · 字符串匹配 · 滚动哈希 · 概率算法 · pytest**
 
+**[查看仓库](https://github.com/Waldo0926/advanced-string-algorithms)**
+
 ### 🛡️ [Enterprise Network Security Architecture](https://github.com/Waldo0926/enterprise-network-security-architecture)
 
 一个企业网络安全架构的 Architecture-as-Code 项目：CIDR 安全的 VLAN 规划、默认拒绝的防火墙策略、DMZ 设计、802.1X/RADIUS、VPN，以及明确的 IT/OT 信任边界，全部通过 CI 自动校验。
 
 **Python · JSON 配置化 · 网络分段 · 防火墙策略 · 自动化校验**
+
+**[查看仓库](https://github.com/Waldo0926/enterprise-network-security-architecture)**
+
+## 更多项目
+
+以下是课程重构类和独立开发的项目，按方向分类，每个都已整理成带完整文档的独立仓库。
+
+**学生工具 & 浏览器工具**
+
+| 项目 | 简介 |
+| --- | --- |
+| [ed-web](https://github.com/Waldo0926/ed-web) | 隐私优先的纯前端 Ed Discussion 工具，用于抓取、整理、搜索和总结课程论坛。 |
+| [monash-attendance-reminder](https://github.com/Waldo0926/monash-attendance-reminder) | 一个 macOS 小助手，按计划打开签到码来源页面和 Monash 签到系统；最终提交始终由本人手动完成。 |
+
+**算法与数据结构（C/C++）**
+
+| 项目 | 简介 |
+| --- | --- |
+| [classical-algorithms-cpp](https://github.com/Waldo0926/classical-algorithms-cpp) | C++ 经典算法：动态规划、回溯、分支限界、分治与遗传算法。 |
+| [data-structures-labs-cpp](https://github.com/Waldo0926/data-structures-labs-cpp) | 基于早期 C 风格数据结构课程实验重构的现代 C++17 实现，涵盖栈、队列、树、哈夫曼编码、图与排序。 |
+| [bst-record-management-cpp](https://github.com/Waldo0926/bst-record-management-cpp) | 由早期数据结构课程设计重构的现代 C++17 二叉搜索树信息管理系统。 |
+| [n-queens-algorithm-visualizer](https://github.com/Waldo0926/n-queens-algorithm-visualizer) | N 皇后算法可视化：回溯、状态空间剪枝与爬山算法对比。 |
+| [MARIE-Bitmap-Text-Renderer](https://github.com/Waldo0926/MARIE-Bitmap-Text-Renderer) | MARIE 汇编位图渲染器：间接寻址、指针运算、4×8 字体与内存映射显示。 |
+| [c-cpp-programming-foundations](https://github.com/Waldo0926/c-cpp-programming-foundations) | C/C++ 编程基础、程序调试练习与 CCF CSP 历年题实践。 |
+
+**数据与机器学习**
+
+| 项目 | 简介 |
+| --- | --- |
+| [tensorflow-cnn-image-classification](https://github.com/Waldo0926/tensorflow-cnn-image-classification) | 基于 TensorFlow/Keras 的 CIFAR-10 与 MNIST CNN 可复现实验、自动评估与模型结构对比。 |
+| [student-performance-ml-pipeline](https://github.com/Waldo0926/student-performance-ml-pipeline) | 基于 scikit-learn 的学生成绩分类：避免数据泄漏，涵盖 SVM、随机森林、超参数调优与类别不平衡评估。 |
+| [pattern-recognition-from-scratch](https://github.com/Waldo0926/pattern-recognition-from-scratch) | 使用 NumPy 从零实现经典模式识别算法：朴素贝叶斯、感知机、Fisher LDA、K-Means、FCM 与 HMM。 |
+| [million-row-tweet-analysis-bash-r](https://github.com/Waldo0926/million-row-tweet-analysis-bash-r) | 使用 Unix/Bash 流式管道、CSV 安全 Python 解析与 R 聚合/可视化分析 147 万条推文。 |
+| [animal-expert-system](https://github.com/Waldo0926/animal-expert-system) | 基于正向链式推理的动物识别专家系统。 |
+
+**系统、信号与数据库**
+
+| 项目 | 简介 |
+| --- | --- |
+| [database-systems-sql-labs](https://github.com/Waldo0926/database-systems-sql-labs) | 数据库系统课程实验与 T-SQL 实践：SQL 查询、关系设计、视图、索引、触发器、存储过程与游标。 |
+| [digital-signal-processing-matlab](https://github.com/Waldo0926/digital-signal-processing-matlab) | MATLAB 数字信号处理实验：FFT、采样、窗函数、FIR/IIR 滤波与生命体征分析。 |
+| [puma560-robot-trajectory-planning](https://github.com/Waldo0926/puma560-robot-trajectory-planning) | 基于 MATLAB 的 PUMA 560 机器人运动学、欧拉角变换与笛卡尔轨迹规划仿真。 |
+| [wifi-site-survey-analysis](https://github.com/Waldo0926/wifi-site-survey-analysis) | 隐私安全的 Wi-Fi 现场勘测分析：RSSI、信道使用与物理 AP 去重漫游分析。 |
+| [bike-share-visualizer-cpp](https://github.com/Waldo0926/bike-share-visualizer-cpp) | 将 2021 年课程设计中基于 MFC 的共享单车站点可视化程序，重构为带真实数据测试与跨平台 CI 的现代 C++17 实现。 |
 
 ## 技术方向
 
