@@ -77,23 +77,25 @@ Monash University 马来西亚校区计算机科学专业学生，主修**算法
 
 ## 更多项目
 
-以下是课程重构类和独立开发项目，按方向分类，每个都已整理成带完整文档的独立仓库。
+以下是其他课程重构类和独立开发项目，按方向重新整理。上面已经作为精选项目展示的仓库不会在这里重复列出。
 
-**学生工具 & 浏览器工具**
+**学生工具 & Web 工具**
 
 | 项目 | 简介 |
 | --- | --- |
 | [ed-web](https://github.com/Waldo0926/ed-web) | 隐私优先的纯前端 Ed Discussion 工具，用于抓取、整理、搜索和总结课程论坛。 |
 | [monash-attendance-reminder](https://github.com/Waldo0926/monash-attendance-reminder) | 一个 macOS 小助手，按计划打开签到码来源页面和 Monash 签到系统；最终提交始终由本人手动完成。 |
 
-**软件工程 & 基础设施**
+**软件系统、网络与基础设施**
 
 | 项目 | 简介 |
 | --- | --- |
 | [streamswitch](https://github.com/Waldo0926/streamswitch) | 基于 RxJS 的数据包路由小游戏，展示不可变状态、带类型的事件流、确定性模拟和可测试的函数式响应式架构。 |
 | [enterprise-network-security-architecture](https://github.com/Waldo0926/enterprise-network-security-architecture) | 企业网络 Architecture-as-Code：CIDR 安全的 VLAN 规划、默认拒绝防火墙、DMZ、802.1X/RADIUS、VPN 和 CI 自动校验。 |
+| [wifi-site-survey-analysis](https://github.com/Waldo0926/wifi-site-survey-analysis) | 隐私安全的 Wi-Fi 现场勘测分析：RSSI、信道使用与物理 AP 去重漫游分析。 |
+| [bike-share-visualizer-cpp](https://github.com/Waldo0926/bike-share-visualizer-cpp) | 将早期 MFC 共享单车站点可视化课程项目重构为带真实数据测试与跨平台 CI 的现代 C++17 实现。 |
 
-**算法与数据结构（C/C++）**
+**算法、数据结构与底层编程**
 
 | 项目 | 简介 |
 | --- | --- |
@@ -104,7 +106,7 @@ Monash University 马来西亚校区计算机科学专业学生，主修**算法
 | [MARIE-Bitmap-Text-Renderer](https://github.com/Waldo0926/MARIE-Bitmap-Text-Renderer) | MARIE 汇编位图渲染器：间接寻址、指针运算、4×8 字体与内存映射显示。 |
 | [c-cpp-programming-foundations](https://github.com/Waldo0926/c-cpp-programming-foundations) | C/C++ 编程基础、程序调试练习与 CCF CSP 历年题实践。 |
 
-**数据与机器学习**
+**数据、机器学习与分析**
 
 | 项目 | 简介 |
 | --- | --- |
@@ -114,19 +116,17 @@ Monash University 马来西亚校区计算机科学专业学生，主修**算法
 | [million-row-tweet-analysis-bash-r](https://github.com/Waldo0926/million-row-tweet-analysis-bash-r) | 使用 Unix/Bash 流式管道、CSV 安全 Python 解析与 R 聚合/可视化分析 147 万条推文。 |
 | [animal-expert-system](https://github.com/Waldo0926/animal-expert-system) | 基于正向链式推理的动物识别专家系统。 |
 
-**系统、信号与数据库**
+**数据库、机器人与信号处理**
 
 | 项目 | 简介 |
 | --- | --- |
 | [database-systems-sql-labs](https://github.com/Waldo0926/database-systems-sql-labs) | 数据库系统课程实验：SQL 查询、关系设计、视图、索引、触发器、存储过程与游标。 |
 | [digital-signal-processing-matlab](https://github.com/Waldo0926/digital-signal-processing-matlab) | MATLAB 数字信号处理实验：FFT、采样、窗函数、FIR/IIR 滤波与生命体征分析。 |
 | [puma560-robot-trajectory-planning](https://github.com/Waldo0926/puma560-robot-trajectory-planning) | 基于 MATLAB 的 PUMA 560 机器人运动学、欧拉角变换与笛卡尔轨迹规划仿真。 |
-| [wifi-site-survey-analysis](https://github.com/Waldo0926/wifi-site-survey-analysis) | 隐私安全的 Wi-Fi 现场勘测分析：RSSI、信道使用与物理 AP 去重漫游分析。 |
-| [bike-share-visualizer-cpp](https://github.com/Waldo0926/bike-share-visualizer-cpp) | 将早期 MFC 共享单车站点可视化课程项目重构为带真实数据测试与跨平台 CI 的现代 C++17 实现。 |
 
 ## 技术方向
 
-`Python` · `TypeScript` · `C++` · `FastAPI` · `Vue` · `PostgreSQL` · `MySQL` · `Docker` · `Linux` · `Nginx` · `RxJS` · `SSH` · `网络自动化` · `GitHub Actions`
+`Python` · `TypeScript` · `C++` · `FastAPI` · `Vue` · `PostgreSQL` · `MySQL` · `Docker` · `Linux` · `Nginx` · `RxJS` · `SSH` · `网络自动化` · `基础设施自动化` · `GitHub Actions`
 
 ## 作品集说明
 
