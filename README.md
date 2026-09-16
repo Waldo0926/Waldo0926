@@ -84,7 +84,7 @@ Additional coursework-derived and independent projects, grouped by area. Project
 | Project | What it does |
 | --- | --- |
 | [ed-web](https://github.com/Waldo0926/ed-web) | A privacy-first, client-side web app for fetching, organising, searching, and summarising Ed Discussion course forums. |
-| [monash-attendance-reminder](https://github.com/Waldo0926/monash-attendance-reminder) | A macOS helper that opens configured attendance-code sources and the Monash Attendance portal on a schedule; final submission always stays manual. |
+| [monash-attendance-reminder](https://github.com/Waldo0926/monash-attendance-reminder) | A cross-platform Chrome extension that discovers recent Monash Attendance activities, finds codes from Gmail, Moodle, and Ed with local OCR, sends reminders, and submits only after explicit confirmation. |
 
 **Software Systems, Networking & Infrastructure**
 
