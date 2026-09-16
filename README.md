@@ -77,23 +77,25 @@ A pure-Python implementation portfolio of advanced string algorithms, including 
 
 ## More Projects
 
-Coursework-derived and independent projects, grouped by area. Each has been refactored into a standalone, documented repository.
+Additional coursework-derived and independent projects, grouped by area. Projects already highlighted above are intentionally not repeated here.
 
-**Student Tools & Browser Utilities**
+**Student Tools & Web Utilities**
 
 | Project | What it does |
 | --- | --- |
 | [ed-web](https://github.com/Waldo0926/ed-web) | A privacy-first, client-side web app for fetching, organising, searching, and summarising Ed Discussion course forums. |
 | [monash-attendance-reminder](https://github.com/Waldo0926/monash-attendance-reminder) | A macOS helper that opens configured attendance-code sources and the Monash Attendance portal on a schedule; final submission always stays manual. |
 
-**Software Engineering & Infrastructure**
+**Software Systems, Networking & Infrastructure**
 
 | Project | What it does |
 | --- | --- |
 | [streamswitch](https://github.com/Waldo0926/streamswitch) | An RxJS packet-routing game demonstrating immutable state, typed event streams, deterministic simulation, and testable functional-reactive architecture. |
 | [enterprise-network-security-architecture](https://github.com/Waldo0926/enterprise-network-security-architecture) | Architecture-as-code for segmented enterprise networking with CIDR-safe VLAN planning, default-deny firewall policy, DMZ, 802.1X/RADIUS, VPN, and CI validation. |
+| [wifi-site-survey-analysis](https://github.com/Waldo0926/wifi-site-survey-analysis) | Privacy-safe Wi-Fi site survey analysis with RSSI, channel usage, and physical-AP-aware roaming overlap. |
+| [bike-share-visualizer-cpp](https://github.com/Waldo0926/bike-share-visualizer-cpp) | A modernised C++17 reimplementation of an MFC bike-share station visualiser, with real-data tests and cross-platform CI. |
 
-**Algorithms & Data Structures (C/C++)**
+**Algorithms, Data Structures & Low-Level Programming**
 
 | Project | What it does |
 | --- | --- |
@@ -114,19 +116,17 @@ Coursework-derived and independent projects, grouped by area. Each has been refa
 | [million-row-tweet-analysis-bash-r](https://github.com/Waldo0926/million-row-tweet-analysis-bash-r) | Streaming analysis of 1.47M tweets using Unix/Bash pipelines, CSV-safe Python parsing, and R aggregation/visualisation. |
 | [animal-expert-system](https://github.com/Waldo0926/animal-expert-system) | Rule-based animal expert system using forward-chaining inference. |
 
-**Systems, Signals & Databases**
+**Databases, Robotics & Signal Processing**
 
 | Project | What it does |
 | --- | --- |
 | [database-systems-sql-labs](https://github.com/Waldo0926/database-systems-sql-labs) | Database systems labs covering SQL queries, relational design, views, indexes, triggers, stored procedures and cursors. |
 | [digital-signal-processing-matlab](https://github.com/Waldo0926/digital-signal-processing-matlab) | MATLAB DSP experiments: FFT, sampling, windowing, FIR/IIR filtering and vital-sign analysis. |
 | [puma560-robot-trajectory-planning](https://github.com/Waldo0926/puma560-robot-trajectory-planning) | MATLAB simulation of PUMA 560 robot kinematics, Euler-angle transformations and Cartesian trajectory planning. |
-| [wifi-site-survey-analysis](https://github.com/Waldo0926/wifi-site-survey-analysis) | Privacy-safe Wi-Fi site survey analysis with RSSI, channel usage, and physical-AP-aware roaming overlap. |
-| [bike-share-visualizer-cpp](https://github.com/Waldo0926/bike-share-visualizer-cpp) | A modernised C++17 reimplementation of an MFC bike-share station visualiser, with real-data tests and cross-platform CI. |
 
 ## Technical Focus
 
-`Python` · `TypeScript` · `C++` · `FastAPI` · `Vue` · `PostgreSQL` · `MySQL` · `Docker` · `Linux` · `Nginx` · `RxJS` · `SSH` · `Network Automation` · `GitHub Actions`
+`Python` · `TypeScript` · `C++` · `FastAPI` · `Vue` · `PostgreSQL` · `MySQL` · `Docker` · `Linux` · `Nginx` · `RxJS` · `SSH` · `Network Automation` · `Infrastructure Automation` · `GitHub Actions`
 
 ## Portfolio Notes
 
