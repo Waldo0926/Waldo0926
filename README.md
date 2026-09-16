@@ -7,7 +7,7 @@
 [![University](https://img.shields.io/badge/Monash_University-Computer_Science-7c3aed?style=for-the-badge)](https://www.monash.edu.my/)
 [![Status](https://img.shields.io/badge/Open_to-CS%2FIT_Internships-16a34a?style=for-the-badge)](mailto:wensx0926@gmail.com)
 
-Computer Science student at **Monash University**, specialising in **Algorithms & Software**. I build **full-stack products and software systems**, with particular interests in **backend engineering, security, systems engineering, and applied algorithms**.
+Computer Science student at **Monash University**, specialising in **Algorithms & Software**. I build **backend systems, full-stack products, and infrastructure automation**, with particular interests in **backend engineering, systems engineering, security, networking, and applied algorithms**.
 
 **Malaysia** · **Monash University** (ranked **31st** in the QS World University Rankings 2027) · Open to **Computer Science / IT internship opportunities**, available **November 2026 – February 2027**
 
@@ -41,13 +41,21 @@ My work focuses on guarded deployment, integration/E2E testing, security integra
 
 *The main team source repository remains private during active university assessment.*
 
-### ⚡ [StreamSwitch](https://github.com/Waldo0926/streamswitch)
+### 🖥️ [Edge Fleet Ops Automation](https://github.com/Waldo0926/edge-fleet-ops-automation)
 
-An RxJS-powered packet-routing game built around immutable state, typed event streams, deterministic simulation, and testable functional-reactive architecture.
+A sanitized reconstruction of automation built for a real Linux edge-node fleet: control-plane discovery, IPv6 SSH, disk/SMART/NVMe/eMMC health auditing, Docker workload checks, persistent alert state, and conservative operations tooling.
 
-**TypeScript · RxJS · functional programming · deterministic simulation · automated testing**
+**Python · Linux · IPv6/OpenSSH · Docker · systems automation · pytest**
 
-**[View the repository](https://github.com/Waldo0926/streamswitch)**
+**[View the repository](https://github.com/Waldo0926/edge-fleet-ops-automation)**
+
+### 🌐 [Homelab Network Automation](https://github.com/Waldo0926/homelab-network-automation)
+
+A portfolio reconstruction of iKuai homelab automation with router API integration, guarded connection cleanup, WAN/PPPoE/LAN monitoring, stateful alert/recovery tracking, Feishu/Lark notifications, and systemd/cron deployment examples.
+
+**Python · Linux · iKuai API · network automation · stateful monitoring · pytest**
+
+**[View the repository](https://github.com/Waldo0926/homelab-network-automation)**
 
 ### 🧭 [Monash Exchange Tracker — Demo](https://github.com/Waldo0926/monash-abroad-tracker-demo)
 
@@ -67,14 +75,6 @@ A pure-Python implementation portfolio of advanced string algorithms, including 
 
 **[View the repository](https://github.com/Waldo0926/advanced-string-algorithms)**
 
-### 🛡️ [Enterprise Network Security Architecture](https://github.com/Waldo0926/enterprise-network-security-architecture)
-
-Architecture-as-code for a segmented enterprise network: CIDR-safe VLAN planning, a default-deny firewall policy, DMZ design, 802.1X/RADIUS, VPN, and an explicit IT/OT trust boundary, all checked automatically in CI.
-
-**Python · JSON-as-config · network segmentation · firewall policy · automated validation**
-
-**[View the repository](https://github.com/Waldo0926/enterprise-network-security-architecture)**
-
 ## More Projects
 
 Coursework-derived and independent projects, grouped by area. Each has been refactored into a standalone, documented repository.
@@ -85,6 +85,13 @@ Coursework-derived and independent projects, grouped by area. Each has been refa
 | --- | --- |
 | [ed-web](https://github.com/Waldo0926/ed-web) | A privacy-first, client-side web app for fetching, organising, searching, and summarising Ed Discussion course forums. |
 | [monash-attendance-reminder](https://github.com/Waldo0926/monash-attendance-reminder) | A macOS helper that opens configured attendance-code sources and the Monash Attendance portal on a schedule; final submission always stays manual. |
+
+**Software Engineering & Infrastructure**
+
+| Project | What it does |
+| --- | --- |
+| [streamswitch](https://github.com/Waldo0926/streamswitch) | An RxJS packet-routing game demonstrating immutable state, typed event streams, deterministic simulation, and testable functional-reactive architecture. |
+| [enterprise-network-security-architecture](https://github.com/Waldo0926/enterprise-network-security-architecture) | Architecture-as-code for segmented enterprise networking with CIDR-safe VLAN planning, default-deny firewall policy, DMZ, 802.1X/RADIUS, VPN, and CI validation. |
 
 **Algorithms & Data Structures (C/C++)**
 
@@ -119,10 +126,12 @@ Coursework-derived and independent projects, grouped by area. Each has been refa
 
 ## Technical Focus
 
-`Python` · `TypeScript` · `C++` · `FastAPI` · `Vue` · `PostgreSQL` · `MySQL` · `Docker` · `Linux` · `Nginx` · `RxJS` · `Network Security` · `GitHub Actions`
+`Python` · `TypeScript` · `C++` · `FastAPI` · `Vue` · `PostgreSQL` · `MySQL` · `Docker` · `Linux` · `Nginx` · `RxJS` · `SSH` · `Network Automation` · `GitHub Actions`
 
 ## Portfolio Notes
 
 Some repositories revisit coursework from my earlier undergraduate studies. Where that is the case, I keep the project history explicit and separate the original coursework from later refactoring, testing, documentation, and engineering improvements.
+
+Other repositories are sanitized reconstructions of systems that previously ran in private environments. Those projects preserve the engineering approach while intentionally removing credentials, private topology, operational identifiers, and production-specific details.
 
 **[View all repositories →](https://github.com/Waldo0926?tab=repositories)**
