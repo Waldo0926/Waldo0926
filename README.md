@@ -49,13 +49,13 @@ A sanitized reconstruction of automation built for a real Linux edge-node fleet:
 
 **[View the repository](https://github.com/Waldo0926/edge-fleet-ops-automation)**
 
-### 🌐 [Homelab Network Automation](https://github.com/Waldo0926/homelab-network-automation)
+### 🔒 [Enterprise Network Security Architecture](https://github.com/Waldo0926/enterprise-network-security-architecture)
 
-A portfolio reconstruction of iKuai homelab automation with router API integration, guarded connection cleanup, WAN/PPPoE/LAN monitoring, stateful alert/recovery tracking, Feishu/Lark notifications, and systemd/cron deployment examples.
+A fictional enterprise network security design expressed as architecture-as-code, covering CIDR-safe VLAN planning, a default-deny firewall policy, DMZ design, 802.1X/enterprise Wi-Fi, VPN remote access, and an automated Python validator that checks the design for internal consistency.
 
-**Python · Linux · iKuai API · network automation · stateful monitoring · pytest**
+**Python · network security · architecture-as-code · VLAN/CIDR planning · firewall policy · 802.1X**
 
-**[View the repository](https://github.com/Waldo0926/homelab-network-automation)**
+**[View the repository](https://github.com/Waldo0926/enterprise-network-security-architecture)**
 
 ### 🧭 [Monash Exchange Tracker — Demo](https://github.com/Waldo0926/monash-abroad-tracker-demo)
 
@@ -91,7 +91,7 @@ Additional coursework-derived and independent projects, grouped by area. Project
 | Project | What it does |
 | --- | --- |
 | [streamswitch](https://github.com/Waldo0926/streamswitch) | An RxJS packet-routing game demonstrating immutable state, typed event streams, deterministic simulation, and testable functional-reactive architecture. |
-| [enterprise-network-security-architecture](https://github.com/Waldo0926/enterprise-network-security-architecture) | Architecture-as-code for segmented enterprise networking with CIDR-safe VLAN planning, default-deny firewall policy, DMZ, 802.1X/RADIUS, VPN, and CI validation. |
+| [homelab-network-automation](https://github.com/Waldo0926/homelab-network-automation) | A portfolio reconstruction of iKuai homelab automation with router API integration, guarded connection cleanup, WAN/PPPoE/LAN monitoring, and stateful alert/recovery tracking. |
 | [wifi-site-survey-analysis](https://github.com/Waldo0926/wifi-site-survey-analysis) | Privacy-safe Wi-Fi site survey analysis with RSSI, channel usage, and physical-AP-aware roaming overlap. |
 | [bike-share-visualizer-cpp](https://github.com/Waldo0926/bike-share-visualizer-cpp) | A modernised C++17 reimplementation of an MFC bike-share station visualiser, with real-data tests and cross-platform CI. |
 
