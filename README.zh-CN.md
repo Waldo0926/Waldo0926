@@ -49,13 +49,13 @@ Monash University 马来西亚校区计算机科学专业学生，主修**算法
 
 **[查看仓库](https://github.com/Waldo0926/edge-fleet-ops-automation)**
 
-### 🌐 [Homelab Network Automation](https://github.com/Waldo0926/homelab-network-automation)
+### 🔒 [Enterprise Network Security Architecture](https://github.com/Waldo0926/enterprise-network-security-architecture)
 
-一套从真实 iKuai Homelab 自动化脚本整理出的公开作品集，涵盖路由器 API、带多重保护的连接清理、WAN/PPPoE/LAN 监控、状态化异常/恢复跟踪、飞书/Lark 通知，以及 systemd/cron 部署示例。
+一个以 architecture-as-code 方式呈现的虚构企业网络安全设计，涵盖 CIDR 安全的 VLAN 规划、默认拒绝防火墙策略、DMZ 设计、802.1X 企业级 Wi-Fi、VPN 远程接入，并配有 Python 自动校验器检查设计的内部一致性。
 
-**Python · Linux · iKuai API · 网络自动化 · 状态化监控 · pytest**
+**Python · 网络安全 · Architecture-as-Code · VLAN/CIDR 规划 · 防火墙策略 · 802.1X**
 
-**[查看仓库](https://github.com/Waldo0926/homelab-network-automation)**
+**[查看仓库](https://github.com/Waldo0926/enterprise-network-security-architecture)**
 
 ### 🧭 [Monash Exchange Tracker — Demo](https://github.com/Waldo0926/monash-abroad-tracker-demo)
 
@@ -91,7 +91,7 @@ Monash University 马来西亚校区计算机科学专业学生，主修**算法
 | 项目 | 简介 |
 | --- | --- |
 | [streamswitch](https://github.com/Waldo0926/streamswitch) | 基于 RxJS 的数据包路由小游戏，展示不可变状态、带类型的事件流、确定性模拟和可测试的函数式响应式架构。 |
-| [enterprise-network-security-architecture](https://github.com/Waldo0926/enterprise-network-security-architecture) | 企业网络 Architecture-as-Code：CIDR 安全的 VLAN 规划、默认拒绝防火墙、DMZ、802.1X/RADIUS、VPN 和 CI 自动校验。 |
+| [homelab-network-automation](https://github.com/Waldo0926/homelab-network-automation) | 从真实 iKuai Homelab 自动化脚本整理出的公开作品集，涵盖路由器 API、带多重保护的连接清理、WAN/PPPoE/LAN 监控与状态化异常/恢复跟踪。 |
 | [wifi-site-survey-analysis](https://github.com/Waldo0926/wifi-site-survey-analysis) | 隐私安全的 Wi-Fi 现场勘测分析：RSSI、信道使用与物理 AP 去重漫游分析。 |
 | [bike-share-visualizer-cpp](https://github.com/Waldo0926/bike-share-visualizer-cpp) | 将早期 MFC 共享单车站点可视化课程项目重构为带真实数据测试与跨平台 CI 的现代 C++17 实现。 |
 
