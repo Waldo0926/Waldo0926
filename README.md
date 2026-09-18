@@ -14,14 +14,16 @@ Computer Science student at **Monash University**, specialising in **Algorithms 
 
 ## Selected Projects
 
-[![Monash Hub](assets/selected-en/monash-hub.svg)](https://github.com/Waldo0926/monash-hub)
-[![SecureView](assets/selected-en/secureview.svg)](https://github.com/Waldo0926/SecureView)
-
-[![Edge Fleet Ops Automation](assets/selected-en/edge-fleet.svg)](https://github.com/Waldo0926/edge-fleet-ops-automation)
-[![Enterprise Network Security Architecture](assets/selected-en/netsec.svg)](https://github.com/Waldo0926/enterprise-network-security-architecture)
-
-[![Monash Exchange Tracker (demo)](assets/selected-en/abroad-tracker.svg)](https://github.com/Waldo0926/monash-abroad-tracker-demo)
-[![Advanced String Algorithms](assets/selected-en/string-algo.svg)](https://github.com/Waldo0926/advanced-string-algorithms)
+<p align="center">
+  <a href="https://github.com/Waldo0926/monash-hub"><img src="./assets/profile-cards/en/monash-hub.svg?v=1" width="47%" alt="Monash Hub" /></a>
+  <a href="https://github.com/Waldo0926/SecureView"><img src="./assets/profile-cards/en/secureview.svg?v=1" width="47%" alt="SecureView" /></a>
+  <br /><br />
+  <a href="https://github.com/Waldo0926/edge-fleet-ops-automation"><img src="./assets/profile-cards/en/edge-fleet.svg?v=1" width="47%" alt="Edge Fleet Ops Automation" /></a>
+  <a href="https://github.com/Waldo0926/enterprise-network-security-architecture"><img src="./assets/profile-cards/en/netsec.svg?v=1" width="47%" alt="Enterprise Network Security Architecture" /></a>
+  <br /><br />
+  <a href="https://github.com/Waldo0926/monash-abroad-tracker-demo"><img src="./assets/profile-cards/en/abroad-tracker.svg?v=1" width="47%" alt="Monash Exchange Tracker (demo)" /></a>
+  <a href="https://github.com/Waldo0926/advanced-string-algorithms"><img src="./assets/profile-cards/en/string-algo.svg?v=1" width="47%" alt="Advanced String Algorithms" /></a>
+</p>
 
 | | Live | Notes |
 |---|---|---|
@@ -34,52 +36,72 @@ Computer Science student at **Monash University**, specialising in **Algorithms 
 
 ## More Projects
 
-Additional coursework-derived and independent projects, grouped by area. Projects already highlighted above are intentionally not repeated here.
+<details>
+<summary><strong>Browse all projects (20)</strong></summary>
 
-**Student Tools & Web Utilities**
+### Student Tools & Web Utilities
 
-| Project | What it does |
-| --- | --- |
-| [ed-web](https://github.com/Waldo0926/ed-web) | A privacy-first, client-side web app for fetching, organising, searching, and summarising Ed Discussion course forums. |
-| [monash-attendance-reminder](https://github.com/Waldo0926/monash-attendance-reminder) | A cross-platform Chrome extension that discovers recent Monash Attendance activities, finds codes from Gmail, Moodle, and Ed with local OCR, sends reminders, and submits only after explicit confirmation. |
+Tools that turn recurring student workflows into usable software.
 
-**Software Systems, Networking & Infrastructure**
+<p align="center">
+  <a href="https://github.com/Waldo0926/ed-web"><img src="./assets/profile-cards/en/ed-web.svg?v=1" width="31%" alt="ed-web" /></a>
+  <a href="https://github.com/Waldo0926/monash-attendance-reminder"><img src="./assets/profile-cards/en/monash-attendance-reminder.svg?v=1" width="31%" alt="Monash Attendance Reminder" /></a>
+  <img src="./assets/profile-cards/spacer.svg" width="31%" alt="" />
+</p>
 
-| Project | What it does |
-| --- | --- |
-| [streamswitch](https://github.com/Waldo0926/streamswitch) | An RxJS packet-routing game demonstrating immutable state, typed event streams, deterministic simulation, and testable functional-reactive architecture. |
-| [homelab-network-automation](https://github.com/Waldo0926/homelab-network-automation) | A portfolio reconstruction of iKuai homelab automation with router API integration, guarded connection cleanup, WAN/PPPoE/LAN monitoring, and stateful alert/recovery tracking. |
-| [wifi-site-survey-analysis](https://github.com/Waldo0926/wifi-site-survey-analysis) | Privacy-safe Wi-Fi site survey analysis with RSSI, channel usage, and physical-AP-aware roaming overlap. |
-| [bike-share-visualizer-cpp](https://github.com/Waldo0926/bike-share-visualizer-cpp) | A modernised C++17 reimplementation of an MFC bike-share station visualiser, with real-data tests and cross-platform CI. |
+### Software Systems, Networking & Infrastructure
 
-**Algorithms, Data Structures & Low-Level Programming**
+Reactive software, networks, automation and infrastructure projects.
 
-| Project | What it does |
-| --- | --- |
-| [classical-algorithms-cpp](https://github.com/Waldo0926/classical-algorithms-cpp) | Classic algorithms in C++: dynamic programming, backtracking, branch and bound, divide and conquer, and genetic algorithms. |
-| [data-structures-labs-cpp](https://github.com/Waldo0926/data-structures-labs-cpp) | Modernised C++17 implementations covering stacks, queues, trees, Huffman coding, graphs and sorting. |
-| [bst-record-management-cpp](https://github.com/Waldo0926/bst-record-management-cpp) | Modernised C++17 BST record management system with CRUD, persistence, RAII, tests and CI. |
-| [n-queens-algorithm-visualizer](https://github.com/Waldo0926/n-queens-algorithm-visualizer) | N-Queens algorithm visualizer with backtracking, state-space pruning, and hill climbing. |
-| [MARIE-Bitmap-Text-Renderer](https://github.com/Waldo0926/MARIE-Bitmap-Text-Renderer) | MARIE assembly bitmap renderer with indirect addressing, pointer arithmetic, a 4×8 font, and a memory-mapped framebuffer. |
-| [c-cpp-programming-foundations](https://github.com/Waldo0926/c-cpp-programming-foundations) | C/C++ programming foundations, debugging exercises and CCF CSP practice. |
+<p align="center">
+  <a href="https://github.com/Waldo0926/streamswitch"><img src="./assets/profile-cards/en/streamswitch.svg?v=1" width="31%" alt="StreamSwitch" /></a>
+  <a href="https://github.com/Waldo0926/homelab-network-automation"><img src="./assets/profile-cards/en/homelab-network-automation.svg?v=1" width="31%" alt="Homelab Network Automation" /></a>
+  <a href="https://github.com/Waldo0926/wifi-site-survey-analysis"><img src="./assets/profile-cards/en/wifi-site-survey-analysis.svg?v=1" width="31%" alt="Wi-Fi Site Survey Analysis" /></a>
+  <br /><br />
+  <a href="https://github.com/Waldo0926/bike-share-visualizer-cpp"><img src="./assets/profile-cards/en/bike-share-visualizer-cpp.svg?v=1" width="31%" alt="Bike Share Visualizer C++" /></a>
+  <img src="./assets/profile-cards/spacer.svg" width="31%" alt="" />
+  <img src="./assets/profile-cards/spacer.svg" width="31%" alt="" />
+</p>
 
-**Data, ML & Analytics**
+### Algorithms, Data Structures & Low-Level Programming
 
-| Project | What it does |
-| --- | --- |
-| [tensorflow-cnn-image-classification](https://github.com/Waldo0926/tensorflow-cnn-image-classification) | Reproducible TensorFlow/Keras CNN experiments on CIFAR-10 and MNIST with automated evaluation. |
-| [student-performance-ml-pipeline](https://github.com/Waldo0926/student-performance-ml-pipeline) | Leakage-safe student grade classification with scikit-learn pipelines, SVM, Random Forest, and imbalance-aware evaluation. |
-| [pattern-recognition-from-scratch](https://github.com/Waldo0926/pattern-recognition-from-scratch) | Classical pattern-recognition algorithms implemented from scratch with NumPy: Naive Bayes, Perceptron, Fisher LDA, K-Means, FCM, HMM. |
-| [million-row-tweet-analysis-bash-r](https://github.com/Waldo0926/million-row-tweet-analysis-bash-r) | Streaming analysis of 1.47M tweets using Unix/Bash pipelines, CSV-safe Python parsing, and R aggregation/visualisation. |
-| [animal-expert-system](https://github.com/Waldo0926/animal-expert-system) | Rule-based animal expert system using forward-chaining inference. |
+Implementation-heavy work from algorithms to assembly and modern C++.
 
-**Databases, Robotics & Signal Processing**
+<p align="center">
+  <a href="https://github.com/Waldo0926/classical-algorithms-cpp"><img src="./assets/profile-cards/en/classical-algorithms-cpp.svg?v=1" width="31%" alt="Classical Algorithms C++" /></a>
+  <a href="https://github.com/Waldo0926/data-structures-labs-cpp"><img src="./assets/profile-cards/en/data-structures-labs-cpp.svg?v=1" width="31%" alt="Data Structures Labs C++" /></a>
+  <a href="https://github.com/Waldo0926/bst-record-management-cpp"><img src="./assets/profile-cards/en/bst-record-management-cpp.svg?v=1" width="31%" alt="BST Record Management C++" /></a>
+  <br /><br />
+  <a href="https://github.com/Waldo0926/n-queens-algorithm-visualizer"><img src="./assets/profile-cards/en/n-queens-algorithm-visualizer.svg?v=1" width="31%" alt="N-Queens Algorithm Visualizer" /></a>
+  <a href="https://github.com/Waldo0926/MARIE-Bitmap-Text-Renderer"><img src="./assets/profile-cards/en/marie-bitmap-text-renderer.svg?v=1" width="31%" alt="MARIE Bitmap Text Renderer" /></a>
+  <a href="https://github.com/Waldo0926/c-cpp-programming-foundations"><img src="./assets/profile-cards/en/c-cpp-programming-foundations.svg?v=1" width="31%" alt="C/C++ Programming Foundations" /></a>
+</p>
 
-| Project | What it does |
-| --- | --- |
-| [database-systems-sql-labs](https://github.com/Waldo0926/database-systems-sql-labs) | Database systems labs covering SQL queries, relational design, views, indexes, triggers, stored procedures and cursors. |
-| [digital-signal-processing-matlab](https://github.com/Waldo0926/digital-signal-processing-matlab) | MATLAB DSP experiments: FFT, sampling, windowing, FIR/IIR filtering and vital-sign analysis. |
-| [puma560-robot-trajectory-planning](https://github.com/Waldo0926/puma560-robot-trajectory-planning) | MATLAB simulation of PUMA 560 robot kinematics, Euler-angle transformations and Cartesian trajectory planning. |
+### Data, ML & Analytics
+
+Reproducible machine-learning and data-analysis pipelines.
+
+<p align="center">
+  <a href="https://github.com/Waldo0926/tensorflow-cnn-image-classification"><img src="./assets/profile-cards/en/tensorflow-cnn-image-classification.svg?v=1" width="31%" alt="TensorFlow CNN Classification" /></a>
+  <a href="https://github.com/Waldo0926/student-performance-ml-pipeline"><img src="./assets/profile-cards/en/student-performance-ml-pipeline.svg?v=1" width="31%" alt="Student Performance ML Pipeline" /></a>
+  <a href="https://github.com/Waldo0926/pattern-recognition-from-scratch"><img src="./assets/profile-cards/en/pattern-recognition-from-scratch.svg?v=1" width="31%" alt="Pattern Recognition From Scratch" /></a>
+  <br /><br />
+  <a href="https://github.com/Waldo0926/million-row-tweet-analysis-bash-r"><img src="./assets/profile-cards/en/million-row-tweet-analysis-bash-r.svg?v=1" width="31%" alt="Million-Row Tweet Analysis" /></a>
+  <a href="https://github.com/Waldo0926/animal-expert-system"><img src="./assets/profile-cards/en/animal-expert-system.svg?v=1" width="31%" alt="Animal Expert System" /></a>
+  <img src="./assets/profile-cards/spacer.svg" width="31%" alt="" />
+</p>
+
+### Databases, Robotics & Signal Processing
+
+SQL systems, robotics simulation and digital signal processing.
+
+<p align="center">
+  <a href="https://github.com/Waldo0926/database-systems-sql-labs"><img src="./assets/profile-cards/en/database-systems-sql-labs.svg?v=1" width="31%" alt="Database Systems SQL Labs" /></a>
+  <a href="https://github.com/Waldo0926/digital-signal-processing-matlab"><img src="./assets/profile-cards/en/digital-signal-processing-matlab.svg?v=1" width="31%" alt="Digital Signal Processing MATLAB" /></a>
+  <a href="https://github.com/Waldo0926/puma560-robot-trajectory-planning"><img src="./assets/profile-cards/en/puma560-robot-trajectory-planning.svg?v=1" width="31%" alt="PUMA 560 Trajectory Planning" /></a>
+</p>
+
+</details>
 
 ## Technical Focus
 
