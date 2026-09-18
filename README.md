@@ -1,79 +1,35 @@
 # Hi, I'm Shuoxun Wen 👋
 
-**English** · [中文](README.zh-CN.md)
+**English** · [中文](https://github.com/Waldo0926/Waldo0926/blob/main/README.zh-CN.md)
 
-[![Location](https://img.shields.io/badge/Location-Malaysia-2563eb?style=for-the-badge)](https://github.com/Waldo0926)
-[![QS Ranking](https://img.shields.io/badge/QS_World_Ranking-31st_(2027)-eab308?style=for-the-badge)](https://www.monash.edu.my/study/why/our-world-university-rankings)
-[![University](https://img.shields.io/badge/Monash_University-Computer_Science-7c3aed?style=for-the-badge)](https://www.monash.edu.my/)
-[![Status](https://img.shields.io/badge/Open_to-CS%2FIT_Internships-16a34a?style=for-the-badge)](mailto:wensx0926@gmail.com)
+[![Location](https://img.shields.io/badge/Location-Malaysia-2563eb?style=for-the-badge)](https://github.com/Waldo0926) [![QS Ranking](https://img.shields.io/badge/QS_World_Ranking-31st_(2027)-eab308?style=for-the-badge)](https://www.monash.edu.my/study/why/our-world-university-rankings) [![University](https://img.shields.io/badge/Monash_University-Computer_Science-7c3aed?style=for-the-badge)](https://www.monash.edu.my/) [![Status](https://img.shields.io/badge/Open_to-CS%2FIT_Internships-16a34a?style=for-the-badge)](mailto:wensx0926@gmail.com)
 
 Computer Science student at **Monash University**, specialising in **Algorithms & Software**. I build **backend systems, full-stack products, and infrastructure automation**, with particular interests in **backend engineering, systems engineering, security, networking, and applied algorithms**.
 
 **Malaysia** · **Monash University** (ranked **31st** in the QS World University Rankings 2027) · Open to **Computer Science / IT internship opportunities**, available **November 2026 – February 2027**
 
-📫 **Get in touch**
-[![Email](https://img.shields.io/badge/Email-wensx0926%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:wensx0926@gmail.com)
-[![Monash Email](https://img.shields.io/badge/Email-swen0027%40student.monash.edu-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](mailto:swen0027@student.monash.edu)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B60_17--256_0436-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/60172560436)
-[![WeChat](https://img.shields.io/badge/WeChat-WenSX0926-07C160?style=flat-square&logo=wechat&logoColor=white)](#)
+📫 **Get in touch** [![Email](https://img.shields.io/badge/Email-wensx0926%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:wensx0926@gmail.com) [![Monash Email](https://img.shields.io/badge/Email-swen0027%40student.monash.edu-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](mailto:swen0027@student.monash.edu) [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B60_17--256_0436-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/60172560436) [![WeChat](https://img.shields.io/badge/WeChat-WenSX0926-07C160?style=flat-square&logo=wechat&logoColor=white)](#)
 
 ---
 
 ## Selected Projects
 
-### 🎓 [Monash Hub](https://github.com/Waldo0926/monash-hub)
+[![Monash Hub](assets/selected-en/monash-hub.svg)](https://github.com/Waldo0926/monash-hub)
+[![SecureView](assets/selected-en/secureview.svg)](https://github.com/Waldo0926/SecureView)
+[![Edge Fleet Ops Automation](assets/selected-en/edge-fleet.svg)](https://github.com/Waldo0926/edge-fleet-ops-automation)
 
-A solo-built student information platform that brings together unit search, official-source search, course planning, prerequisite graphs, and WAM/GPA tools.
+[![Enterprise Network Security Architecture](assets/selected-en/netsec.svg)](https://github.com/Waldo0926/enterprise-network-security-architecture)
+[![Monash Exchange Tracker (demo)](assets/selected-en/abroad-tracker.svg)](https://github.com/Waldo0926/monash-abroad-tracker-demo)
+[![Advanced String Algorithms](assets/selected-en/string-algo.svg)](https://github.com/Waldo0926/advanced-string-algorithms)
 
-**FastAPI · PostgreSQL · web crawling · course-planning logic · Docker/Nginx**
-
-**[View the repository](https://github.com/Waldo0926/monash-hub)** · **[Try the live site](https://monashhub.secureview.tech)**
-
-### 🔐 [SecureView](https://github.com/Waldo0926/SecureView)
-
-A secure file encryption and sharing platform developed by a four-person Final Year Project team, using browser-side authenticated encryption, recipient-specific key wrapping, access control, integrity verification, and audit logging.
-
-**Vue 3 · TypeScript · FastAPI · Python · MySQL · applied cryptography · Linux/Nginx**
-
-My work focuses on guarded deployment, integration/E2E testing, security integration, technical documentation, and frontend/backend delivery.
-
-**[View the portfolio repository](https://github.com/Waldo0926/SecureView)** · **[Try the live site](https://secureview.tech)**
-
-*The main team source repository remains private during active university assessment.*
-
-### 🖥️ [Edge Fleet Ops Automation](https://github.com/Waldo0926/edge-fleet-ops-automation)
-
-A sanitized reconstruction of automation built for a real Linux edge-node fleet: control-plane discovery, IPv6 SSH, disk/SMART/NVMe/eMMC health auditing, Docker workload checks, persistent alert state, and conservative operations tooling.
-
-**Python · Linux · IPv6/OpenSSH · Docker · systems automation · pytest**
-
-**[View the repository](https://github.com/Waldo0926/edge-fleet-ops-automation)**
-
-### 🔒 [Enterprise Network Security Architecture](https://github.com/Waldo0926/enterprise-network-security-architecture)
-
-A fictional enterprise network security design expressed as architecture-as-code, covering CIDR-safe VLAN planning, a default-deny firewall policy, DMZ design, 802.1X/enterprise Wi-Fi, VPN remote access, and an automated Python validator that checks the design for internal consistency.
-
-**Python · network security · architecture-as-code · VLAN/CIDR planning · firewall policy · 802.1X**
-
-**[View the repository](https://github.com/Waldo0926/enterprise-network-security-architecture)**
-
-### 🧭 [Monash Exchange Tracker — Demo](https://github.com/Waldo0926/monash-abroad-tracker-demo)
-
-A public, synthetic-data demo of a semester-exchange tracking system I built and operate: scheduled crawling, field-level change detection, historical snapshots, and round-over-round comparison reports used by real partners and applicants.
-
-**Python · web crawling/ETL · change detection · data-privacy design · GitHub Pages**
-
-The production system and its real dataset stay private; this demo reproduces the interaction design and comparison logic on fully synthetic data.
-
-**[View the demo repository](https://github.com/Waldo0926/monash-abroad-tracker-demo)** · **[Try the live demo](https://waldo0926.github.io/monash-abroad-tracker-demo/)**
-
-### 🧵 [Advanced String Algorithms](https://github.com/Waldo0926/advanced-string-algorithms)
-
-A pure-Python implementation portfolio of advanced string algorithms, including Ukkonen suffix trees, BWT-based approximate matching, Z-based exact matching, Rabin-Karp rolling hashes, and Miller-Rabin primality testing.
-
-**Python · Ukkonen suffix trees · BWT · string matching · rolling hash · probabilistic algorithms · pytest**
-
-**[View the repository](https://github.com/Waldo0926/advanced-string-algorithms)**
+| | Live | Notes |
+|---|---|---|
+| **Monash Hub** | [monashhub.secureview.tech](https://monashhub.secureview.tech) | Solo-built: unit search, course planning, prerequisite graphs, WAM/GPA tools. |
+| **SecureView** | [secureview.tech](https://secureview.tech) | Four-person FYP. My part: deployment, integration/E2E testing, security integration, docs. Team source repo stays private during assessment. |
+| **Edge Fleet Ops Automation** | — | Sanitized reconstruction of automation for a real Linux edge-node fleet. |
+| **Enterprise Network Security Architecture** | — | Fictional enterprise design as architecture-as-code, checked by an automated validator. |
+| **Monash Exchange Tracker (demo)** | [live demo](https://waldo0926.github.io/monash-abroad-tracker-demo/) | Public demo on synthetic data. Production system and real dataset stay private. |
+| **Advanced String Algorithms** | — | Ukkonen suffix trees, BWT, Rabin-Karp, Miller-Rabin, all pure Python. |
 
 ## More Projects
 
