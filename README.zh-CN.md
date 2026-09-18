@@ -23,8 +23,8 @@ Monash University马来西亚校区计算机科学专业学生，主修算法与
   <a href="https://github.com/Waldo0926/advanced-string-algorithms"><img src="./assets/profile-cards/zh/string-algo.svg?v=1" width="47%" alt="Advanced String Algorithms" /></a>
 </p>
 
-| | 在线体验 | 说明 |
-|---|---|---|
+| 项目 | 在线体验 | 说明 |
+| :---: | :---: | --- |
 | **Monash Hub** | [monashhub.secureview.tech](https://monashhub.secureview.tech) | 一个人做的学生信息平台，选课查询、选课规划、先修课程图、WAM/GPA 工具。 |
 | **SecureView** | [secureview.tech](https://secureview.tech) | 四人期末项目，我负责部署把关、集成/端到端测试、安全整合和文档。团队主仓库在评估期间保持私有。 |
 | **Edge Fleet Ops Automation** | — | 从真实 Linux 边缘节点集群运维脚本整理出的脱敏重构，涵盖节点发现、健康巡检、Docker 检查和状态化告警。 |
