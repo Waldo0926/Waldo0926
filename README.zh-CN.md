@@ -2,24 +2,41 @@
 
 [English](https://github.com/Waldo0926/Waldo0926/blob/main/README.md) · **中文**
 
-[![Location](https://img.shields.io/badge/Location-Malaysia-2563eb?style=for-the-badge)](https://github.com/Waldo0926) [![QS Ranking](https://img.shields.io/badge/QS_World_Ranking-31st_(2027)-eab308?style=for-the-badge)](https://www.monash.edu.my/study/why/our-world-university-rankings) [![University](https://img.shields.io/badge/Monash_University-Computer_Science-7c3aed?style=for-the-badge)](https://www.monash.edu.my/) [![Status](https://img.shields.io/badge/Open_to-CS%2FIT_Internships-16a34a?style=for-the-badge)](mailto:wensx0926@gmail.com)
+<p align="center">
+  <a href="https://www.monash.edu.my/"><img src="https://img.shields.io/badge/Monash_University-Computer_Science-7c3aed?style=for-the-badge" alt="Monash University - Computer Science" /></a>
+  <a href="https://www.monash.edu.my/study/why/our-world-university-rankings"><img src="https://img.shields.io/badge/QS_World_Ranking-31st_(2027)-eab308?style=for-the-badge" alt="QS World Ranking - 31st (2027)" /></a>
+  <br />
+  <a href="https://github.com/Waldo0926"><img src="https://img.shields.io/badge/Location-Malaysia_%2F_China-2563eb?style=for-the-badge" alt="Location - Malaysia / China" /></a>
+  <a href="mailto:wensx0926@gmail.com"><img src="https://img.shields.io/badge/Open_to-CS%2FIT_Internships-16a34a?style=for-the-badge" alt="Open to CS/IT Internships" /></a>
+</p>
 
 Monash University马来西亚校区计算机科学专业学生，主修算法与软件方向。我平时做全栈产品和软件系统开发，比较关注后端工程、安全、系统工程和应用算法这几块。
 
-**马来西亚** · **Monash University**（QS 世界大学排名 2027 位列**第 31 名**）
+**马来西亚 / 中国** · **Monash University**（QS 世界大学排名 2027 位列**第 31 名**）
 
 目前在找**计算机 / IT 相关实习机会**，时间在 **2026 年 11 月 – 2027 年 2 月**
 
+### 项目方向总览
+
+<p align="center">
+  <img src="./assets/profile-overview/project-landscape-zh.svg?v=1" width="100%" alt="项目方向总览" />
+</p>
+
 📫 **联系方式**
 
-[![Email](https://img.shields.io/badge/Email-wensx0926%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:wensx0926@gmail.com) [![Monash Email](https://img.shields.io/badge/Email-swen0027%40student.monash.edu-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](mailto:swen0027@student.monash.edu)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B60_17--256_0436-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/60172560436) [![WeChat](https://img.shields.io/badge/WeChat-WenSX0926-07C160?style=flat-square&logo=wechat&logoColor=white)](https://u.wechat.com/MF78QB01Ooq7L9GHgP8kzJ4?s=4)
+<p align="center">
+  <a href="mailto:wensx0926@gmail.com"><img src="https://img.shields.io/badge/Email-wensx0926%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:swen0027@student.monash.edu"><img src="https://img.shields.io/badge/Email-swen0027%40student.monash.edu-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Monash Email" /></a>
+  <br />
+  <a href="https://wa.me/60172560436"><img src="https://img.shields.io/badge/WhatsApp-%2B60_17--256_0436-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <a href="https://u.wechat.com/MF78QB01Ooq7L9GHgP8kzJ4?s=4"><img src="https://img.shields.io/badge/WeChat-WenSX0926-07C160?style=flat-square&logo=wechat&logoColor=white" alt="WeChat" /></a>
+</p>
 
 <details>
 <summary><strong>📱 扫码联系</strong></summary>
 <br />
 <p align="center">
-  <img src="./assets/contact/contact-qr.svg" width="720" alt="WhatsApp 和微信二维码" />
+  <img src="./assets/contact/contact-original.webp?v=1" width="760" alt="原始 WhatsApp 和微信联系人图片" />
 </p>
 </details>
 
@@ -59,7 +76,7 @@ Monash University马来西亚校区计算机科学专业学生，主修算法与
 
 <p align="center">
   <a href="https://github.com/Waldo0926/ed-web"><img src="./assets/profile-cards/zh/ed-web.svg?v=2" width="47%" alt="ed-web" /></a>
-  <a href="https://github.com/Waldo0926/monash-attendance-reminder"><img src="./assets/profile-cards/zh/monash-attendance-reminder.svg?v=2" width="47%" alt="Monash Attendance Reminder" /></a>
+  <a href="https://github.com/Waldo0926/monash-attendance-reminder"><img src="./assets/profile-cards/zh/monash-attendance-reminder.svg?v=2" width="47%" alt="monash-attendance-reminder" /></a>
 </p>
 
 ### 软件系统、网络与基础设施
@@ -67,11 +84,11 @@ Monash University马来西亚校区计算机科学专业学生，主修算法与
 覆盖响应式软件、网络、自动化与基础设施的工程项目。
 
 <p align="center">
-  <a href="https://github.com/Waldo0926/streamswitch"><img src="./assets/profile-cards/zh/streamswitch.svg?v=2" width="47%" alt="StreamSwitch" /></a>
-  <a href="https://github.com/Waldo0926/homelab-network-automation"><img src="./assets/profile-cards/zh/homelab-network-automation.svg?v=2" width="47%" alt="Homelab Network Automation" /></a>
+  <a href="https://github.com/Waldo0926/streamswitch"><img src="./assets/profile-cards/zh/streamswitch.svg?v=2" width="47%" alt="streamswitch" /></a>
+  <a href="https://github.com/Waldo0926/homelab-network-automation"><img src="./assets/profile-cards/zh/homelab-network-automation.svg?v=2" width="47%" alt="homelab-network-automation" /></a>
   <br /><br />
-  <a href="https://github.com/Waldo0926/wifi-site-survey-analysis"><img src="./assets/profile-cards/zh/wifi-site-survey-analysis.svg?v=2" width="47%" alt="Wi-Fi Site Survey Analysis" /></a>
-  <a href="https://github.com/Waldo0926/bike-share-visualizer-cpp"><img src="./assets/profile-cards/zh/bike-share-visualizer-cpp.svg?v=2" width="47%" alt="Bike Share Visualizer C++" /></a>
+  <a href="https://github.com/Waldo0926/wifi-site-survey-analysis"><img src="./assets/profile-cards/zh/wifi-site-survey-analysis.svg?v=2" width="47%" alt="wifi-site-survey-analysis" /></a>
+  <a href="https://github.com/Waldo0926/bike-share-visualizer-cpp"><img src="./assets/profile-cards/zh/bike-share-visualizer-cpp.svg?v=2" width="47%" alt="bike-share-visualizer-cpp" /></a>
 </p>
 
 ### 算法、数据结构与底层编程
@@ -79,14 +96,14 @@ Monash University马来西亚校区计算机科学专业学生，主修算法与
 从算法到汇编与现代 C++ 的实现型项目。
 
 <p align="center">
-  <a href="https://github.com/Waldo0926/classical-algorithms-cpp"><img src="./assets/profile-cards/zh/classical-algorithms-cpp.svg?v=2" width="47%" alt="Classical Algorithms C++" /></a>
-  <a href="https://github.com/Waldo0926/data-structures-labs-cpp"><img src="./assets/profile-cards/zh/data-structures-labs-cpp.svg?v=2" width="47%" alt="Data Structures Labs C++" /></a>
+  <a href="https://github.com/Waldo0926/classical-algorithms-cpp"><img src="./assets/profile-cards/zh/classical-algorithms-cpp.svg?v=2" width="47%" alt="classical-algorithms-cpp" /></a>
+  <a href="https://github.com/Waldo0926/data-structures-labs-cpp"><img src="./assets/profile-cards/zh/data-structures-labs-cpp.svg?v=2" width="47%" alt="data-structures-labs-cpp" /></a>
   <br /><br />
-  <a href="https://github.com/Waldo0926/bst-record-management-cpp"><img src="./assets/profile-cards/zh/bst-record-management-cpp.svg?v=2" width="47%" alt="BST Record Management C++" /></a>
-  <a href="https://github.com/Waldo0926/n-queens-algorithm-visualizer"><img src="./assets/profile-cards/zh/n-queens-algorithm-visualizer.svg?v=2" width="47%" alt="N-Queens Algorithm Visualizer" /></a>
+  <a href="https://github.com/Waldo0926/bst-record-management-cpp"><img src="./assets/profile-cards/zh/bst-record-management-cpp.svg?v=2" width="47%" alt="bst-record-management-cpp" /></a>
+  <a href="https://github.com/Waldo0926/n-queens-algorithm-visualizer"><img src="./assets/profile-cards/zh/n-queens-algorithm-visualizer.svg?v=2" width="47%" alt="n-queens-algorithm-visualizer" /></a>
   <br /><br />
-  <a href="https://github.com/Waldo0926/MARIE-Bitmap-Text-Renderer"><img src="./assets/profile-cards/zh/marie-bitmap-text-renderer.svg?v=2" width="47%" alt="MARIE Bitmap Text Renderer" /></a>
-  <a href="https://github.com/Waldo0926/c-cpp-programming-foundations"><img src="./assets/profile-cards/zh/c-cpp-programming-foundations.svg?v=2" width="47%" alt="C/C++ Programming Foundations" /></a>
+  <a href="https://github.com/Waldo0926/MARIE-Bitmap-Text-Renderer"><img src="./assets/profile-cards/zh/marie-bitmap-text-renderer.svg?v=2" width="47%" alt="MARIE-Bitmap-Text-Renderer" /></a>
+  <a href="https://github.com/Waldo0926/c-cpp-programming-foundations"><img src="./assets/profile-cards/zh/c-cpp-programming-foundations.svg?v=2" width="47%" alt="c-cpp-programming-foundations" /></a>
 </p>
 
 ### 数据、机器学习与分析
@@ -94,13 +111,13 @@ Monash University马来西亚校区计算机科学专业学生，主修算法与
 强调可复现评估的数据分析与机器学习项目。
 
 <p align="center">
-  <a href="https://github.com/Waldo0926/tensorflow-cnn-image-classification"><img src="./assets/profile-cards/zh/tensorflow-cnn-image-classification.svg?v=2" width="47%" alt="TensorFlow CNN Classification" /></a>
-  <a href="https://github.com/Waldo0926/student-performance-ml-pipeline"><img src="./assets/profile-cards/zh/student-performance-ml-pipeline.svg?v=2" width="47%" alt="Student Performance ML Pipeline" /></a>
+  <a href="https://github.com/Waldo0926/tensorflow-cnn-image-classification"><img src="./assets/profile-cards/zh/tensorflow-cnn-image-classification.svg?v=2" width="47%" alt="tensorflow-cnn-image-classification" /></a>
+  <a href="https://github.com/Waldo0926/student-performance-ml-pipeline"><img src="./assets/profile-cards/zh/student-performance-ml-pipeline.svg?v=2" width="47%" alt="student-performance-ml-pipeline" /></a>
   <br /><br />
-  <a href="https://github.com/Waldo0926/pattern-recognition-from-scratch"><img src="./assets/profile-cards/zh/pattern-recognition-from-scratch.svg?v=2" width="47%" alt="Pattern Recognition From Scratch" /></a>
-  <a href="https://github.com/Waldo0926/million-row-tweet-analysis-bash-r"><img src="./assets/profile-cards/zh/million-row-tweet-analysis-bash-r.svg?v=2" width="47%" alt="Million-Row Tweet Analysis" /></a>
+  <a href="https://github.com/Waldo0926/pattern-recognition-from-scratch"><img src="./assets/profile-cards/zh/pattern-recognition-from-scratch.svg?v=2" width="47%" alt="pattern-recognition-from-scratch" /></a>
+  <a href="https://github.com/Waldo0926/million-row-tweet-analysis-bash-r"><img src="./assets/profile-cards/zh/million-row-tweet-analysis-bash-r.svg?v=2" width="47%" alt="million-row-tweet-analysis-bash-r" /></a>
   <br /><br />
-  <a href="https://github.com/Waldo0926/animal-expert-system"><img src="./assets/profile-cards/zh/animal-expert-system.svg?v=2" width="47%" alt="Animal Expert System" /></a>
+  <a href="https://github.com/Waldo0926/animal-expert-system"><img src="./assets/profile-cards/zh/animal-expert-system.svg?v=2" width="47%" alt="animal-expert-system" /></a>
   <img src="./assets/profile-cards/spacer.svg" width="47%" alt="" />
 </p>
 
@@ -109,10 +126,10 @@ Monash University马来西亚校区计算机科学专业学生，主修算法与
 数据库系统、机器人仿真与数字信号处理项目。
 
 <p align="center">
-  <a href="https://github.com/Waldo0926/database-systems-sql-labs"><img src="./assets/profile-cards/zh/database-systems-sql-labs.svg?v=2" width="47%" alt="Database Systems SQL Labs" /></a>
-  <a href="https://github.com/Waldo0926/digital-signal-processing-matlab"><img src="./assets/profile-cards/zh/digital-signal-processing-matlab.svg?v=2" width="47%" alt="Digital Signal Processing MATLAB" /></a>
+  <a href="https://github.com/Waldo0926/database-systems-sql-labs"><img src="./assets/profile-cards/zh/database-systems-sql-labs.svg?v=2" width="47%" alt="database-systems-sql-labs" /></a>
+  <a href="https://github.com/Waldo0926/digital-signal-processing-matlab"><img src="./assets/profile-cards/zh/digital-signal-processing-matlab.svg?v=2" width="47%" alt="digital-signal-processing-matlab" /></a>
   <br /><br />
-  <a href="https://github.com/Waldo0926/puma560-robot-trajectory-planning"><img src="./assets/profile-cards/zh/puma560-robot-trajectory-planning.svg?v=2" width="47%" alt="PUMA 560 Trajectory Planning" /></a>
+  <a href="https://github.com/Waldo0926/puma560-robot-trajectory-planning"><img src="./assets/profile-cards/zh/puma560-robot-trajectory-planning.svg?v=2" width="47%" alt="puma560-robot-trajectory-planning" /></a>
   <img src="./assets/profile-cards/spacer.svg" width="47%" alt="" />
 </p>
 
@@ -170,5 +187,7 @@ Monash University马来西亚校区计算机科学专业学生，主修算法与
 ## 作品集说明
 
 有几个仓库是在重做我本科早期的课程项目。遇到这种情况，我会把项目的历史记录保留清楚，把原本的课程作业和后来的重构、测试、文档、工程改进部分区分开。
+
+另外有一些仓库是从真实私有环境中脱敏重构出来的公开展示版本；会保留工程思路，但不会公开凭据、私有拓扑、运营标识或生产环境细节。
 
 **[查看全部仓库 →](https://github.com/Waldo0926?tab=repositories)**
