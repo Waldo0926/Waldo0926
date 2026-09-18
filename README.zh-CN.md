@@ -1,114 +1,68 @@
 # 你好，我是 Shuoxun Wen 👋
 
-[English](README.md) · **中文**
+[English](https://github.com/Waldo0926/Waldo0926/blob/main/README.md) · **中文**
 
-[![Location](https://img.shields.io/badge/Location-Malaysia-2563eb?style=for-the-badge)](https://github.com/Waldo0926)
-[![QS Ranking](https://img.shields.io/badge/QS_World_Ranking-31st_(2027)-eab308?style=for-the-badge)](https://www.monash.edu.my/study/why/our-world-university-rankings)
-[![University](https://img.shields.io/badge/Monash_University-Computer_Science-7c3aed?style=for-the-badge)](https://www.monash.edu.my/)
-[![Status](https://img.shields.io/badge/Open_to-CS%2FIT_Internships-16a34a?style=for-the-badge)](mailto:wensx0926@gmail.com)
+[![Location](https://img.shields.io/badge/Location-Malaysia-2563eb?style=for-the-badge)](https://github.com/Waldo0926) [![QS Ranking](https://img.shields.io/badge/QS_World_Ranking-31st_(2027)-eab308?style=for-the-badge)](https://www.monash.edu.my/study/why/our-world-university-rankings) [![University](https://img.shields.io/badge/Monash_University-Computer_Science-7c3aed?style=for-the-badge)](https://www.monash.edu.my/) [![Status](https://img.shields.io/badge/Open_to-CS%2FIT_Internships-16a34a?style=for-the-badge)](mailto:wensx0926@gmail.com)
 
-Monash University 马来西亚校区计算机科学专业学生，主修**算法与软件**方向。我主要做**后端系统、全栈产品和基础设施自动化**，比较关注**后端工程、系统工程、安全、网络与应用算法**。
+Monash University马来西亚校区计算机科学专业学生，主修算法与软件方向。我平时做全栈产品和软件系统开发，比较关注后端工程、安全、系统工程和应用算法这几块。
 
 **马来西亚** · **Monash University**（QS 世界大学排名 2027 位列**第 31 名**）· 目前在找**计算机 / IT 相关实习机会**，时间在 **2026 年 11 月 – 2027 年 2 月**
-
-📫 **联系方式**
-[![Email](https://img.shields.io/badge/Email-wensx0926%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:wensx0926@gmail.com)
-[![Monash Email](https://img.shields.io/badge/Email-swen0027%40student.monash.edu-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](mailto:swen0027@student.monash.edu)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B60_17--256_0436-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/60172560436)
-[![WeChat](https://img.shields.io/badge/WeChat-WenSX0926-07C160?style=flat-square&logo=wechat&logoColor=white)](#)
 
 ---
 
 ## 精选项目
 
-### 🎓 [Monash Hub](https://github.com/Waldo0926/monash-hub)
+[![Monash Hub](assets/selected-zh/monash-hub.svg)](https://github.com/Waldo0926/monash-hub)
+[![SecureView](assets/selected-zh/secureview.svg)](https://github.com/Waldo0926/SecureView)
+[![StreamSwitch](assets/selected-zh/streamswitch.svg)](https://github.com/Waldo0926/streamswitch)
 
-一个我独立开发的学生信息平台，把选课查询、官方资料检索、选课规划、先修课程关系图和 WAM/GPA 工具整合在一起。
+[![Monash Exchange Tracker（演示版）](assets/selected-zh/abroad-tracker.svg)](https://github.com/Waldo0926/monash-abroad-tracker-demo)
+[![Advanced String Algorithms](assets/selected-zh/string-algo.svg)](https://github.com/Waldo0926/advanced-string-algorithms)
+[![Enterprise Network Security Architecture](assets/selected-zh/netsec.svg)](https://github.com/Waldo0926/enterprise-network-security-architecture)
 
-**FastAPI · PostgreSQL · 网页爬取 · 选课规划逻辑 · Docker/Nginx**
-
-**[查看仓库](https://github.com/Waldo0926/monash-hub)** · **[访问在线站点](https://monashhub.secureview.tech)**
-
-### 🔐 [SecureView](https://github.com/Waldo0926/SecureView)
-
-一个由四人 Final Year Project 团队共同开发的安全文件加密与分享平台，包含浏览器端认证加密、按接收者分发密钥、访问控制、完整性校验和审计日志。
-
-**Vue 3 · TypeScript · FastAPI · Python · MySQL · 应用密码学 · Linux/Nginx**
-
-我主要负责部署流程把关、集成/E2E 测试、安全相关功能整合、技术文档，以及前后端交付工作。
-
-**[查看作品集仓库](https://github.com/Waldo0926/SecureView)** · **[访问在线站点](https://secureview.tech)**
-
-*团队主源码仓库在学校评估期间保持私有。*
-
-### 🖥️ [Edge Fleet Ops Automation](https://github.com/Waldo0926/edge-fleet-ops-automation)
-
-一套从真实 Linux 边缘节点集群运维脚本整理而来的脱敏作品集：包括 control-plane 节点发现、IPv6 SSH、磁盘/SMART/NVMe/eMMC 健康巡检、Docker 工作负载检查、持久化告警状态和保守型运维操作。
-
-**Python · Linux · IPv6/OpenSSH · Docker · 系统自动化 · pytest**
-
-**[查看仓库](https://github.com/Waldo0926/edge-fleet-ops-automation)**
-
-### 🔒 [Enterprise Network Security Architecture](https://github.com/Waldo0926/enterprise-network-security-architecture)
-
-一个以 architecture-as-code 方式呈现的虚构企业网络安全设计，涵盖 CIDR 安全的 VLAN 规划、默认拒绝防火墙策略、DMZ 设计、802.1X 企业级 Wi-Fi、VPN 远程接入，并配有 Python 自动校验器检查设计的内部一致性。
-
-**Python · 网络安全 · Architecture-as-Code · VLAN/CIDR 规划 · 防火墙策略 · 802.1X**
-
-**[查看仓库](https://github.com/Waldo0926/enterprise-network-security-architecture)**
-
-### 🧭 [Monash Exchange Tracker — Demo](https://github.com/Waldo0926/monash-abroad-tracker-demo)
-
-一个交换项目追踪系统的公开演示（数据完全虚构），这套系统由我自己搭建并持续运营：定时抓取、字段级变化检测、历史快照，以及面向真实合作方和申请者的轮次对比报告。
-
-**Python · 网页爬取/ETL · 变化检测 · 数据隐私设计 · GitHub Pages**
-
-生产版本和真实数据保持私有；这份演示用完全虚构的数据复刻交互设计和对比逻辑。
-
-**[查看演示仓库](https://github.com/Waldo0926/monash-abroad-tracker-demo)** · **[访问在线演示](https://waldo0926.github.io/monash-abroad-tracker-demo/)**
-
-### 🧵 [Advanced String Algorithms](https://github.com/Waldo0926/advanced-string-algorithms)
-
-一个纯 Python 实现的高级字符串算法作品集，涵盖 Ukkonen 后缀树、基于 BWT 的近似匹配、基于 Z 算法的精确匹配、Rabin-Karp 滚动哈希，以及 Miller-Rabin 素性测试。
-
-**Python · Ukkonen 后缀树 · BWT · 字符串匹配 · 滚动哈希 · 概率算法 · pytest**
-
-**[查看仓库](https://github.com/Waldo0926/advanced-string-algorithms)**
+| | 在线体验 | 说明 |
+|---|---|---|
+| **Monash Hub** | [monashhub.secureview.tech](https://monashhub.secureview.tech) | 一个人做的学生信息平台，选课查询、选课规划、先修课程图、WAM/GPA 工具。 |
+| **SecureView** | [secureview.tech](https://secureview.tech) | 四人期末项目，我负责部署把关、集成/端到端测试、安全整合和文档。团队主仓库在评估期间保持私有。 |
+| **StreamSwitch** | — | 基于 RxJS 的数据包路由小游戏，练不可变状态和确定性模拟。 |
+| **Monash Exchange Tracker（演示版）** | [在线演示](https://waldo0926.github.io/monash-abroad-tracker-demo/) | 用虚构数据搭建的公开演示，生产系统和真实数据保持私有。 |
+| **Advanced String Algorithms** | — | Ukkonen 后缀树、BWT、Rabin-Karp、Miller-Rabin，纯 Python 实现。 |
+| **Enterprise Network Security Architecture** | — | 虚构企业的网络安全架构，写成 architecture-as-code，靠 CI 自动校验。 |
 
 ## 更多项目
 
-以下是其他课程重构类和独立开发项目，按方向重新整理。上面已经作为精选项目展示的仓库不会在这里重复列出。
+其余的课程作业类和独立项目，按方向分了组。上面精选里出现过的项目这里就不重复了。
 
-**学生工具 & Web 工具**
+**学生工具与网页应用**
 
-| 项目 | 简介 |
+| 项目 | 做的是什么 |
 | --- | --- |
 | [ed-web](https://github.com/Waldo0926/ed-web) | 隐私优先的纯前端 Ed Discussion 工具，用于抓取、整理、搜索和总结课程论坛。 |
-| [monash-attendance-reminder](https://github.com/Waldo0926/monash-attendance-reminder) | 跨平台 Chrome 扩展：自动发现 Monash Attendance 近期课程，从 Gmail、Moodle 与 Ed（含本地 OCR）查找签到码、发送提醒，并仅在本人明确确认后提交。 |
+| [monash-attendance-reminder](https://github.com/Waldo0926/monash-attendance-reminder) | 可配置的 Monash 签到助手：自动发现近期课程，从 Gmail、Moodle 与 Ed（含本地 OCR）查找签到码、发送提醒，并仅在本人确认后提交。 |
 
 **软件系统、网络与基础设施**
 
-| 项目 | 简介 |
+| 项目 | 做的是什么 |
 | --- | --- |
-| [streamswitch](https://github.com/Waldo0926/streamswitch) | 基于 RxJS 的数据包路由小游戏，展示不可变状态、带类型的事件流、确定性模拟和可测试的函数式响应式架构。 |
-| [homelab-network-automation](https://github.com/Waldo0926/homelab-network-automation) | 从真实 iKuai Homelab 自动化脚本整理出的公开作品集，涵盖路由器 API、带多重保护的连接清理、WAN/PPPoE/LAN 监控与状态化异常/恢复跟踪。 |
-| [wifi-site-survey-analysis](https://github.com/Waldo0926/wifi-site-survey-analysis) | 隐私安全的 Wi-Fi 现场勘测分析：RSSI、信道使用与物理 AP 去重漫游分析。 |
-| [bike-share-visualizer-cpp](https://github.com/Waldo0926/bike-share-visualizer-cpp) | 将早期 MFC 共享单车站点可视化课程项目重构为带真实数据测试与跨平台 CI 的现代 C++17 实现。 |
+| [streamswitch](https://github.com/Waldo0926/streamswitch) | 基于 RxJS 的响应式数据包路由小游戏，使用不可变状态、确定性模拟与可测试事件流实现。 |
+| [homelab-network-automation](https://github.com/Waldo0926/homelab-network-automation) | 基于爱快 API 的家庭实验室网络监控与连接自动化工具。 |
+| [wifi-site-survey-analysis](https://github.com/Waldo0926/wifi-site-survey-analysis) | 隐私安全的 Wi-Fi 现场勘测分析：RSSI、信道使用、物理 AP 去重漫游分析与可复现 Python 可视化。 |
+| [bike-share-visualizer-cpp](https://github.com/Waldo0926/bike-share-visualizer-cpp) | 将2021年课程设计中基于MFC的共享单车站点可视化程序，重构为带真实数据测试与跨平台CI的现代C++17实现。 |
 
 **算法、数据结构与底层编程**
 
-| 项目 | 简介 |
+| 项目 | 做的是什么 |
 | --- | --- |
-| [classical-algorithms-cpp](https://github.com/Waldo0926/classical-algorithms-cpp) | C++ 经典算法：动态规划、回溯、分支限界、分治与遗传算法。 |
-| [data-structures-labs-cpp](https://github.com/Waldo0926/data-structures-labs-cpp) | 现代 C++17 数据结构实现，涵盖栈、队列、树、哈夫曼编码、图与排序。 |
-| [bst-record-management-cpp](https://github.com/Waldo0926/bst-record-management-cpp) | 现代 C++17 二叉搜索树信息管理系统，包含 CRUD、持久化、RAII、测试与 CI。 |
-| [n-queens-algorithm-visualizer](https://github.com/Waldo0926/n-queens-algorithm-visualizer) | N 皇后算法可视化：回溯、状态空间剪枝与爬山算法。 |
-| [MARIE-Bitmap-Text-Renderer](https://github.com/Waldo0926/MARIE-Bitmap-Text-Renderer) | MARIE 汇编位图渲染器：间接寻址、指针运算、4×8 字体与内存映射显示。 |
+| [classical-algorithms-cpp](https://github.com/Waldo0926/classical-algorithms-cpp) | C++经典算法：动态规划、回溯、分支限界、分治与遗传算法。 |
+| [data-structures-labs-cpp](https://github.com/Waldo0926/data-structures-labs-cpp) | 基于早期 C 风格数据结构课程实验重构的现代 C++17 实现，涵盖栈、队列、树、哈夫曼编码、图与排序。 |
+| [bst-record-management-cpp](https://github.com/Waldo0926/bst-record-management-cpp) | 由早期数据结构课程设计重构的现代 C++17 二叉搜索树信息管理系统。 |
+| [n-queens-algorithm-visualizer](https://github.com/Waldo0926/n-queens-algorithm-visualizer) | N皇后算法可视化：回溯、状态空间剪枝与爬山算法对比。 |
+| [MARIE-Bitmap-Text-Renderer](https://github.com/Waldo0926/MARIE-Bitmap-Text-Renderer) | MARIE 汇编位图渲染器：间接寻址、指针运算、4×8 字体、内存映射显示与 Python 参考模型。 |
 | [c-cpp-programming-foundations](https://github.com/Waldo0926/c-cpp-programming-foundations) | C/C++ 编程基础、程序调试练习与 CCF CSP 历年题实践。 |
 
 **数据、机器学习与分析**
 
-| 项目 | 简介 |
+| 项目 | 做的是什么 |
 | --- | --- |
 | [tensorflow-cnn-image-classification](https://github.com/Waldo0926/tensorflow-cnn-image-classification) | 基于 TensorFlow/Keras 的 CIFAR-10 与 MNIST CNN 可复现实验、自动评估与模型结构对比。 |
 | [student-performance-ml-pipeline](https://github.com/Waldo0926/student-performance-ml-pipeline) | 基于 scikit-learn 的学生成绩分类：避免数据泄漏，涵盖 SVM、随机森林、超参数调优与类别不平衡评估。 |
@@ -118,20 +72,18 @@ Monash University 马来西亚校区计算机科学专业学生，主修**算法
 
 **数据库、机器人与信号处理**
 
-| 项目 | 简介 |
+| 项目 | 做的是什么 |
 | --- | --- |
-| [database-systems-sql-labs](https://github.com/Waldo0926/database-systems-sql-labs) | 数据库系统课程实验：SQL 查询、关系设计、视图、索引、触发器、存储过程与游标。 |
+| [database-systems-sql-labs](https://github.com/Waldo0926/database-systems-sql-labs) | 数据库系统课程实验与 T-SQL 实践，涵盖查询、关系设计、视图、索引、触发器与存储过程。 |
 | [digital-signal-processing-matlab](https://github.com/Waldo0926/digital-signal-processing-matlab) | MATLAB 数字信号处理实验：FFT、采样、窗函数、FIR/IIR 滤波与生命体征分析。 |
 | [puma560-robot-trajectory-planning](https://github.com/Waldo0926/puma560-robot-trajectory-planning) | 基于 MATLAB 的 PUMA 560 机器人运动学、欧拉角变换与笛卡尔轨迹规划仿真。 |
 
 ## 技术方向
 
-`Python` · `TypeScript` · `C++` · `FastAPI` · `Vue` · `PostgreSQL` · `MySQL` · `Docker` · `Linux` · `Nginx` · `RxJS` · `SSH` · `网络自动化` · `基础设施自动化` · `GitHub Actions`
+`Python` · `TypeScript` · `C++` · `FastAPI` · `Vue` · `PostgreSQL` · `MySQL` · `Docker` · `Linux` · `Nginx` · `RxJS` · `网络安全` · `GitHub Actions`
 
 ## 作品集说明
 
-部分仓库来自我本科早期课程项目的重新整理。遇到这类项目，我会明确保留项目来源，并区分原始课程内容与后续完成的重构、测试、文档和工程化改进。
-
-另外一些仓库是曾经运行在私有环境中的系统经过脱敏后的公开重构版本。这类项目会保留核心工程思路，但主动移除凭据、私有拓扑、运维标识和生产环境专用信息。
+有几个仓库是在重做我本科早期的课程项目。遇到这种情况，我会把项目的历史记录保留清楚，把原本的课程作业和后来的重构、测试、文档、工程改进部分区分开。
 
 **[查看全部仓库 →](https://github.com/Waldo0926?tab=repositories)**
