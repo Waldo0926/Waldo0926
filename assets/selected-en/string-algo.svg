@@ -1,0 +1,9 @@
+<svg width="372" height="196" viewBox="0 0 372 196" xmlns="http://www.w3.org/2000/svg">
+  <rect x="1.25" y="1.25" width="369.5" height="193.5" rx="14" fill="#a06914" fill-opacity="0.07" stroke="#1c2420" stroke-width="1.5"/>
+  <text x="22" y="28" font-family="IBM Plex Mono, Consolas, monospace" font-size="12.5" font-weight="700" fill="#a06914">Python · Algorithms</text>
+  <text x="22" y="46" font-family="IBM Plex Sans, -apple-system, PingFang SC, Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="18" font-weight="700" fill="#1c2420">Advanced String</text><text x="22" y="71" font-family="IBM Plex Sans, -apple-system, PingFang SC, Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="18" font-weight="700" fill="#1c2420">Algorithms</text>
+  <text x="22" y="102" font-family="IBM Plex Sans, -apple-system, PingFang SC, Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="13.5" fill="#4c5952">Suffix trees, BWT, rolling hash and</text><text x="22" y="121" font-family="IBM Plex Sans, -apple-system, PingFang SC, Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="13.5" fill="#4c5952">primality tests, in pure Python.</text>
+  <rect x="18" y="132" width="273.4" height="24" rx="6" fill="#a06914" fill-opacity="0.14"/>
+  <text x="24" y="148" font-family="IBM Plex Mono, Consolas, monospace" font-size="12.5" font-weight="600" fill="#a06914">textbook algorithms -&gt; benchmarked code</text>
+  <text x="350" y="176" font-family="IBM Plex Mono, Consolas, monospace" font-size="12.5" font-weight="700" fill="#a06914" text-anchor="end">OPEN ↗</text>
+</svg>

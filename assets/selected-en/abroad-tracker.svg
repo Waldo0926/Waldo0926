@@ -1,0 +1,9 @@
+<svg width="372" height="196" viewBox="0 0 372 196" xmlns="http://www.w3.org/2000/svg">
+  <rect x="1.25" y="1.25" width="369.5" height="193.5" rx="14" fill="#7048b8" fill-opacity="0.07" stroke="#1c2420" stroke-width="1.5"/>
+  <text x="22" y="28" font-family="IBM Plex Mono, Consolas, monospace" font-size="12.5" font-weight="700" fill="#7048b8">Python · ETL · Privacy</text>
+  <text x="22" y="46" font-family="IBM Plex Sans, -apple-system, PingFang SC, Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="18" font-weight="700" fill="#1c2420">Monash Exchange Tracker</text><text x="22" y="71" font-family="IBM Plex Sans, -apple-system, PingFang SC, Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="18" font-weight="700" fill="#1c2420">(demo)</text>
+  <text x="22" y="102" font-family="IBM Plex Sans, -apple-system, PingFang SC, Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="13.5" fill="#4c5952">Public demo of a real exchange tracker,</text><text x="22" y="121" font-family="IBM Plex Sans, -apple-system, PingFang SC, Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="13.5" fill="#4c5952">rebuilt on fully synthetic data.</text>
+  <rect x="18" y="132" width="260.2" height="24" rx="6" fill="#7048b8" fill-opacity="0.14"/>
+  <text x="24" y="148" font-family="IBM Plex Mono, Consolas, monospace" font-size="12.5" font-weight="600" fill="#7048b8">real tracker -&gt; synthetic public demo</text>
+  <text x="350" y="176" font-family="IBM Plex Mono, Consolas, monospace" font-size="12.5" font-weight="700" fill="#7048b8" text-anchor="end">OPEN ↗</text>
+</svg>
