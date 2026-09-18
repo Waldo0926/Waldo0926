@@ -25,8 +25,8 @@ Computer Science student at **Monash University**, specialising in **Algorithms 
   <a href="https://github.com/Waldo0926/advanced-string-algorithms"><img src="./assets/profile-cards/en/string-algo.svg?v=1" width="47%" alt="Advanced String Algorithms" /></a>
 </p>
 
-| | Live | Notes |
-|---|---|---|
+| Project | Live | Notes |
+| :---: | :---: | --- |
 | **Monash Hub** | [monashhub.secureview.tech](https://monashhub.secureview.tech) | Solo-built: unit search, course planning, prerequisite graphs, WAM/GPA tools. |
 | **SecureView** | [secureview.tech](https://secureview.tech) | Four-person FYP. My part: deployment, integration/E2E testing, security integration, docs. Team source repo stays private during assessment. |
 | **Edge Fleet Ops Automation** | — | Sanitized reconstruction of automation for a real Linux edge-node fleet. |
