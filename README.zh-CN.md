@@ -14,20 +14,21 @@ Monash University马来西亚校区计算机科学专业学生，主修算法与
 
 [![Monash Hub](assets/selected-zh/monash-hub.svg)](https://github.com/Waldo0926/monash-hub)
 [![SecureView](assets/selected-zh/secureview.svg)](https://github.com/Waldo0926/SecureView)
-[![StreamSwitch](assets/selected-zh/streamswitch.svg)](https://github.com/Waldo0926/streamswitch)
+
+[![Edge Fleet Ops Automation](assets/selected-zh/edge-fleet.svg)](https://github.com/Waldo0926/edge-fleet-ops-automation)
+[![Enterprise Network Security Architecture](assets/selected-zh/netsec.svg)](https://github.com/Waldo0926/enterprise-network-security-architecture)
 
 [![Monash Exchange Tracker（演示版）](assets/selected-zh/abroad-tracker.svg)](https://github.com/Waldo0926/monash-abroad-tracker-demo)
 [![Advanced String Algorithms](assets/selected-zh/string-algo.svg)](https://github.com/Waldo0926/advanced-string-algorithms)
-[![Enterprise Network Security Architecture](assets/selected-zh/netsec.svg)](https://github.com/Waldo0926/enterprise-network-security-architecture)
 
 | | 在线体验 | 说明 |
 |---|---|---|
 | **Monash Hub** | [monashhub.secureview.tech](https://monashhub.secureview.tech) | 一个人做的学生信息平台，选课查询、选课规划、先修课程图、WAM/GPA 工具。 |
 | **SecureView** | [secureview.tech](https://secureview.tech) | 四人期末项目，我负责部署把关、集成/端到端测试、安全整合和文档。团队主仓库在评估期间保持私有。 |
-| **StreamSwitch** | — | 基于 RxJS 的数据包路由小游戏，练不可变状态和确定性模拟。 |
+| **Edge Fleet Ops Automation** | — | 从真实 Linux 边缘节点集群运维脚本整理出的脱敏重构，涵盖节点发现、健康巡检、Docker 检查和状态化告警。 |
+| **Enterprise Network Security Architecture** | — | 虚构企业的网络安全架构，写成 architecture-as-code，靠 CI 自动校验。 |
 | **Monash Exchange Tracker（演示版）** | [在线演示](https://waldo0926.github.io/monash-abroad-tracker-demo/) | 用虚构数据搭建的公开演示，生产系统和真实数据保持私有。 |
 | **Advanced String Algorithms** | — | Ukkonen 后缀树、BWT、Rabin-Karp、Miller-Rabin，纯 Python 实现。 |
-| **Enterprise Network Security Architecture** | — | 虚构企业的网络安全架构，写成 architecture-as-code，靠 CI 自动校验。 |
 
 ## 更多项目
 
