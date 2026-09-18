@@ -6,9 +6,14 @@
 
 Computer Science student at **Monash University**, specialising in **Algorithms & Software**. I build **backend systems, full-stack products, and infrastructure automation**, with particular interests in **backend engineering, systems engineering, security, networking, and applied algorithms**.
 
-**Malaysia** · **Monash University** (ranked **31st** in the QS World University Rankings 2027) · Open to **Computer Science / IT internship opportunities**, available **November 2026 – February 2027**
+**Malaysia** · **Monash University** (ranked **31st** in the QS World University Rankings 2027)
 
-📫 **Get in touch** [![Email](https://img.shields.io/badge/Email-wensx0926%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:wensx0926@gmail.com) [![Monash Email](https://img.shields.io/badge/Email-swen0027%40student.monash.edu-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](mailto:swen0027@student.monash.edu) [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B60_17--256_0436-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/60172560436) [![WeChat](https://img.shields.io/badge/WeChat-WenSX0926-07C160?style=flat-square&logo=wechat&logoColor=white)](#)
+Open to **Computer Science / IT internship opportunities**, available **November 2026 – February 2027**
+
+📫 **Get in touch**
+
+[![Email](https://img.shields.io/badge/Email-wensx0926%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:wensx0926@gmail.com) [![Monash Email](https://img.shields.io/badge/Email-swen0027%40student.monash.edu-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](mailto:swen0027@student.monash.edu)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B60_17--256_0436-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/60172560436) [![WeChat](https://img.shields.io/badge/WeChat-WenSX0926-07C160?style=flat-square&logo=wechat&logoColor=white)](#)
 
 ---
 
