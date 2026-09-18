@@ -16,9 +16,10 @@ Computer Science student at **Monash University**, specialising in **Algorithms 
 
 [![Monash Hub](assets/selected-en/monash-hub.svg)](https://github.com/Waldo0926/monash-hub)
 [![SecureView](assets/selected-en/secureview.svg)](https://github.com/Waldo0926/SecureView)
-[![Edge Fleet Ops Automation](assets/selected-en/edge-fleet.svg)](https://github.com/Waldo0926/edge-fleet-ops-automation)
 
+[![Edge Fleet Ops Automation](assets/selected-en/edge-fleet.svg)](https://github.com/Waldo0926/edge-fleet-ops-automation)
 [![Enterprise Network Security Architecture](assets/selected-en/netsec.svg)](https://github.com/Waldo0926/enterprise-network-security-architecture)
+
 [![Monash Exchange Tracker (demo)](assets/selected-en/abroad-tracker.svg)](https://github.com/Waldo0926/monash-abroad-tracker-demo)
 [![Advanced String Algorithms](assets/selected-en/string-algo.svg)](https://github.com/Waldo0926/advanced-string-algorithms)
 
