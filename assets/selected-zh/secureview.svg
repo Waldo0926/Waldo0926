@@ -1,0 +1,9 @@
+<svg width="372" height="196" viewBox="0 0 372 196" xmlns="http://www.w3.org/2000/svg">
+  <rect x="1.25" y="1.25" width="369.5" height="193.5" rx="14" fill="#b23a48" fill-opacity="0.07" stroke="#1c2420" stroke-width="1.5"/>
+  <text x="22" y="28" font-family="IBM Plex Sans, -apple-system, PingFang SC, Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="12.5" font-weight="700" fill="#b23a48">Vue 3 · FastAPI · Crypto</text>
+  <text x="22" y="46" font-family="IBM Plex Sans, -apple-system, PingFang SC, Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="21" font-weight="700" fill="#1c2420">SecureView</text>
+  <text x="22" y="77" font-family="IBM Plex Sans, -apple-system, PingFang SC, Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="13.5" fill="#4c5952">四人期末项目：带访问控制和审计日志的加</text><text x="22" y="96" font-family="IBM Plex Sans, -apple-system, PingFang SC, Microsoft YaHei, Noto Sans CJK SC, Arial, sans-serif" font-size="13.5" fill="#4c5952">密文件分享平台。</text>
+  <rect x="18" y="132" width="170.79999999999998" height="24" rx="6" fill="#b23a48" fill-opacity="0.14"/>
+  <text x="24" y="148" font-family="IBM Plex Mono, PingFang SC, Microsoft YaHei, Noto Sans CJK SC, Consolas, monospace" font-size="12.5" font-weight="600" fill="#b23a48">四人期末项目 -&gt; 加密分享，已上线</text>
+  <text x="350" y="176" font-family="IBM Plex Mono, PingFang SC, Microsoft YaHei, Noto Sans CJK SC, Consolas, monospace" font-size="12.5" font-weight="700" fill="#b23a48" text-anchor="end">OPEN ↗</text>
+</svg>
