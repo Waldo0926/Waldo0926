@@ -36,7 +36,7 @@ Monash University马来西亚校区计算机科学专业学生，主修算法与
 <summary><strong>📱 扫码联系</strong></summary>
 <br />
 <p align="center">
-  <img src="./assets/contact/contact-original.webp?v=1" width="760" alt="原始 WhatsApp 和微信联系人图片" />
+  <img src="./assets/contact/contact-original.webp?v=2" width="760" alt="原始 WhatsApp 和微信联系人图片" />
 </p>
 </details>
 
