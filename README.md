@@ -36,7 +36,7 @@ Open to **Computer Science / IT internship opportunities**, available **November
 <summary><strong>📱 Scan to connect</strong></summary>
 <br />
 <p align="center">
-  <img src="./assets/contact/contact-original.webp?v=1" width="760" alt="Original WhatsApp and WeChat contact images" />
+  <img src="./assets/contact/contact-original.webp?v=2" width="760" alt="Original WhatsApp and WeChat contact images" />
 </p>
 </details>
 
