@@ -77,6 +77,9 @@ Tools that turn recurring student workflows into usable software.
 <p align="center">
   <a href="https://github.com/Waldo0926/ed-web"><img src="./assets/profile-cards/en/ed-web.svg?v=2" width="47%" alt="ed-web" /></a>
   <a href="https://github.com/Waldo0926/monash-attendance-reminder"><img src="./assets/profile-cards/en/monash-attendance-reminder.svg?v=2" width="47%" alt="monash-attendance-reminder" /></a>
+  <br /><br />
+  <a href="https://github.com/Waldo0926/monash-study-kit"><img src="./assets/profile-cards/en/monash-study-kit.svg?v=1" width="47%" alt="monash-study-kit" /></a>
+  <img src="./assets/profile-cards/spacer.svg" width="47%" alt="" />
 </p>
 
 ### Software Systems, Networking & Infrastructure
@@ -141,6 +144,7 @@ SQL systems, robotics simulation and digital signal processing.
 | --- | --- |
 | [ed-web](https://github.com/Waldo0926/ed-web) | A privacy-first, client-side web app for fetching, organising, searching, and summarising Ed Discussion course forums. |
 | [monash-attendance-reminder](https://github.com/Waldo0926/monash-attendance-reminder) | A cross-platform Chrome extension that discovers recent Monash Attendance activities, finds codes from Gmail, Moodle, and Ed with local OCR, sends reminders, and submits only after explicit confirmation. |
+| [monash-study-kit](https://github.com/Waldo0926/monash-study-kit) | A local-first MCP/CLI study assistant that connects Moodle and Ed to Claude, synchronises course content, deadlines, announcements, grades and discussions, and keeps course data on-device. |
 
 **Software Systems, Networking & Infrastructure**
 
