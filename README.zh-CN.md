@@ -77,6 +77,9 @@ Monash University马来西亚校区计算机科学专业学生，主修算法与
 <p align="center">
   <a href="https://github.com/Waldo0926/ed-web"><img src="./assets/profile-cards/zh/ed-web.svg?v=2" width="47%" alt="ed-web" /></a>
   <a href="https://github.com/Waldo0926/monash-attendance-reminder"><img src="./assets/profile-cards/zh/monash-attendance-reminder.svg?v=2" width="47%" alt="monash-attendance-reminder" /></a>
+  <br /><br />
+  <a href="https://github.com/Waldo0926/monash-study-kit"><img src="./assets/profile-cards/zh/monash-study-kit.svg?v=1" width="47%" alt="monash-study-kit" /></a>
+  <img src="./assets/profile-cards/spacer.svg" width="47%" alt="" />
 </p>
 
 ### 软件系统、网络与基础设施
@@ -141,6 +144,7 @@ Monash University马来西亚校区计算机科学专业学生，主修算法与
 | --- | --- |
 | [ed-web](https://github.com/Waldo0926/ed-web) | 隐私优先的纯前端 Ed Discussion 工具，用于抓取、整理、搜索和总结课程论坛。 |
 | [monash-attendance-reminder](https://github.com/Waldo0926/monash-attendance-reminder) | 可配置的 Monash 签到助手：自动发现近期课程，从 Gmail、Moodle 与 Ed（含本地 OCR）查找签到码、发送提醒，并仅在本人确认后提交。 |
+| [monash-study-kit](https://github.com/Waldo0926/monash-study-kit) | 本地优先的MCP/CLI学习助手，把Moodle和Ed接入Claude，可同步课件、截止日期、公告、成绩与讨论内容，课程数据保存在本机。 |
 
 **软件系统、网络与基础设施**
 
