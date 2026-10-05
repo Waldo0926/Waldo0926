@@ -7,19 +7,17 @@
   <a href="https://www.monash.edu.my/study/why/our-world-university-rankings"><img src="https://img.shields.io/badge/QS_World_Ranking-31st_(2027)-eab308?style=for-the-badge" alt="QS World Ranking - 31st (2027)" /></a>
   <br />
   <a href="https://github.com/Waldo0926"><img src="https://img.shields.io/badge/Location-Malaysia_%2F_China-2563eb?style=for-the-badge" alt="Location - Malaysia / China" /></a>
-  <a href="mailto:wensx0926@gmail.com"><img src="https://img.shields.io/badge/Open_to-CS%2FIT_Internships-16a34a?style=for-the-badge" alt="Open to CS/IT Internships" /></a>
+  <a href="mailto:wensx0926@gmail.com"><img src="https://img.shields.io/badge/Open_to-SWE_Internships_(Nov_2026–Feb_2027)-16a34a?style=for-the-badge" alt="Open to SWE internships, Nov 2026 – Feb 2027" /></a>
 </p>
 
-Computer Science student at **Monash University**, specialising in **Algorithms & Software**. I build **backend systems, full-stack products, and infrastructure automation**, with particular interests in **backend engineering, systems engineering, security, networking, and applied algorithms**.
+Computer Science student at **Monash University** (Algorithms & Software major), focused on **backend, systems and security engineering**. I build backend services, full-stack products and infrastructure automation, and I enjoy turning applied algorithms into working software.
 
-**Malaysia / China** · **Monash University** (ranked **31st** in the QS World University Rankings 2027)
-
-Open to **Computer Science / IT internship opportunities**, available **November 2026 – February 2027**
+Based in **Malaysia / China** · open to **software engineering / IT internships**, available **November 2026 – February 2027**.
 
 ### Project Landscape
 
 <p align="center">
-  <img src="./assets/profile-overview/project-landscape-en.svg?v=1" width="100%" alt="Project landscape overview" />
+  <img src="./assets/profile-overview/project-landscape-en.svg?v=3" width="100%" alt="Project landscape overview" />
 </p>
 
 📫 **Get in touch**
@@ -27,6 +25,7 @@ Open to **Computer Science / IT internship opportunities**, available **November
 <p align="center">
   <a href="mailto:wensx0926@gmail.com"><img src="https://img.shields.io/badge/Email-wensx0926%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="mailto:swen0027@student.monash.edu"><img src="https://img.shields.io/badge/Email-swen0027%40student.monash.edu-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Monash Email" /></a>
+  <a href="https://www.linkedin.com/in/shuoxun-wen/"><img src="https://img.shields.io/badge/LinkedIn-Shuoxun_Wen-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <br />
   <a href="https://wa.me/60172560436"><img src="https://img.shields.io/badge/WhatsApp-%2B60_17--256_0436-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
   <a href="https://u.wechat.com/MF78QB01Ooq7L9GHgP8kzJ4?s=4"><img src="https://img.shields.io/badge/WeChat-WenSX0926-07C160?style=flat-square&logo=wechat&logoColor=white" alt="WeChat" /></a>
@@ -36,7 +35,7 @@ Open to **Computer Science / IT internship opportunities**, available **November
 <summary><strong>📱 Scan to connect</strong></summary>
 <br />
 <p align="center">
-  <img src="./assets/contact/contact-original.webp?v=2" width="760" alt="Original WhatsApp and WeChat contact images" />
+  <img src="./assets/contact/contact-original.webp?v=2" width="760" alt="WhatsApp and WeChat contact QR codes" />
 </p>
 </details>
 
@@ -45,108 +44,40 @@ Open to **Computer Science / IT internship opportunities**, available **November
 ## Selected Projects
 
 <p align="center">
-  <a href="https://github.com/Waldo0926/monash-hub"><img src="./assets/profile-cards/en/monash-hub.svg?v=1" width="47%" alt="Monash Hub" /></a>
+  <a href="https://github.com/Waldo0926/monash-hub"><img src="./assets/profile-cards/en/monash-hub.svg?v=2" width="47%" alt="Monash Hub" /></a>
   <a href="https://github.com/Waldo0926/SecureView"><img src="./assets/profile-cards/en/secureview.svg?v=1" width="47%" alt="SecureView" /></a>
   <br /><br />
+  <a href="https://github.com/Waldo0926/monash-study-kit"><img src="./assets/profile-cards/en/monash-study-kit.svg?v=2" width="47%" alt="Monash Study Kit" /></a>
   <a href="https://github.com/Waldo0926/edge-fleet-ops-automation"><img src="./assets/profile-cards/en/edge-fleet.svg?v=1" width="47%" alt="Edge Fleet Ops Automation" /></a>
-  <a href="https://github.com/Waldo0926/enterprise-network-security-architecture"><img src="./assets/profile-cards/en/netsec.svg?v=1" width="47%" alt="Enterprise Network Security Architecture" /></a>
   <br /><br />
+  <a href="https://github.com/Waldo0926/enterprise-network-security-architecture"><img src="./assets/profile-cards/en/netsec.svg?v=1" width="47%" alt="Enterprise Network Security Architecture" /></a>
   <a href="https://github.com/Waldo0926/monash-abroad-tracker-demo"><img src="./assets/profile-cards/en/abroad-tracker.svg?v=1" width="47%" alt="Monash Exchange Tracker (demo)" /></a>
-  <a href="https://github.com/Waldo0926/advanced-string-algorithms"><img src="./assets/profile-cards/en/string-algo.svg?v=1" width="47%" alt="Advanced String Algorithms" /></a>
 </p>
 
 | Project | Live | Notes |
 | :---: | :---: | --- |
-| **Monash Hub** | [monashhub.secureview.tech](https://monashhub.secureview.tech) | Solo-built: unit search, course planning, prerequisite graphs, WAM/GPA tools. |
-| **SecureView** | [secureview.tech](https://secureview.tech) | Four-person FYP. My part: deployment, integration/E2E testing, security integration, docs. Team source repo stays private during assessment. |
+| **Monash Hub** | [monashhub.secureview.tech](https://monashhub.secureview.tech) | Solo-built and in production: unit, degree and official-policy search (PostgreSQL full-text + fuzzy), course maps with prerequisite checks, WAM/GPA tools, a student community, and a UI in English, Chinese, Japanese and Korean. |
+| **SecureView** | [secureview.tech](https://secureview.tech) | Four-person Final Year Project: browser-side AEAD encryption, key-wrapped sharing, hash-chained audit log. I authored 137 of the team's 158 merged PRs, spanning the security agent, integrity sweep, CI/release gates, capacity and tamper testing, and guarded deployment. Team source repo stays private during assessment. |
+| **Monash Study Kit** | [v1.0.0](https://github.com/Waldo0926/monash-study-kit/releases/tag/v1.0.0) | Local-first MCP server (17 tools) + CLI that connects Moodle and Ed to Claude behind Okta/MFA: deadlines, announcements, grades, full-text search over course materials, notes sites and lecture transcripts. Read-only by design; listed on Glama. |
 | **Edge Fleet Ops Automation** | — | Sanitized reconstruction of automation for a real Linux edge-node fleet. |
 | **Enterprise Network Security Architecture** | — | Fictional enterprise design as architecture-as-code, checked by an automated validator. |
-| **Monash Exchange Tracker (demo)** | [live demo](https://waldo0926.github.io/monash-abroad-tracker-demo/) | Public demo on synthetic data. Production system and real dataset stay private. |
-| **Advanced String Algorithms** | — | Ukkonen suffix trees, BWT, Rabin-Karp, Miller-Rabin, all pure Python. |
+| **Monash Exchange Tracker (demo)** | [live demo](https://waldo0926.github.io/monash-abroad-tracker-demo/) | The private production system has crawled ~164 programs daily since August 2026, honouring `robots.txt`, with field-level change detection, a frozen previous-round comparison, hand-verified QS rankings and an access-controlled viewer. The public demo runs on synthetic data. |
 
 ## More Projects
 
-Additional coursework-derived and independent projects, grouped by area. Projects already highlighted above are intentionally not repeated here.
+<details>
+<summary><strong>22 more coursework-derived and independent projects, grouped by area</strong></summary>
+<br />
 
-### Project Cards
-
-### Student Tools & Web Utilities
-
-Tools that turn recurring student workflows into usable software.
-
-<p align="center">
-  <a href="https://github.com/Waldo0926/ed-web"><img src="./assets/profile-cards/en/ed-web.svg?v=2" width="47%" alt="ed-web" /></a>
-  <a href="https://github.com/Waldo0926/monash-attendance-reminder"><img src="./assets/profile-cards/en/monash-attendance-reminder.svg?v=2" width="47%" alt="monash-attendance-reminder" /></a>
-  <br /><br />
-  <a href="https://github.com/Waldo0926/monash-study-kit"><img src="./assets/profile-cards/en/monash-study-kit.svg?v=1" width="47%" alt="monash-study-kit" /></a>
-  <img src="./assets/profile-cards/spacer.svg" width="47%" alt="" />
-</p>
-
-### Software Systems, Networking & Infrastructure
-
-Reactive software, networks, automation and infrastructure projects.
-
-<p align="center">
-  <a href="https://github.com/Waldo0926/streamswitch"><img src="./assets/profile-cards/en/streamswitch.svg?v=2" width="47%" alt="streamswitch" /></a>
-  <a href="https://github.com/Waldo0926/homelab-network-automation"><img src="./assets/profile-cards/en/homelab-network-automation.svg?v=2" width="47%" alt="homelab-network-automation" /></a>
-  <br /><br />
-  <a href="https://github.com/Waldo0926/wifi-site-survey-analysis"><img src="./assets/profile-cards/en/wifi-site-survey-analysis.svg?v=2" width="47%" alt="wifi-site-survey-analysis" /></a>
-  <a href="https://github.com/Waldo0926/bike-share-visualizer-cpp"><img src="./assets/profile-cards/en/bike-share-visualizer-cpp.svg?v=2" width="47%" alt="bike-share-visualizer-cpp" /></a>
-</p>
-
-### Algorithms, Data Structures & Low-Level Programming
-
-Implementation-heavy work from algorithms to assembly and modern C++.
-
-<p align="center">
-  <a href="https://github.com/Waldo0926/classical-algorithms-cpp"><img src="./assets/profile-cards/en/classical-algorithms-cpp.svg?v=2" width="47%" alt="classical-algorithms-cpp" /></a>
-  <a href="https://github.com/Waldo0926/data-structures-labs-cpp"><img src="./assets/profile-cards/en/data-structures-labs-cpp.svg?v=2" width="47%" alt="data-structures-labs-cpp" /></a>
-  <br /><br />
-  <a href="https://github.com/Waldo0926/bst-record-management-cpp"><img src="./assets/profile-cards/en/bst-record-management-cpp.svg?v=2" width="47%" alt="bst-record-management-cpp" /></a>
-  <a href="https://github.com/Waldo0926/n-queens-algorithm-visualizer"><img src="./assets/profile-cards/en/n-queens-algorithm-visualizer.svg?v=2" width="47%" alt="n-queens-algorithm-visualizer" /></a>
-  <br /><br />
-  <a href="https://github.com/Waldo0926/MARIE-Bitmap-Text-Renderer"><img src="./assets/profile-cards/en/marie-bitmap-text-renderer.svg?v=2" width="47%" alt="MARIE-Bitmap-Text-Renderer" /></a>
-  <a href="https://github.com/Waldo0926/c-cpp-programming-foundations"><img src="./assets/profile-cards/en/c-cpp-programming-foundations.svg?v=2" width="47%" alt="c-cpp-programming-foundations" /></a>
-</p>
-
-### Data, ML & Analytics
-
-Reproducible machine-learning and data-analysis pipelines.
-
-<p align="center">
-  <a href="https://github.com/Waldo0926/tensorflow-cnn-image-classification"><img src="./assets/profile-cards/en/tensorflow-cnn-image-classification.svg?v=2" width="47%" alt="tensorflow-cnn-image-classification" /></a>
-  <a href="https://github.com/Waldo0926/student-performance-ml-pipeline"><img src="./assets/profile-cards/en/student-performance-ml-pipeline.svg?v=2" width="47%" alt="student-performance-ml-pipeline" /></a>
-  <br /><br />
-  <a href="https://github.com/Waldo0926/pattern-recognition-from-scratch"><img src="./assets/profile-cards/en/pattern-recognition-from-scratch.svg?v=2" width="47%" alt="pattern-recognition-from-scratch" /></a>
-  <a href="https://github.com/Waldo0926/million-row-tweet-analysis-bash-r"><img src="./assets/profile-cards/en/million-row-tweet-analysis-bash-r.svg?v=2" width="47%" alt="million-row-tweet-analysis-bash-r" /></a>
-  <br /><br />
-  <a href="https://github.com/Waldo0926/animal-expert-system"><img src="./assets/profile-cards/en/animal-expert-system.svg?v=2" width="47%" alt="animal-expert-system" /></a>
-  <img src="./assets/profile-cards/spacer.svg" width="47%" alt="" />
-</p>
-
-### Databases, Robotics & Signal Processing
-
-SQL systems, robotics simulation and digital signal processing.
-
-<p align="center">
-  <a href="https://github.com/Waldo0926/database-systems-sql-labs"><img src="./assets/profile-cards/en/database-systems-sql-labs.svg?v=2" width="47%" alt="database-systems-sql-labs" /></a>
-  <a href="https://github.com/Waldo0926/digital-signal-processing-matlab"><img src="./assets/profile-cards/en/digital-signal-processing-matlab.svg?v=2" width="47%" alt="digital-signal-processing-matlab" /></a>
-  <br /><br />
-  <a href="https://github.com/Waldo0926/puma560-robot-trajectory-planning"><img src="./assets/profile-cards/en/puma560-robot-trajectory-planning.svg?v=2" width="47%" alt="puma560-robot-trajectory-planning" /></a>
-  <img src="./assets/profile-cards/spacer.svg" width="47%" alt="" />
-</p>
-
-### Project Details
-
-**Student Tools & Web Utilities**
+#### Student Tools & Web Utilities
 
 | Project | What it does |
 | --- | --- |
 | [ed-web](https://github.com/Waldo0926/ed-web) | A privacy-first, client-side web app for fetching, organising, searching, and summarising Ed Discussion course forums. |
 | [monash-attendance-reminder](https://github.com/Waldo0926/monash-attendance-reminder) | A cross-platform Chrome extension that discovers recent Monash Attendance activities, finds codes from Gmail, Moodle, and Ed with local OCR, sends reminders, and submits only after explicit confirmation. |
-| [monash-study-kit](https://github.com/Waldo0926/monash-study-kit) | A local-first MCP/CLI study assistant that connects Moodle and Ed to Claude, synchronises course content, deadlines, announcements, grades and discussions, and keeps course data on-device. |
+| [mumguide-wechat-bot](https://github.com/Waldo0926/mumguide-wechat-bot) | A zero-AI WeChat Q&A bot for the 马莫百科 official account: answers in Chinese from taught Q&A, the Monash Hub API and the account's articles, fits WeChat's 5-second reply window, and forwards misses to the owner, learning from his replies. |
 
-**Software Systems, Networking & Infrastructure**
+#### Software Systems, Networking & Infrastructure
 
 | Project | What it does |
 | --- | --- |
@@ -155,10 +86,11 @@ SQL systems, robotics simulation and digital signal processing.
 | [wifi-site-survey-analysis](https://github.com/Waldo0926/wifi-site-survey-analysis) | Privacy-safe Wi-Fi site survey analysis with RSSI, channel usage, and physical-AP-aware roaming overlap. |
 | [bike-share-visualizer-cpp](https://github.com/Waldo0926/bike-share-visualizer-cpp) | A modernised C++17 reimplementation of an MFC bike-share station visualiser, with real-data tests and cross-platform CI. |
 
-**Algorithms, Data Structures & Low-Level Programming**
+#### Algorithms, Data Structures & Low-Level Programming
 
 | Project | What it does |
 | --- | --- |
+| [advanced-string-algorithms](https://github.com/Waldo0926/advanced-string-algorithms) | Pure-Python Ukkonen suffix trees, BWT approximate matching, Z-based exact matching, Rabin-Karp rolling hashes and Miller-Rabin primality testing, with pytest. |
 | [classical-algorithms-cpp](https://github.com/Waldo0926/classical-algorithms-cpp) | Classic algorithms in C++: dynamic programming, backtracking, branch and bound, divide and conquer, and genetic algorithms. |
 | [data-structures-labs-cpp](https://github.com/Waldo0926/data-structures-labs-cpp) | Modernised C++17 implementations covering stacks, queues, trees, Huffman coding, graphs and sorting. |
 | [bst-record-management-cpp](https://github.com/Waldo0926/bst-record-management-cpp) | Modernised C++17 BST record management system with CRUD, persistence, RAII, tests and CI. |
@@ -166,7 +98,7 @@ SQL systems, robotics simulation and digital signal processing.
 | [MARIE-Bitmap-Text-Renderer](https://github.com/Waldo0926/MARIE-Bitmap-Text-Renderer) | MARIE assembly bitmap renderer with indirect addressing, pointer arithmetic, a 4×8 font, and a memory-mapped framebuffer. |
 | [c-cpp-programming-foundations](https://github.com/Waldo0926/c-cpp-programming-foundations) | C/C++ programming foundations, debugging exercises and CCF CSP practice. |
 
-**Data, ML & Analytics**
+#### Data, ML & Analytics
 
 | Project | What it does |
 | --- | --- |
@@ -176,7 +108,7 @@ SQL systems, robotics simulation and digital signal processing.
 | [million-row-tweet-analysis-bash-r](https://github.com/Waldo0926/million-row-tweet-analysis-bash-r) | Streaming analysis of 1.47M tweets using Unix/Bash pipelines, CSV-safe Python parsing, and R aggregation/visualisation. |
 | [animal-expert-system](https://github.com/Waldo0926/animal-expert-system) | Rule-based animal expert system using forward-chaining inference. |
 
-**Databases, Robotics & Signal Processing**
+#### Databases, Robotics & Signal Processing
 
 | Project | What it does |
 | --- | --- |
@@ -184,9 +116,11 @@ SQL systems, robotics simulation and digital signal processing.
 | [digital-signal-processing-matlab](https://github.com/Waldo0926/digital-signal-processing-matlab) | MATLAB DSP experiments: FFT, sampling, windowing, FIR/IIR filtering and vital-sign analysis. |
 | [puma560-robot-trajectory-planning](https://github.com/Waldo0926/puma560-robot-trajectory-planning) | MATLAB simulation of PUMA 560 robot kinematics, Euler-angle transformations and Cartesian trajectory planning. |
 
+</details>
+
 ## Technical Focus
 
-`Python` · `TypeScript` · `C++` · `FastAPI` · `Vue` · `PostgreSQL` · `MySQL` · `Docker` · `Linux` · `Nginx` · `RxJS` · `SSH` · `Network Automation` · `Infrastructure Automation` · `GitHub Actions`
+`Python` · `TypeScript` · `C++` · `FastAPI` · `Vue` · `Nuxt` · `PostgreSQL` · `MySQL` · `Docker` · `Linux` · `Nginx` · `RxJS` · `MCP` · `Network Security` · `Infrastructure Automation` · `GitHub Actions`
 
 ## Portfolio Notes
 
