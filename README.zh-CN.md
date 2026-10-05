@@ -17,7 +17,7 @@ Monash University 计算机科学专业学生（算法与软件方向），主�
 ### 项目方向总览
 
 <p align="center">
-  <img src="./assets/profile-overview/project-landscape-zh.svg?v=3" width="100%" alt="项目方向总览" />
+  <img src="./assets/profile-overview/project-landscape-zh.svg?v=4" width="100%" alt="项目方向总览" />
 </p>
 
 📫 **联系方式**
@@ -66,7 +66,7 @@ Monash University 计算机科学专业学生（算法与软件方向），主�
 ## 更多项目
 
 <details>
-<summary><strong>另外 22 个课程衍生与独立项目（按方向分组）</strong></summary>
+<summary><strong>另外 20 个课程衍生与独立项目（按方向分组）</strong></summary>
 <br />
 
 #### 学生工具与网页应用
@@ -96,7 +96,6 @@ Monash University 计算机科学专业学生（算法与软件方向），主�
 | [bst-record-management-cpp](https://github.com/Waldo0926/bst-record-management-cpp) | 由早期数据结构课程设计重构的现代 C++17 二叉搜索树信息管理系统。 |
 | [n-queens-algorithm-visualizer](https://github.com/Waldo0926/n-queens-algorithm-visualizer) | N皇后算法可视化：回溯、状态空间剪枝与爬山算法对比。 |
 | [MARIE-Bitmap-Text-Renderer](https://github.com/Waldo0926/MARIE-Bitmap-Text-Renderer) | MARIE 汇编位图渲染器：间接寻址、指针运算、4×8 字体、内存映射显示与 Python 参考模型。 |
-| [c-cpp-programming-foundations](https://github.com/Waldo0926/c-cpp-programming-foundations) | C/C++ 编程基础、程序调试练习与 CCF CSP 历年题实践。 |
 
 #### 数据、机器学习与分析
 
@@ -106,7 +105,6 @@ Monash University 计算机科学专业学生（算法与软件方向），主�
 | [student-performance-ml-pipeline](https://github.com/Waldo0926/student-performance-ml-pipeline) | 基于 scikit-learn 的学生成绩分类：避免数据泄漏，涵盖 SVM、随机森林、超参数调优与类别不平衡评估。 |
 | [pattern-recognition-from-scratch](https://github.com/Waldo0926/pattern-recognition-from-scratch) | 使用 NumPy 从零实现经典模式识别算法：朴素贝叶斯、感知机、Fisher LDA、K-Means、FCM 与 HMM。 |
 | [million-row-tweet-analysis-bash-r](https://github.com/Waldo0926/million-row-tweet-analysis-bash-r) | 使用 Unix/Bash 流式管道、CSV 安全 Python 解析与 R 聚合/可视化分析 147 万条推文。 |
-| [animal-expert-system](https://github.com/Waldo0926/animal-expert-system) | 基于正向链式推理的动物识别专家系统。 |
 
 #### 数据库、机器人与信号处理
 
