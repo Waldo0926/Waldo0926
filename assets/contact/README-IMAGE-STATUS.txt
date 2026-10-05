@@ -1,1 +1,0 @@
-Contact image upload in progress.
