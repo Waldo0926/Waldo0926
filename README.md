@@ -17,7 +17,7 @@ Based in **Malaysia / China** · open to **software engineering / IT internships
 ### Project Landscape
 
 <p align="center">
-  <img src="./assets/profile-overview/project-landscape-en.svg?v=3" width="100%" alt="Project landscape overview" />
+  <img src="./assets/profile-overview/project-landscape-en.svg?v=4" width="100%" alt="Project landscape overview" />
 </p>
 
 📫 **Get in touch**
@@ -66,7 +66,7 @@ Based in **Malaysia / China** · open to **software engineering / IT internships
 ## More Projects
 
 <details>
-<summary><strong>22 more coursework-derived and independent projects, grouped by area</strong></summary>
+<summary><strong>20 more coursework-derived and independent projects, grouped by area</strong></summary>
 <br />
 
 #### Student Tools & Web Utilities
@@ -96,7 +96,6 @@ Based in **Malaysia / China** · open to **software engineering / IT internships
 | [bst-record-management-cpp](https://github.com/Waldo0926/bst-record-management-cpp) | Modernised C++17 BST record management system with CRUD, persistence, RAII, tests and CI. |
 | [n-queens-algorithm-visualizer](https://github.com/Waldo0926/n-queens-algorithm-visualizer) | N-Queens algorithm visualizer with backtracking, state-space pruning, and hill climbing. |
 | [MARIE-Bitmap-Text-Renderer](https://github.com/Waldo0926/MARIE-Bitmap-Text-Renderer) | MARIE assembly bitmap renderer with indirect addressing, pointer arithmetic, a 4×8 font, and a memory-mapped framebuffer. |
-| [c-cpp-programming-foundations](https://github.com/Waldo0926/c-cpp-programming-foundations) | C/C++ programming foundations, debugging exercises and CCF CSP practice. |
 
 #### Data, ML & Analytics
 
@@ -106,7 +105,6 @@ Based in **Malaysia / China** · open to **software engineering / IT internships
 | [student-performance-ml-pipeline](https://github.com/Waldo0926/student-performance-ml-pipeline) | Leakage-safe student grade classification with scikit-learn pipelines, SVM, Random Forest, and imbalance-aware evaluation. |
 | [pattern-recognition-from-scratch](https://github.com/Waldo0926/pattern-recognition-from-scratch) | Classical pattern-recognition algorithms implemented from scratch with NumPy: Naive Bayes, Perceptron, Fisher LDA, K-Means, FCM, HMM. |
 | [million-row-tweet-analysis-bash-r](https://github.com/Waldo0926/million-row-tweet-analysis-bash-r) | Streaming analysis of 1.47M tweets using Unix/Bash pipelines, CSV-safe Python parsing, and R aggregation/visualisation. |
-| [animal-expert-system](https://github.com/Waldo0926/animal-expert-system) | Rule-based animal expert system using forward-chaining inference. |
 
 #### Databases, Robotics & Signal Processing
 
