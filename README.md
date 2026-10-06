@@ -17,7 +17,7 @@ Based in **Malaysia / China** · open to **software engineering / IT internships
 ### Project Landscape
 
 <p align="center">
-  <img src="./assets/profile-overview/project-landscape-en.svg?v=5" width="100%" alt="Project landscape overview" />
+  <img src="./assets/profile-overview/project-landscape-en.svg?v=6" width="100%" alt="Project landscape overview" />
 </p>
 
 📫 **Get in touch**
@@ -45,7 +45,7 @@ Based in **Malaysia / China** · open to **software engineering / IT internships
 
 <p align="center">
   <a href="https://github.com/Waldo0926/monash-hub"><img src="./assets/profile-cards/en/monash-hub.svg?v=3" width="47%" alt="Monash Hub" /></a>
-  <a href="https://github.com/Waldo0926/SecureView"><img src="./assets/profile-cards/en/secureview.svg?v=3" width="47%" alt="SecureView" /></a>
+  <a href="https://github.com/Waldo0926/SecureView"><img src="./assets/profile-cards/en/secureview.svg?v=4" width="47%" alt="SecureView" /></a>
   <br /><br />
   <a href="https://github.com/Waldo0926/monash-study-kit"><img src="./assets/profile-cards/en/monash-study-kit.svg?v=3" width="47%" alt="Monash Study Kit" /></a>
   <a href="https://github.com/Waldo0926/edge-fleet-ops-automation"><img src="./assets/profile-cards/en/edge-fleet.svg?v=3" width="47%" alt="Edge Fleet Ops Automation" /></a>
@@ -57,7 +57,7 @@ Based in **Malaysia / China** · open to **software engineering / IT internships
 | Project | Live | Notes |
 | :---: | :---: | --- |
 | **Monash Hub** | [monashhub.secureview.tech](https://monashhub.secureview.tech) | Solo-built and in production: unit, degree and official-policy search (PostgreSQL full-text + fuzzy), course maps with prerequisite checks, WAM/GPA tools, a student community, and a UI in English, Chinese, Japanese and Korean. |
-| **SecureView** | [secureview.tech](https://secureview.tech) | Four-person Final Year Project: browser-side AEAD encryption, key-wrapped sharing, hash-chained audit log. I authored 137 of the team's 158 merged PRs, spanning the security agent, integrity sweep, CI/release gates, capacity and tamper testing, and guarded deployment. Team source repo stays private during assessment. |
+| **SecureView** | [secureview.tech](https://secureview.tech) | Four-person Final Year Project: browser-side encryption with six AEAD suites, key-wrapped sharing, integrity verification and a hash-chained audit log. I authored 137 of the team\'s 158 merged PRs, spanning the security agent, integrity sweep, CI/release gates, a 22,264-operation capacity study, tamper testing, and guarded deployment. Team source repo stays private during assessment. |
 | **Monash Study Kit** | [v1.0.0](https://github.com/Waldo0926/monash-study-kit/releases/tag/v1.0.0) | Local-first MCP server (17 tools) + CLI that connects Moodle and Ed to Claude behind Okta/MFA: deadlines, announcements, grades, full-text search over course materials, notes sites and lecture transcripts. Read-only by design; listed on Glama. |
 | **Edge Fleet Ops Automation** | — | Sanitized reconstruction of automation for a real Linux edge-node fleet. |
 | **Enterprise Network Security Architecture** | — | Fictional enterprise design as architecture-as-code, checked by an automated validator. |
