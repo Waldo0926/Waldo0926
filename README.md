@@ -17,7 +17,7 @@ Based in **Malaysia / China** · open to **software engineering / IT internships
 ### Project Landscape
 
 <p align="center">
-  <img src="./assets/profile-overview/project-landscape-en.svg?v=4" width="100%" alt="Project landscape overview" />
+  <img src="./assets/profile-overview/project-landscape-en.svg?v=5" width="100%" alt="Project landscape overview" />
 </p>
 
 📫 **Get in touch**
@@ -44,14 +44,14 @@ Based in **Malaysia / China** · open to **software engineering / IT internships
 ## Selected Projects
 
 <p align="center">
-  <a href="https://github.com/Waldo0926/monash-hub"><img src="./assets/profile-cards/en/monash-hub.svg?v=2" width="47%" alt="Monash Hub" /></a>
-  <a href="https://github.com/Waldo0926/SecureView"><img src="./assets/profile-cards/en/secureview.svg?v=1" width="47%" alt="SecureView" /></a>
+  <a href="https://github.com/Waldo0926/monash-hub"><img src="./assets/profile-cards/en/monash-hub.svg?v=3" width="47%" alt="Monash Hub" /></a>
+  <a href="https://github.com/Waldo0926/SecureView"><img src="./assets/profile-cards/en/secureview.svg?v=3" width="47%" alt="SecureView" /></a>
   <br /><br />
-  <a href="https://github.com/Waldo0926/monash-study-kit"><img src="./assets/profile-cards/en/monash-study-kit-v3.svg" width="47%" alt="Monash Study Kit" /></a>
-  <a href="https://github.com/Waldo0926/edge-fleet-ops-automation"><img src="./assets/profile-cards/en/edge-fleet.svg?v=1" width="47%" alt="Edge Fleet Ops Automation" /></a>
+  <a href="https://github.com/Waldo0926/monash-study-kit"><img src="./assets/profile-cards/en/monash-study-kit.svg?v=3" width="47%" alt="Monash Study Kit" /></a>
+  <a href="https://github.com/Waldo0926/edge-fleet-ops-automation"><img src="./assets/profile-cards/en/edge-fleet.svg?v=3" width="47%" alt="Edge Fleet Ops Automation" /></a>
   <br /><br />
-  <a href="https://github.com/Waldo0926/enterprise-network-security-architecture"><img src="./assets/profile-cards/en/netsec.svg?v=1" width="47%" alt="Enterprise Network Security Architecture" /></a>
-  <a href="https://github.com/Waldo0926/monash-abroad-tracker-demo"><img src="./assets/profile-cards/en/abroad-tracker.svg?v=1" width="47%" alt="Monash Exchange Tracker (demo)" /></a>
+  <a href="https://github.com/Waldo0926/enterprise-network-security-architecture"><img src="./assets/profile-cards/en/netsec.svg?v=3" width="47%" alt="Enterprise Network Security Architecture" /></a>
+  <a href="https://github.com/Waldo0926/monash-abroad-tracker-demo"><img src="./assets/profile-cards/en/abroad-tracker.svg?v=3" width="47%" alt="Monash Exchange Tracker (demo)" /></a>
 </p>
 
 | Project | Live | Notes |
