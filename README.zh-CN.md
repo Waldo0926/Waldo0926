@@ -17,7 +17,7 @@ Monash University 计算机科学专业学生（算法与软件方向），主�
 ### 项目方向总览
 
 <p align="center">
-  <img src="./assets/profile-overview/project-landscape-zh.svg?v=4" width="100%" alt="项目方向总览" />
+  <img src="./assets/profile-overview/project-landscape-zh.svg?v=5" width="100%" alt="项目方向总览" />
 </p>
 
 📫 **联系方式**
@@ -44,14 +44,14 @@ Monash University 计算机科学专业学生（算法与软件方向），主�
 ## 精选项目
 
 <p align="center">
-  <a href="https://github.com/Waldo0926/monash-hub"><img src="./assets/profile-cards/zh/monash-hub.svg?v=2" width="47%" alt="Monash Hub" /></a>
-  <a href="https://github.com/Waldo0926/SecureView"><img src="./assets/profile-cards/zh/secureview.svg?v=1" width="47%" alt="SecureView" /></a>
+  <a href="https://github.com/Waldo0926/monash-hub"><img src="./assets/profile-cards/zh/monash-hub.svg?v=3" width="47%" alt="Monash Hub" /></a>
+  <a href="https://github.com/Waldo0926/SecureView"><img src="./assets/profile-cards/zh/secureview.svg?v=3" width="47%" alt="SecureView" /></a>
   <br /><br />
-  <a href="https://github.com/Waldo0926/monash-study-kit"><img src="./assets/profile-cards/zh/monash-study-kit.svg?v=2" width="47%" alt="Monash Study Kit" /></a>
-  <a href="https://github.com/Waldo0926/edge-fleet-ops-automation"><img src="./assets/profile-cards/zh/edge-fleet.svg?v=1" width="47%" alt="Edge Fleet Ops Automation" /></a>
+  <a href="https://github.com/Waldo0926/monash-study-kit"><img src="./assets/profile-cards/zh/monash-study-kit.svg?v=3" width="47%" alt="Monash Study Kit" /></a>
+  <a href="https://github.com/Waldo0926/edge-fleet-ops-automation"><img src="./assets/profile-cards/zh/edge-fleet.svg?v=3" width="47%" alt="Edge Fleet Ops Automation" /></a>
   <br /><br />
-  <a href="https://github.com/Waldo0926/enterprise-network-security-architecture"><img src="./assets/profile-cards/zh/netsec.svg?v=1" width="47%" alt="Enterprise Network Security Architecture" /></a>
-  <a href="https://github.com/Waldo0926/monash-abroad-tracker-demo"><img src="./assets/profile-cards/zh/abroad-tracker.svg?v=1" width="47%" alt="Monash Exchange Tracker (demo)" /></a>
+  <a href="https://github.com/Waldo0926/enterprise-network-security-architecture"><img src="./assets/profile-cards/zh/netsec.svg?v=3" width="47%" alt="Enterprise Network Security Architecture" /></a>
+  <a href="https://github.com/Waldo0926/monash-abroad-tracker-demo"><img src="./assets/profile-cards/zh/abroad-tracker.svg?v=3" width="47%" alt="Monash Exchange Tracker (demo)" /></a>
 </p>
 
 | 项目 | 在线体验 | 说明 |
