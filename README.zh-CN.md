@@ -17,7 +17,7 @@ Monash University 计算机科学专业学生（算法与软件方向），主�
 ### 项目方向总览
 
 <p align="center">
-  <img src="./assets/profile-overview/project-landscape-zh.svg?v=5" width="100%" alt="项目方向总览" />
+  <img src="./assets/profile-overview/project-landscape-zh.svg?v=6" width="100%" alt="项目方向总览" />
 </p>
 
 📫 **联系方式**
@@ -45,7 +45,7 @@ Monash University 计算机科学专业学生（算法与软件方向），主�
 
 <p align="center">
   <a href="https://github.com/Waldo0926/monash-hub"><img src="./assets/profile-cards/zh/monash-hub.svg?v=3" width="47%" alt="Monash Hub" /></a>
-  <a href="https://github.com/Waldo0926/SecureView"><img src="./assets/profile-cards/zh/secureview.svg?v=3" width="47%" alt="SecureView" /></a>
+  <a href="https://github.com/Waldo0926/SecureView"><img src="./assets/profile-cards/zh/secureview.svg?v=4" width="47%" alt="SecureView" /></a>
   <br /><br />
   <a href="https://github.com/Waldo0926/monash-study-kit"><img src="./assets/profile-cards/zh/monash-study-kit.svg?v=3" width="47%" alt="Monash Study Kit" /></a>
   <a href="https://github.com/Waldo0926/edge-fleet-ops-automation"><img src="./assets/profile-cards/zh/edge-fleet.svg?v=3" width="47%" alt="Edge Fleet Ops Automation" /></a>
@@ -57,7 +57,7 @@ Monash University 计算机科学专业学生（算法与软件方向），主�
 | 项目 | 在线体验 | 说明 |
 | :---: | :---: | --- |
 | **Monash Hub** | [monashhub.secureview.tech](https://monashhub.secureview.tech) | 一个人开发并已上线：课程、学位与官方政策检索（PostgreSQL 全文 + 模糊搜索）、带先修校验的课程规划、WAM/GPA 工具、学生社区，界面支持中、英、日、韩四种语言。 |
-| **SecureView** | [secureview.tech](https://secureview.tech) | 四人毕业设计（FYP）：浏览器端 AEAD 加密、密钥包裹共享、哈希链审计日志。团队合并的 158 个 PR 中有 137 个由我提交，涵盖安全代理、完整性巡检、CI 与发布闸门、容量与篡改测试，以及受保护的自动部署。团队主仓库在评估期间保持私有。 |
+| **SecureView** | [secureview.tech](https://secureview.tech) | 四人毕业设计（FYP）：浏览器端六种 AEAD 加密、密钥包裹共享、完整性验证与哈希链审计。团队合并的 158 个 PR 中有 137 个由我提交，涵盖安全代理、完整性巡检、CI 与发布闸门、22,264 次操作的容量测试、篡改测试，以及受保护的自动部署。团队主仓库在评估期间保持私有。 |
 | **Monash Study Kit** | [v1.0.0](https://github.com/Waldo0926/monash-study-kit/releases/tag/v1.0.0) | 本地优先的 MCP 服务（17 个工具）+ CLI，穿过 Okta/MFA 把 Moodle 和 Ed 接入 Claude：截止日期、公告、成绩，以及课件、课程笔记网页和录播字幕的全文搜索。设计上全部只读，已收录于 Glama。 |
 | **Edge Fleet Ops Automation** | — | 从真实 Linux 边缘节点集群运维脚本整理出的脱敏重构，涵盖节点发现、健康巡检、Docker 检查和状态化告警。 |
 | **Enterprise Network Security Architecture** | — | 虚构企业的网络安全架构，写成 architecture-as-code，靠 CI 自动校验。 |
