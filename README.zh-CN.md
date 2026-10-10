@@ -58,9 +58,9 @@ Monash University 计算机科学专业学生（算法与软件方向），主�
 | :---: | :---: | --- |
 | **Monash Hub** | [monashhub.secureview.tech](https://monashhub.secureview.tech) | 一个人开发并已上线：课程、学位与官方政策检索（PostgreSQL 全文 + 模糊搜索）、带先修校验的课程规划、WAM/GPA 工具、学生社区，界面支持中、英、日、韩四种语言。 |
 | **SecureView** | [secureview.tech](https://secureview.tech) | 四人毕业设计（FYP）：浏览器端六种 AEAD 加密、密钥包裹共享、完整性验证与哈希链审计。团队合并的 158 个 PR 中有 137 个由我提交，涵盖安全代理、完整性巡检、CI 与发布闸门、22,264 次操作的容量测试、篡改测试，以及受保护的自动部署。团队主仓库在评估期间保持私有。 |
-| **Monash Study Kit** | [v1.0.0](https://github.com/Waldo0926/monash-study-kit/releases/tag/v1.0.0) | 本地优先的 MCP 服务（17 个工具）+ CLI，穿过 Okta/MFA 把 Moodle 和 Ed 接入 Claude：截止日期、公告、成绩，以及课件、课程笔记网页和录播字幕的全文搜索。设计上全部只读，已收录于 Glama。 |
-| **Edge Fleet Ops Automation** | — | 从真实 Linux 边缘节点集群运维脚本整理出的脱敏重构，涵盖节点发现、健康巡检、Docker 检查和状态化告警。 |
-| **Enterprise Network Security Architecture** | — | 虚构企业的网络安全架构，写成 architecture-as-code，靠 CI 自动校验。 |
+| **Monash Study Kit** | [最新版本](https://github.com/Waldo0926/monash-study-kit/releases/latest) | 本地优先的 MCP 服务（17 个工具）+ CLI，穿过 Okta/MFA 把 Moodle 和 Ed 接入 Claude：截止日期、公告、成绩，以及课件、课程笔记网页和录播字幕的全文搜索。设计上全部只读，已收录于 Glama。 |
+| **Edge Fleet Ops Automation** | 仅代码 | 从真实 Linux 边缘节点集群运维脚本整理出的脱敏重构，涵盖节点发现、健康巡检、Docker 检查和状态化告警。 |
+| **Enterprise Network Security Architecture** | 仅代码 | 虚构企业的网络安全架构，写成 architecture-as-code，靠 CI 自动校验。 |
 | **Monash Exchange Tracker（演示版）** | [在线演示](https://waldo0926.github.io/monash-abroad-tracker-demo/) | 私有正式系统自 2026 年 8 月起每天抓取约 164 个项目并遵守 `robots.txt`，支持字段级变化检测、与冻结的上一轮对比、人工核对的 QS 排名和受访问控制的查看页面。公开演示使用虚构数据。 |
 
 ## 更多项目
@@ -84,17 +84,17 @@ Monash University 计算机科学专业学生（算法与软件方向），主�
 | [streamswitch](https://github.com/Waldo0926/streamswitch) | 基于 RxJS 的响应式数据包路由小游戏，使用不可变状态、确定性模拟与可测试事件流实现。 |
 | [homelab-network-automation](https://github.com/Waldo0926/homelab-network-automation) | 基于爱快路由器 API 的家庭实验室网络自动化重构：受控连接清理、WAN/PPPoE/LAN 监控与状态化告警/恢复追踪。 |
 | [wifi-site-survey-analysis](https://github.com/Waldo0926/wifi-site-survey-analysis) | 隐私安全的 Wi-Fi 现场勘测分析：RSSI、信道使用、物理 AP 去重漫游分析与可复现 Python 可视化。 |
-| [bike-share-visualizer-cpp](https://github.com/Waldo0926/bike-share-visualizer-cpp) | 将2021年课程设计中基于MFC的共享单车站点可视化程序，重构为带真实数据测试与跨平台CI的现代C++17实现。 |
+| [bike-share-visualizer-cpp](https://github.com/Waldo0926/bike-share-visualizer-cpp) | 将 2021 年课程设计中基于 MFC 的共享单车站点可视化程序，重构为带真实数据测试与跨平台 CI 的现代 C++17 实现。 |
 
 #### 算法、数据结构与底层编程
 
 | 项目 | 做的是什么 |
 | --- | --- |
 | [advanced-string-algorithms](https://github.com/Waldo0926/advanced-string-algorithms) | 纯 Python 高级字符串算法：Ukkonen 后缀树、BWT 近似匹配、Z 算法精确匹配、Rabin-Karp 滚动哈希与 Miller-Rabin 素性测试，附 pytest 测试。 |
-| [classical-algorithms-cpp](https://github.com/Waldo0926/classical-algorithms-cpp) | C++经典算法：动态规划、回溯、分支限界、分治与遗传算法。 |
+| [classical-algorithms-cpp](https://github.com/Waldo0926/classical-algorithms-cpp) | C++ 经典算法：动态规划、回溯、分支限界、分治与遗传算法。 |
 | [data-structures-labs-cpp](https://github.com/Waldo0926/data-structures-labs-cpp) | 基于早期 C 风格数据结构课程实验重构的现代 C++17 实现，涵盖栈、队列、树、哈夫曼编码、图与排序。 |
 | [bst-record-management-cpp](https://github.com/Waldo0926/bst-record-management-cpp) | 由早期数据结构课程设计重构的现代 C++17 二叉搜索树信息管理系统。 |
-| [n-queens-algorithm-visualizer](https://github.com/Waldo0926/n-queens-algorithm-visualizer) | N皇后算法可视化：回溯、状态空间剪枝与爬山算法对比。 |
+| [n-queens-algorithm-visualizer](https://github.com/Waldo0926/n-queens-algorithm-visualizer) | N 皇后算法可视化：回溯、状态空间剪枝与爬山算法对比。 |
 | [MARIE-Bitmap-Text-Renderer](https://github.com/Waldo0926/MARIE-Bitmap-Text-Renderer) | MARIE 汇编位图渲染器：间接寻址、指针运算、4×8 字体、内存映射显示与 Python 参考模型。 |
 
 #### 数据、机器学习与分析
