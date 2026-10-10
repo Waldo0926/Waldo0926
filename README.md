@@ -58,9 +58,9 @@ Based in **Malaysia / China** · open to **software engineering / IT internships
 | :---: | :---: | --- |
 | **Monash Hub** | [monashhub.secureview.tech](https://monashhub.secureview.tech) | Solo-built and in production: unit, degree and official-policy search (PostgreSQL full-text + fuzzy), course maps with prerequisite checks, WAM/GPA tools, a student community, and a UI in English, Chinese, Japanese and Korean. |
 | **SecureView** | [secureview.tech](https://secureview.tech) | Four-person Final Year Project: browser-side encryption with six AEAD suites, key-wrapped sharing, integrity verification and a hash-chained audit log. I authored 137 of the team's 158 merged PRs, spanning the security agent, integrity sweep, CI/release gates, a 22,264-operation capacity study, tamper testing, and guarded deployment. Team source repo stays private during assessment. |
-| **Monash Study Kit** | [v1.0.0](https://github.com/Waldo0926/monash-study-kit/releases/tag/v1.0.0) | Local-first MCP server (17 tools) + CLI that connects Moodle and Ed to Claude behind Okta/MFA: deadlines, announcements, grades, full-text search over course materials, notes sites and lecture transcripts. Read-only by design; listed on Glama. |
-| **Edge Fleet Ops Automation** | — | Sanitized reconstruction of automation for a real Linux edge-node fleet. |
-| **Enterprise Network Security Architecture** | — | Fictional enterprise design as architecture-as-code, checked by an automated validator. |
+| **Monash Study Kit** | [Latest release](https://github.com/Waldo0926/monash-study-kit/releases/latest) | Local-first MCP server (17 tools) + CLI that connects Moodle and Ed to Claude behind Okta/MFA: deadlines, announcements, grades, full-text search over course materials, notes sites and lecture transcripts. Read-only by design; listed on Glama. |
+| **Edge Fleet Ops Automation** | Code only | Sanitized reconstruction of automation for a real Linux edge-node fleet: node discovery, disk-health audits, Docker workload checks and stateful alerts. |
+| **Enterprise Network Security Architecture** | Code only | Fictional enterprise design as architecture-as-code, checked by an automated validator. |
 | **Monash Exchange Tracker (demo)** | [live demo](https://waldo0926.github.io/monash-abroad-tracker-demo/) | The private production system has crawled ~164 programs daily since August 2026, honouring `robots.txt`, with field-level change detection, a frozen previous-round comparison, hand-verified QS rankings and an access-controlled viewer. The public demo runs on synthetic data. |
 
 ## More Projects
@@ -75,14 +75,14 @@ Based in **Malaysia / China** · open to **software engineering / IT internships
 | --- | --- |
 | [ed-web](https://github.com/Waldo0926/ed-web) | A privacy-first, client-side web app for fetching, organising, searching, and summarising Ed Discussion course forums. |
 | [monash-attendance-reminder](https://github.com/Waldo0926/monash-attendance-reminder) | A cross-platform Chrome extension that discovers recent Monash Attendance activities, finds codes from Gmail, Moodle, and Ed with local OCR, sends reminders, and submits only after explicit confirmation. |
-| [mumguide-wechat-bot](https://github.com/Waldo0926/mumguide-wechat-bot) | A zero-AI WeChat Q&A bot for the 马莫百科 official account: answers in Chinese from taught Q&A, the Monash Hub API and the account's articles, fits WeChat's 5-second reply window, and forwards misses to the owner, learning from his replies. |
+| [mumguide-wechat-bot](https://github.com/Waldo0926/mumguide-wechat-bot) | A zero-AI WeChat Q&A bot for the 马莫百科 official account: answers in Chinese from taught Q&A, the Monash Hub API and the account's articles, fits WeChat's 5-second reply window, and forwards unanswered questions to the account owner and learns from the replies. |
 
 #### Software Systems, Networking & Infrastructure
 
 | Project | What it does |
 | --- | --- |
 | [streamswitch](https://github.com/Waldo0926/streamswitch) | An RxJS packet-routing game demonstrating immutable state, typed event streams, deterministic simulation, and testable functional-reactive architecture. |
-| [homelab-network-automation](https://github.com/Waldo0926/homelab-network-automation) | A portfolio reconstruction of iKuai homelab automation with router API integration, guarded connection cleanup, WAN/PPPoE/LAN monitoring, and stateful alert/recovery tracking. |
+| [homelab-network-automation](https://github.com/Waldo0926/homelab-network-automation) | A sanitized reconstruction of iKuai homelab automation with router API integration, guarded connection cleanup, WAN/PPPoE/LAN monitoring, and stateful alert/recovery tracking. |
 | [wifi-site-survey-analysis](https://github.com/Waldo0926/wifi-site-survey-analysis) | Privacy-safe Wi-Fi site survey analysis with RSSI, channel usage, and physical-AP-aware roaming overlap. |
 | [bike-share-visualizer-cpp](https://github.com/Waldo0926/bike-share-visualizer-cpp) | A modernised C++17 reimplementation of an MFC bike-share station visualiser, with real-data tests and cross-platform CI. |
 
