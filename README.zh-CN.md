@@ -120,6 +120,15 @@ Monash University 计算机科学专业学生（算法与软件方向），主�
 
 `Python` · `TypeScript` · `C++` · `FastAPI` · `Vue` · `Nuxt` · `PostgreSQL` · `MySQL` · `Docker` · `Linux` · `Nginx` · `RxJS` · `MCP` · `网络安全` · `基础设施自动化` · `GitHub Actions`
 
+## GitHub 活动
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg" />
+  <img src="./profile-3d-contrib/profile-green.svg" width="100%" alt="3D 贡献日历、语言占比和活动雷达图" />
+</picture>
+
+<sub>由 GitHub Actions 每天用 <a href="https://github.com/yoshi389111/github-profile-3d-contrib">github-profile-3d-contrib</a> 自动生成。</sub>
+
 ## 作品集说明
 
 有几个仓库是在重做我本科早期的课程项目。遇到这种情况，我会把项目的历史记录保留清楚，把原本的课程作业和后来的重构、测试、文档、工程改进部分区分开。
