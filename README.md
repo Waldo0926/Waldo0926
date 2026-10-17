@@ -120,6 +120,15 @@ Based in **Malaysia / China** · open to **software engineering / IT internships
 
 `Python` · `TypeScript` · `C++` · `FastAPI` · `Vue` · `Nuxt` · `PostgreSQL` · `MySQL` · `Docker` · `Linux` · `Nginx` · `RxJS` · `MCP` · `Network Security` · `Infrastructure Automation` · `GitHub Actions`
 
+## GitHub Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg" />
+  <img src="./profile-3d-contrib/profile-green.svg" width="100%" alt="3D contribution calendar, language breakdown and activity radar" />
+</picture>
+
+<sub>Updated daily by a GitHub Actions workflow using <a href="https://github.com/yoshi389111/github-profile-3d-contrib">github-profile-3d-contrib</a>.</sub>
+
 ## Portfolio Notes
 
 Some repositories revisit coursework from my earlier undergraduate studies. Where that is the case, I keep the project history explicit and separate the original coursework from later refactoring, testing, documentation, and engineering improvements.
