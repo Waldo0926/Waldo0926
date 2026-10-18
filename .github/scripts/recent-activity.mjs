@@ -8,6 +8,9 @@ import { pathToFileURL } from "node:url";
 
 const DAYS = Number(process.env.WINDOW_DAYS || 7);
 const MAX_ITEMS = Number(process.env.MAX_ITEMS || 6);
+// Commits bigger than this are usually imports or generated files. They
+// still count as commits, but their lines are left out of the totals.
+const MAX_COMMIT_LINES = Number(process.env.MAX_COMMIT_LINES || 10000);
 const CONFIG_PATH = ".github/recent-activity.json";
 const ASSET_DIR = "assets/activity";
 const START = "<!-- RECENT_ACTIVITY:START -->";
@@ -190,6 +193,7 @@ async function commitStats(gql, nameWithOwner, since, authorId) {
     for (const commit of history.nodes) {
       if (commit.parents.totalCount > 1) continue;
       stats.commits += 1;
+      if (commit.additions + commit.deletions > MAX_COMMIT_LINES) continue;
       stats.additions += commit.additions;
       stats.deletions += commit.deletions;
     }
@@ -229,7 +233,7 @@ function escapeXml(value) {
 }
 
 function escapeMarkdown(value) {
-  return String(value).replace(/[\\`*_[\]<>|]/g, (c) => `\\${c}`);
+  return String(value).replace(/[\\`*_[\]<>]/g, (c) => `\\${c}`);
 }
 
 export function renderPanel(activity, text, theme) {
@@ -299,7 +303,7 @@ export function renderBlock(activity, lang, text, config, login, date) {
     const [owner, short] = repo.nameWithOwner.split("/");
     const name = label?.name || (owner.toLowerCase() === login.toLowerCase() ? short : repo.nameWithOwner);
     const url = label?.url || (repo.isPrivate ? null : repo.url);
-    const description = label?.[lang] || label?.en || repo.description || "";
+    const description = label?.[lang] || label?.en || pickLanguage(repo.description, lang);
     items.push({ name, url, description, commits: repo.commits, prs: repo.prs });
   }
 
@@ -319,6 +323,14 @@ export function renderBlock(activity, lang, text, config, login, date) {
   ].join("\n");
 
   return [`### ${text.heading}`, "", panel, "", lines.length ? lines.join("\n") : text.empty, "", `<sub>${text.note(date)}</sub>`].join("\n");
+}
+
+// Some of my repo descriptions are "English ｜ 中文". Keep the half that
+// matches the README.
+function pickLanguage(description, lang) {
+  const match = (description || "").match(/^(.*\S)\s+[｜|]\s+(\S*[\u4e00-\u9fff].*)$/);
+  if (!match) return description || "";
+  return lang === "zh" ? match[2] : match[1];
 }
 
 function counts(item, text) {
