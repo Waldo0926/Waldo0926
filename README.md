@@ -3,6 +3,10 @@
 **English** · [中文](https://github.com/Waldo0926/Waldo0926/blob/main/README.zh-CN.md)
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1200&color=7C3AED&center=true&vCenter=true&width=760&height=50&lines=Computer+Science+student+at+Monash+University;Building+AI+applications+and+Python+backends;Open+to+internships%2C+Oct+2026+to+Feb+2027" alt="Computer Science student at Monash University, building AI applications and Python backends, open to internships from Oct 2026 to Feb 2027" />
+</p>
+
+<p align="center">
   <a href="https://www.monash.edu.my/"><img src="https://img.shields.io/badge/Monash_University-Computer_Science-7c3aed?style=for-the-badge" alt="Monash University - Computer Science" /></a>
   <a href="https://www.monash.edu.my/study/why/our-world-university-rankings"><img src="https://img.shields.io/badge/QS_World_Ranking-31st_(2027)-eab308?style=for-the-badge" alt="QS World Ranking - 31st (2027)" /></a>
   <br />
@@ -128,6 +132,9 @@ Based in **Malaysia / China** · open to **AI application and backend internship
 </picture>
 
 <sub>Updated daily by a GitHub Actions workflow using <a href="https://github.com/yoshi389111/github-profile-3d-contrib">github-profile-3d-contrib</a>.</sub>
+
+<!-- RECENT_ACTIVITY:START -->
+<!-- RECENT_ACTIVITY:END -->
 
 ## Portfolio Notes
 
