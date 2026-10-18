@@ -7,12 +7,12 @@
   <a href="https://www.monash.edu.my/study/why/our-world-university-rankings"><img src="https://img.shields.io/badge/QS_World_Ranking-31st_(2027)-eab308?style=for-the-badge" alt="QS World Ranking - 31st (2027)" /></a>
   <br />
   <a href="https://github.com/Waldo0926"><img src="https://img.shields.io/badge/Location-Malaysia_%2F_China-2563eb?style=for-the-badge" alt="Location - Malaysia / China" /></a>
-  <a href="mailto:wensx0926@gmail.com"><img src="https://img.shields.io/badge/Open_to-SWE_Internships_(Nov_2026–Feb_2027)-16a34a?style=for-the-badge" alt="Open to SWE internships, Nov 2026 – Feb 2027" /></a>
+  <a href="mailto:wensx0926@gmail.com"><img src="https://img.shields.io/badge/Open_to-AI_%2F_Backend_Internships_(Oct_2026–Feb_2027)-16a34a?style=for-the-badge" alt="Open to AI and backend internships, Oct 2026 to Feb 2027" /></a>
 </p>
 
-Computer Science student at **Monash University** (Algorithms & Software major), focused on **backend, systems and security engineering**. I build backend services, full-stack products and infrastructure automation, and I enjoy turning applied algorithms into working software.
+Computer Science student at **Monash University** (Algorithms & Software major). Most of my work is **AI applications and Python backends**: MCP tools that let Claude work with real student data, API services in FastAPI and aiohttp, and the testing and deployment around them. I also build full-stack products and infrastructure automation, and I enjoy turning applied algorithms into working software.
 
-Based in **Malaysia / China** · open to **software engineering / IT internships**, available **November 2026 – February 2027**.
+Based in **Malaysia / China** · open to **AI application and backend internships**, available in Malaysia from **26 October 2026** and in China from **9 November 2026**, through to **February 2027**.
 
 ### Project Landscape
 
@@ -50,7 +50,7 @@ Based in **Malaysia / China** · open to **software engineering / IT internships
   <a href="https://github.com/Waldo0926/monash-study-kit"><img src="./assets/profile-cards/en/monash-study-kit.svg?v=3" width="47%" alt="Monash Study Kit" /></a>
   <a href="https://github.com/Waldo0926/edge-fleet-ops-automation"><img src="./assets/profile-cards/en/edge-fleet.svg?v=3" width="47%" alt="Edge Fleet Ops Automation" /></a>
   <br /><br />
-  <a href="https://github.com/Waldo0926/enterprise-network-security-architecture"><img src="./assets/profile-cards/en/netsec.svg?v=3" width="47%" alt="Enterprise Network Security Architecture" /></a>
+  <a href="https://github.com/Waldo0926/mumguide-wechat-bot"><img src="./assets/profile-cards/en/mumguide-wechat-bot.svg?v=1" width="47%" alt="MUMGuide WeChat Bot" /></a>
   <a href="https://github.com/Waldo0926/monash-abroad-tracker-demo"><img src="./assets/profile-cards/en/abroad-tracker.svg?v=3" width="47%" alt="Monash Exchange Tracker (demo)" /></a>
 </p>
 
@@ -58,9 +58,9 @@ Based in **Malaysia / China** · open to **software engineering / IT internships
 | :---: | :---: | --- |
 | **Monash Hub** | [monashhub.secureview.tech](https://monashhub.secureview.tech) | Solo-built and in production: unit, degree and official-policy search (PostgreSQL full-text + fuzzy), course maps with prerequisite checks, WAM/GPA tools, a student community, and a UI in English, Chinese, Japanese and Korean. |
 | **SecureView** | [secureview.tech](https://secureview.tech) | Four-person Final Year Project: browser-side encryption with six AEAD suites, key-wrapped sharing, integrity verification and a hash-chained audit log. I authored 182 of the team's 203 merged PRs, spanning the security agent, integrity sweep, CI/release gates, a 22,264-operation capacity study, tamper testing, and guarded deployment. Source, tests and docs are published in the repo, view only. |
-| **Monash Study Kit** | [Latest release](https://github.com/Waldo0926/monash-study-kit/releases/latest) | Local-first MCP server (17 tools) + CLI that connects Moodle and Ed to Claude behind Okta/MFA: deadlines, announcements, grades, full-text search over course materials, notes sites and lecture transcripts. Read-only by design; listed on Glama. |
+| **Monash Study Kit** | [Latest release](https://github.com/Waldo0926/monash-study-kit/releases/latest) | Local-first MCP server (27 tools) + CLI that connects Moodle and Ed to Claude behind Okta/MFA: deadlines, announcements, grades, full-text search over course materials, notes sites and lecture transcripts. Read-only by design; listed on Glama. |
 | **Edge Fleet Ops Automation** | Code only | Sanitized reconstruction of automation for a real Linux edge-node fleet: node discovery, disk-health audits, Docker workload checks and stateful alerts. |
-| **Enterprise Network Security Architecture** | Code only | Fictional enterprise design as architecture-as-code, checked by an automated validator. |
+| **MUMGuide WeChat Bot** | 马莫百科 on WeChat | Chinese Q&A bot for a student WeChat account, with no language model in the loop. It answers from Q&A the owner taught it, the Monash Hub API and the account's articles, and every answer links its source. Built on aiohttp behind Nginx with SQLite, it fits WeChat's 5-second, 2048-byte passive reply limit. Questions it can't answer go to the owner, and the reply is remembered. Tested offline with pytest against a fake Hub. |
 | **Monash Exchange Tracker (demo)** | [live demo](https://waldo0926.github.io/monash-abroad-tracker-demo/) | The private production system has crawled ~164 programs daily since August 2026, honouring `robots.txt`, with field-level change detection, a frozen previous-round comparison, hand-verified QS rankings and an access-controlled viewer. The public demo runs on synthetic data. |
 
 ## More Projects
@@ -75,12 +75,12 @@ Based in **Malaysia / China** · open to **software engineering / IT internships
 | --- | --- |
 | [ed-web](https://github.com/Waldo0926/ed-web) | A privacy-first, client-side web app for fetching, organising, searching, and summarising Ed Discussion course forums. |
 | [monash-attendance-reminder](https://github.com/Waldo0926/monash-attendance-reminder) | A cross-platform Chrome extension that discovers recent Monash Attendance activities, finds codes from Gmail, Moodle, and Ed with local OCR, sends reminders, and submits only after explicit confirmation. |
-| [mumguide-wechat-bot](https://github.com/Waldo0926/mumguide-wechat-bot) | A zero-AI WeChat Q&A bot for the 马莫百科 official account: answers in Chinese from taught Q&A, the Monash Hub API and the account's articles, fits WeChat's 5-second reply window, and forwards unanswered questions to the account owner and learns from the replies. |
 
 #### Software Systems, Networking & Infrastructure
 
 | Project | What it does |
 | --- | --- |
+| [enterprise-network-security-architecture](https://github.com/Waldo0926/enterprise-network-security-architecture) | Fictional enterprise network design written as architecture-as-code and checked by an automated validator in CI. |
 | [streamswitch](https://github.com/Waldo0926/streamswitch) | An RxJS packet-routing game demonstrating immutable state, typed event streams, deterministic simulation, and testable functional-reactive architecture. |
 | [homelab-network-automation](https://github.com/Waldo0926/homelab-network-automation) | A sanitized reconstruction of iKuai homelab automation with router API integration, guarded connection cleanup, WAN/PPPoE/LAN monitoring, and stateful alert/recovery tracking. |
 | [wifi-site-survey-analysis](https://github.com/Waldo0926/wifi-site-survey-analysis) | Privacy-safe Wi-Fi site survey analysis with RSSI, channel usage, and physical-AP-aware roaming overlap. |
@@ -118,7 +118,7 @@ Based in **Malaysia / China** · open to **software engineering / IT internships
 
 ## Technical Focus
 
-`Python` · `TypeScript` · `C++` · `FastAPI` · `Vue` · `Nuxt` · `PostgreSQL` · `MySQL` · `Docker` · `Linux` · `Nginx` · `RxJS` · `MCP` · `Network Security` · `Infrastructure Automation` · `GitHub Actions`
+`Python` · `TypeScript` · `C++` · `MCP` · `FastAPI` · `aiohttp` · `Vue` · `Nuxt` · `PostgreSQL` · `MySQL` · `SQLite` · `pytest` · `Playwright` · `Docker` · `Linux` · `Nginx` · `RxJS` · `Network Security` · `Infrastructure Automation` · `GitHub Actions`
 
 ## GitHub Activity
 
