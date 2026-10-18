@@ -1,0 +1,41 @@
+{
+  "exclude": [
+    "Waldo0926/Waldo0926"
+  ],
+  "repos": {
+    "jsonrar/fyp-secure-file-platform": {
+      "as": "Waldo0926/SecureView"
+    },
+    "Waldo0926/monash-abroad-tracker": {
+      "name": "Monash Exchange Tracker (private)",
+      "url": "https://github.com/Waldo0926/monash-abroad-tracker-demo",
+      "en": "Production exchange program tracker. The public demo runs on synthetic data.",
+      "zh": "交换项目追踪的正式版，公开的 demo 用的是模拟数据。"
+    },
+    "Waldo0926/monash-hub": {
+      "zh": "给 Monash 学生用的课程、学位和官方政策检索网站，已上线。"
+    },
+    "Waldo0926/SecureView": {
+      "en": "Four-person Final Year Project: encrypted file sharing in the browser. Commits to the private team repo are counted here.",
+      "zh": "四人毕业设计，浏览器端加密的文件共享平台。私有团队仓库的提交也算在这里。"
+    },
+    "Waldo0926/monash-study-kit": {
+      "zh": "把 Moodle 和 Ed 接到 Claude 的本地 MCP 服务和命令行工具。"
+    },
+    "Waldo0926/mumguide-wechat-bot": {
+      "zh": "学生公众号的中文问答机器人，不接大模型。"
+    },
+    "Waldo0926/monash-abroad-tracker-demo": {
+      "zh": "交换项目追踪的公开 demo，用的是模拟数据。"
+    },
+    "Waldo0926/edge-fleet-ops-automation": {
+      "zh": "Linux 边缘节点集群运维自动化的脱敏重建版。"
+    },
+    "Waldo0926/ed-web": {
+      "zh": "在浏览器里整理、搜索和总结 Ed 论坛帖子的网页工具。"
+    },
+    "Waldo0926/monash-attendance-reminder": {
+      "zh": "从邮件、Moodle 和 Ed 找签到码并提醒签到的 Chrome 扩展，确认后才提交。"
+    }
+  }
+}
