@@ -7,12 +7,12 @@
   <a href="https://www.monash.edu.my/study/why/our-world-university-rankings"><img src="https://img.shields.io/badge/QS_World_Ranking-31st_(2027)-eab308?style=for-the-badge" alt="QS World Ranking - 31st (2027)" /></a>
   <br />
   <a href="https://github.com/Waldo0926"><img src="https://img.shields.io/badge/Location-Malaysia_%2F_China-2563eb?style=for-the-badge" alt="Location - Malaysia / China" /></a>
-  <a href="mailto:wensx0926@gmail.com"><img src="https://img.shields.io/badge/Open_to-SWE_Internships_(Nov_2026–Feb_2027)-16a34a?style=for-the-badge" alt="Open to SWE internships, Nov 2026 – Feb 2027" /></a>
+  <a href="mailto:wensx0926@gmail.com"><img src="https://img.shields.io/badge/Open_to-AI_%2F_Backend_Internships_(Oct_2026–Feb_2027)-16a34a?style=for-the-badge" alt="Open to AI and backend internships, Oct 2026 to Feb 2027" /></a>
 </p>
 
-Monash University 计算机科学专业学生（算法与软件方向），主攻**后端、系统与安全工程**。平时做后端服务、全栈产品和基础设施自动化，也喜欢把应用算法落地成能用的软件。
+Monash University 计算机科学专业学生（算法与软件方向），主要做 **AI 应用和 Python 后端**：让 Claude 用上真实学生数据的 MCP 工具，用 FastAPI 和 aiohttp 写的 API 服务，以及配套的测试和部署。平时也做全栈产品和基础设施自动化，喜欢把应用算法落地成能用的软件。
 
-目前在**马来西亚 / 中国**，正在找**软件工程 / IT 相关实习**，时间为 **2026 年 11 月 – 2027 年 2 月**。
+目前在**马来西亚 / 中国**，正在找 **AI 应用开发和后端实习**。马来西亚 **2026 年 10 月 26 日**起可到岗，中国 **2026 年 11 月 9 日**起可到岗，都可以做到 **2027 年 2 月**。
 
 ### 项目方向总览
 
@@ -50,7 +50,7 @@ Monash University 计算机科学专业学生（算法与软件方向），主�
   <a href="https://github.com/Waldo0926/monash-study-kit"><img src="./assets/profile-cards/zh/monash-study-kit.svg?v=3" width="47%" alt="Monash Study Kit" /></a>
   <a href="https://github.com/Waldo0926/edge-fleet-ops-automation"><img src="./assets/profile-cards/zh/edge-fleet.svg?v=3" width="47%" alt="Edge Fleet Ops Automation" /></a>
   <br /><br />
-  <a href="https://github.com/Waldo0926/enterprise-network-security-architecture"><img src="./assets/profile-cards/zh/netsec.svg?v=3" width="47%" alt="Enterprise Network Security Architecture" /></a>
+  <a href="https://github.com/Waldo0926/mumguide-wechat-bot"><img src="./assets/profile-cards/zh/mumguide-wechat-bot.svg?v=1" width="47%" alt="MUMGuide WeChat Bot" /></a>
   <a href="https://github.com/Waldo0926/monash-abroad-tracker-demo"><img src="./assets/profile-cards/zh/abroad-tracker.svg?v=3" width="47%" alt="Monash Exchange Tracker (demo)" /></a>
 </p>
 
@@ -58,9 +58,9 @@ Monash University 计算机科学专业学生（算法与软件方向），主�
 | :---: | :---: | --- |
 | **Monash Hub** | [monashhub.secureview.tech](https://monashhub.secureview.tech) | 一个人开发并已上线：课程、学位与官方政策检索（PostgreSQL 全文 + 模糊搜索）、带先修校验的课程规划、WAM/GPA 工具、学生社区，界面支持中、英、日、韩四种语言。 |
 | **SecureView** | [secureview.tech](https://secureview.tech) | 四人毕业设计（FYP）：浏览器端六种 AEAD 加密、密钥包裹共享、完整性验证与哈希链审计。团队合并的 203 个 PR 中有 182 个由我提交，涵盖安全代理、完整性巡检、CI 与发布闸门、22,264 次操作的容量测试、篡改测试，以及受保护的自动部署。源码、测试和文档已放进仓库，仅供查看。 |
-| **Monash Study Kit** | [最新版本](https://github.com/Waldo0926/monash-study-kit/releases/latest) | 本地优先的 MCP 服务（17 个工具）+ CLI，穿过 Okta/MFA 把 Moodle 和 Ed 接入 Claude：截止日期、公告、成绩，以及课件、课程笔记网页和录播字幕的全文搜索。设计上全部只读，已收录于 Glama。 |
+| **Monash Study Kit** | [最新版本](https://github.com/Waldo0926/monash-study-kit/releases/latest) | 本地优先的 MCP 服务（27 个工具）+ CLI，穿过 Okta/MFA 把 Moodle 和 Ed 接入 Claude：截止日期、公告、成绩，以及课件、课程笔记网页和录播字幕的全文搜索。设计上全部只读，已收录于 Glama。 |
 | **Edge Fleet Ops Automation** | 仅代码 | 从真实 Linux 边缘节点集群运维脚本整理出的脱敏重构，涵盖节点发现、健康巡检、Docker 检查和状态化告警。 |
-| **Enterprise Network Security Architecture** | 仅代码 | 虚构企业的网络安全架构，写成 architecture-as-code，靠 CI 自动校验。 |
+| **MUMGuide WeChat Bot** | 微信公众号“马莫百科” | 马莫百科公众号的中文问答机器人，全程不调用大模型。依次从站长教过的问答、Monash Hub API 和公众号文章里找答案，每条回答都附出处链接。后端用 aiohttp，部署在 Nginx 后面，数据存 SQLite，能在微信被动回复 5 秒、2048 字节的限制内答完。答不上的问题转给站长，站长回复后自动记住。用 pytest 和假 Hub 做离线测试。 |
 | **Monash Exchange Tracker（演示版）** | [在线演示](https://waldo0926.github.io/monash-abroad-tracker-demo/) | 私有正式系统自 2026 年 8 月起每天抓取约 164 个项目并遵守 `robots.txt`，支持字段级变化检测、与冻结的上一轮对比、人工核对的 QS 排名和受访问控制的查看页面。公开演示使用虚构数据。 |
 
 ## 更多项目
@@ -75,12 +75,12 @@ Monash University 计算机科学专业学生（算法与软件方向），主�
 | --- | --- |
 | [ed-web](https://github.com/Waldo0926/ed-web) | 隐私优先的纯前端 Ed Discussion 工具，用于抓取、整理、搜索和总结课程论坛。 |
 | [monash-attendance-reminder](https://github.com/Waldo0926/monash-attendance-reminder) | 可配置的 Monash 签到助手：自动发现近期课程，从 Gmail、Moodle 与 Ed（含本地 OCR）查找签到码、发送提醒，并仅在本人确认后提交。 |
-| [mumguide-wechat-bot](https://github.com/Waldo0926/mumguide-wechat-bot) | 不用大模型的马莫百科公众号问答机器人：从人工问答、Monash Hub API 和公众号文章中用中文作答，适配微信 5 秒回复时限，答不上的转给作者并从回复中学习。 |
 
 #### 软件系统、网络与基础设施
 
 | 项目 | 做的是什么 |
 | --- | --- |
+| [enterprise-network-security-architecture](https://github.com/Waldo0926/enterprise-network-security-architecture) | 虚构企业的网络安全设计，写成 architecture-as-code，由 CI 里的校验器自动检查。 |
 | [streamswitch](https://github.com/Waldo0926/streamswitch) | 基于 RxJS 的响应式数据包路由小游戏，使用不可变状态、确定性模拟与可测试事件流实现。 |
 | [homelab-network-automation](https://github.com/Waldo0926/homelab-network-automation) | 基于爱快路由器 API 的家庭实验室网络自动化重构：受控连接清理、WAN/PPPoE/LAN 监控与状态化告警/恢复追踪。 |
 | [wifi-site-survey-analysis](https://github.com/Waldo0926/wifi-site-survey-analysis) | 隐私安全的 Wi-Fi 现场勘测分析：RSSI、信道使用、物理 AP 去重漫游分析与可复现 Python 可视化。 |
@@ -118,7 +118,7 @@ Monash University 计算机科学专业学生（算法与软件方向），主�
 
 ## 技术方向
 
-`Python` · `TypeScript` · `C++` · `FastAPI` · `Vue` · `Nuxt` · `PostgreSQL` · `MySQL` · `Docker` · `Linux` · `Nginx` · `RxJS` · `MCP` · `网络安全` · `基础设施自动化` · `GitHub Actions`
+`Python` · `TypeScript` · `C++` · `MCP` · `FastAPI` · `aiohttp` · `Vue` · `Nuxt` · `PostgreSQL` · `MySQL` · `SQLite` · `pytest` · `Playwright` · `Docker` · `Linux` · `Nginx` · `RxJS` · `网络安全` · `基础设施自动化` · `GitHub Actions`
 
 ## GitHub 活动
 
