@@ -1,0 +1,43 @@
+name: Recent activity
+
+on:
+  schedule:
+    # 19:30 UTC is 03:30 in Malaysia / China, after the 3D chart job
+    - cron: "30 19 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/recent-activity.yml
+      - .github/scripts/recent-activity.mjs
+      - .github/recent-activity.json
+
+permissions:
+  contents: write
+
+concurrency:
+  group: recent-activity
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+      - name: Update the recent activity block
+        env:
+          # Personal access token that can read my private repos
+          ACTIVITY_TOKEN: ${{ secrets.ACTIVITY_TOKEN }}
+        run: node .github/scripts/recent-activity.mjs
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md README.zh-CN.md assets/activity
+          if git commit -m "Update recent activity"; then
+            git pull --rebase
+            git push
+          fi
