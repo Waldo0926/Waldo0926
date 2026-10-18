@@ -134,6 +134,19 @@ Based in **Malaysia / China** · open to **AI application and backend internship
 <sub>Updated daily by a GitHub Actions workflow using <a href="https://github.com/yoshi389111/github-profile-3d-contrib">github-profile-3d-contrib</a>.</sub>
 
 <!-- RECENT_ACTIVITY:START -->
+### Recent Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/activity/activity-en-dark.svg" />
+  <img src="./assets/activity/activity-en-light.svg" width="480" alt="Commits, pull requests and lines changed in the last 7 days" />
+</picture>
+
+- **[monash-hub](https://github.com/Waldo0926/monash-hub)** · Independent Monash student platform for course search, official information retrieval, study planning, WAM/GPA tools and community features. <sub>33 commits · 33 PRs</sub>
+- **[SecureView](https://github.com/Waldo0926/SecureView)** · Four-person Final Year Project: encrypted file sharing in the browser. Commits to the private team repo are counted here. <sub>28 commits · 20 PRs</sub>
+- **[monash-attendance-reminder](https://github.com/Waldo0926/monash-attendance-reminder)** · Privacy-focused Chrome extension for Monash students: finds attendance codes from Gmail, Ed Discussion and Moodle (local OCR included) and submits only after you review and confirm. <sub>2 commits · 2 PRs</sub>
+- 2 other private repos
+
+<sub>Commits on each repo's default branch and PRs I opened, private repos included. Updated daily by a GitHub Actions workflow, last run 2026-10-18.</sub>
 <!-- RECENT_ACTIVITY:END -->
 
 ## Portfolio Notes
