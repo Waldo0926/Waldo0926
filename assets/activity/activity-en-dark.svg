@@ -10,7 +10,7 @@
   <text x="456" y="102" fill="#e6edf3" font-size="14" font-weight="600" text-anchor="end"><tspan>65</tspan></text>
   <line x1="24" y1="112" x2="456" y2="112" stroke="#21262d" />
   <text x="24" y="132" fill="#8b949e" font-size="14">Pull requests</text>
-  <text x="456" y="132" fill="#e6edf3" font-size="14" font-weight="600" text-anchor="end"><tspan>68</tspan></text>
+  <text x="456" y="132" fill="#e6edf3" font-size="14" font-weight="600" text-anchor="end"><tspan>59</tspan></text>
   <line x1="24" y1="142" x2="456" y2="142" stroke="#21262d" />
   <text x="24" y="162" fill="#8b949e" font-size="14">Lines changed</text>
   <text x="456" y="162" fill="#e6edf3" font-size="14" font-weight="600" text-anchor="end"><tspan fill="#3fb950">+42,206</tspan><tspan> / </tspan><tspan fill="#f85149">−8,934</tspan></text>
