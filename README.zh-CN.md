@@ -30,6 +30,7 @@ Monash University 计算机科学专业学生（算法与软件方向），主�
   <a href="mailto:wensx0926@gmail.com"><img src="https://img.shields.io/badge/Email-wensx0926%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="mailto:swen0027@student.monash.edu"><img src="https://img.shields.io/badge/Email-swen0027%40student.monash.edu-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Monash Email" /></a>
   <a href="https://www.linkedin.com/in/shuoxun-wen/"><img src="https://img.shields.io/badge/LinkedIn-Shuoxun_Wen-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://waldo0926.github.io/"><img src="https://img.shields.io/badge/博客-waldo0926.github.io-222222?style=flat-square&logo=githubpages&logoColor=white" alt="博客" /></a>
   <br />
   <a href="https://wa.me/60172560436"><img src="https://img.shields.io/badge/WhatsApp-%2B60_17--256_0436-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
   <a href="https://u.wechat.com/MF78QB01Ooq7L9GHgP8kzJ4?s=4"><img src="https://img.shields.io/badge/WeChat-WenSX0926-07C160?style=flat-square&logo=wechat&logoColor=white" alt="WeChat" /></a>
