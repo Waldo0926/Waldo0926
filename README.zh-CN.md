@@ -61,12 +61,14 @@ Monash University 计算机科学专业学生（算法与软件方向），主�
 
 | 项目 | 在线体验 | 说明 |
 | :---: | :---: | --- |
-| **Monash Hub** | [monashhub.secureview.tech](https://monashhub.secureview.tech) | 一个人开发并已上线：课程、学位与官方政策检索（PostgreSQL 全文 + 模糊搜索）、带先修校验的课程规划、WAM/GPA 工具、学生社区，界面支持中、英、日、韩四种语言。 |
-| **SecureView** | [secureview.tech](https://secureview.tech) | 四人毕业设计（FYP）：浏览器端六种 AEAD 加密、密钥包裹共享、完整性验证与哈希链审计。团队合并的 203 个 PR 中有 182 个由我提交，涵盖安全代理、完整性巡检、CI 与发布闸门、22,264 次操作的容量测试、篡改测试，以及受保护的自动部署。源码、测试和文档已放进仓库，仅供查看。 |
+| **Monash Hub** | [monashhub.secureview.tech](https://monashhub.secureview.tech)<br>[![在线率](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FWaldo0926%2Fuptime%2FHEAD%2Fapi%2Fmonash-hub%2Fuptime.json&style=flat-square)](https://waldo0926.github.io/uptime/history/monash-hub) | 一个人开发并已上线：课程、学位与官方政策检索（PostgreSQL 全文 + 模糊搜索）、带先修校验的课程规划、WAM/GPA 工具、学生社区，界面支持中、英、日、韩四种语言。 |
+| **SecureView** | [secureview.tech](https://secureview.tech)<br>[![在线率](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FWaldo0926%2Fuptime%2FHEAD%2Fapi%2Fsecureview%2Fuptime.json&style=flat-square)](https://waldo0926.github.io/uptime/history/secureview) | 四人毕业设计（FYP）：浏览器端六种 AEAD 加密、密钥包裹共享、完整性验证与哈希链审计。团队合并的 203 个 PR 中有 182 个由我提交，涵盖安全代理、完整性巡检、CI 与发布闸门、22,264 次操作的容量测试、篡改测试，以及受保护的自动部署。源码、测试和文档已放进仓库，仅供查看。 |
 | **Monash Study Kit** | [最新版本](https://github.com/Waldo0926/monash-study-kit/releases/latest) | 本地优先的 MCP 服务（27 个工具）+ CLI，穿过 Okta/MFA 把 Moodle 和 Ed 接入 Claude：截止日期、公告、成绩，以及课件、课程笔记网页和录播字幕的全文搜索。设计上全部只读，已收录于 Glama。 |
 | **Edge Fleet Ops Automation** | 仅代码 | 从真实 Linux 边缘节点集群运维脚本整理出的脱敏重构，涵盖节点发现、健康巡检、Docker 检查和状态化告警。 |
-| **MUMGuide WeChat Bot** | 微信公众号“马莫百科” | 马莫百科公众号的中文问答机器人，全程不调用大模型。依次从站长教过的问答、Monash Hub API 和公众号文章里找答案，每条回答都附出处链接。后端用 aiohttp，部署在 Nginx 后面，数据存 SQLite，能在微信被动回复 5 秒、2048 字节的限制内答完。答不上的问题转给站长，站长回复后自动记住。用 pytest 和假 Hub 做离线测试。 |
+| **MUMGuide WeChat Bot** | 微信公众号“马莫百科”<br>[![在线率](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FWaldo0926%2Fuptime%2FHEAD%2Fapi%2Fmumguide-bot%2Fuptime.json&style=flat-square)](https://waldo0926.github.io/uptime/history/mumguide-bot) | 马莫百科公众号的中文问答机器人。先从站长教过的问答、Monash Hub API 和公众号文章里找答案，每条回答都附出处链接。规则答不上时，免费大模型只能摘资料里的原句，程序逐字核对后才发出（核对部分已单独发布为 [quotegate](https://github.com/Waldo0926/quotegate)）。后端用 aiohttp，部署在 Nginx 后面，数据存 SQLite，能在微信被动回复 5 秒、2048 字节的限制内答完。答不上的问题转给站长，站长回复后自动记住。用 pytest 和假 Hub 做离线测试。 |
 | **Monash Exchange Tracker（演示版）** | [在线演示](https://waldo0926.github.io/monash-abroad-tracker-demo/) | 私有正式系统自 2026 年 8 月起每天抓取约 164 个项目并遵守 `robots.txt`，支持字段级变化检测、与冻结的上一轮对比、人工核对的 QS 排名和受访问控制的查看页面。公开演示使用虚构数据。 |
+
+上面这些在线站点每 5 分钟由 GitHub Actions 检查一次，挂了会自动开 issue：[状态页](https://waldo0926.github.io/uptime/)。
 
 ## 更多项目
 
