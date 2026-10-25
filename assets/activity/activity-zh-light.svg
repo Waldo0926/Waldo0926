@@ -4,18 +4,18 @@
   <text x="24" y="32" fill="#1f2328" font-size="16" font-weight="600">最近 7 天</text>
   <line x1="24" y1="52" x2="456" y2="52" stroke="#eaeef2" />
   <text x="24" y="72" fill="#656d76" font-size="14">活跃仓库</text>
-  <text x="456" y="72" fill="#1f2328" font-size="14" font-weight="600" text-anchor="end"><tspan>9</tspan></text>
+  <text x="456" y="72" fill="#1f2328" font-size="14" font-weight="600" text-anchor="end"><tspan>16</tspan></text>
   <line x1="24" y1="82" x2="456" y2="82" stroke="#eaeef2" />
   <text x="24" y="102" fill="#656d76" font-size="14">提交</text>
-  <text x="456" y="102" fill="#1f2328" font-size="14" font-weight="600" text-anchor="end"><tspan>73</tspan></text>
+  <text x="456" y="102" fill="#1f2328" font-size="14" font-weight="600" text-anchor="end"><tspan>138</tspan></text>
   <line x1="24" y1="112" x2="456" y2="112" stroke="#eaeef2" />
   <text x="24" y="132" fill="#656d76" font-size="14">PR</text>
-  <text x="456" y="132" fill="#1f2328" font-size="14" font-weight="600" text-anchor="end"><tspan>99</tspan></text>
+  <text x="456" y="132" fill="#1f2328" font-size="14" font-weight="600" text-anchor="end"><tspan>131</tspan></text>
   <line x1="24" y1="142" x2="456" y2="142" stroke="#eaeef2" />
   <text x="24" y="162" fill="#656d76" font-size="14">增删行数</text>
-  <text x="456" y="162" fill="#1f2328" font-size="14" font-weight="600" text-anchor="end"><tspan fill="#1a7f37">+19,456</tspan><tspan> / </tspan><tspan fill="#cf222e">−7,526</tspan></text>
+  <text x="456" y="162" fill="#1f2328" font-size="14" font-weight="600" text-anchor="end"><tspan fill="#1a7f37">+33,573</tspan><tspan> / </tspan><tspan fill="#cf222e">−6,605</tspan></text>
   <line x1="24" y1="172" x2="456" y2="172" stroke="#eaeef2" />
   <text x="24" y="192" fill="#656d76" font-size="14">净增</text>
-  <text x="456" y="192" fill="#1f2328" font-size="14" font-weight="600" text-anchor="end"><tspan>+11,930</tspan></text>
+  <text x="456" y="192" fill="#1f2328" font-size="14" font-weight="600" text-anchor="end"><tspan>+26,968</tspan></text>
   </g>
 </svg>
