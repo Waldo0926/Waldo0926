@@ -146,15 +146,15 @@ The live sites above are checked every 5 minutes from GitHub Actions, and each o
   <img src="./assets/activity/activity-en-light.svg" width="480" alt="Commits, pull requests and lines changed in the last 7 days" />
 </picture>
 
-- **[monash-hub](https://github.com/Waldo0926/monash-hub)** · Independent Monash student platform for course search, official information retrieval, study planning, WAM/GPA tools and community features. <sub>36 commits · 43 PRs</sub>
-- **[waldo0926.github.io](https://github.com/Waldo0926/waldo0926.github.io)** <sub>16 commits · 3 PRs</sub>
+- **[monash-hub](https://github.com/Waldo0926/monash-hub)** · Independent Monash student platform for course search, official information retrieval, study planning, WAM/GPA tools and community features. <sub>45 commits · 48 PRs</sub>
+- **[waldo0926.github.io](https://github.com/Waldo0926/waldo0926.github.io)** <sub>27 commits · 4 PRs</sub>
 - **[monash-tools-docs](https://github.com/Waldo0926/monash-tools-docs)** <sub>12 commits · 3 PRs</sub>
-- **[mumguide-wechat-bot](https://github.com/Waldo0926/mumguide-wechat-bot)** · WeChat Q&A bot for 马莫百科 (Monash University Malaysia): rules first, quote-only AI fallback, the rest to a human <sub>8 commits · 8 PRs</sub>
-- **[SecureView](https://github.com/Waldo0926/SecureView)** · Four-person Final Year Project: encrypted file sharing in the browser. Commits to the private team repo are counted here. <sub>5 commits · 9 PRs</sub>
-- **[monash-study-kit](https://github.com/Waldo0926/monash-study-kit)** · 把 Monash 的 Moodle 和 Ed 接进 Claude（本地 MCP + 命令行，macOS / Windows） <sub>5 commits · 7 PRs</sub>
-- 3 other private repos
+- **[mumguide-wechat-bot](https://github.com/Waldo0926/mumguide-wechat-bot)** · WeChat Q&A bot for 马莫百科 (Monash University Malaysia): rules first, quote-only AI fallback, the rest to a human <sub>8 commits · 7 PRs</sub>
+- **[monash-study-kit](https://github.com/Waldo0926/monash-study-kit)** · 把 Monash 的 Moodle 和 Ed 接进 Claude（本地 MCP + 命令行，macOS / Windows） <sub>5 commits · 4 PRs</sub>
+- **[SecureView](https://github.com/Waldo0926/SecureView)** · Four-person Final Year Project: encrypted file sharing in the browser. Commits to the private team repo are counted here. <sub>3 commits · 6 PRs</sub>
+- 2 other private repos
 
-<sub>Commits on each repo's default branch and PRs I opened, private repos included. Updated daily by a GitHub Actions workflow, last run 2026-10-25.</sub>
+<sub>Commits on each repo's default branch and PRs I opened, private repos included. Updated daily by a GitHub Actions workflow, last run 2026-10-26.</sub>
 <!-- RECENT_ACTIVITY:END -->
 
 ## Portfolio Notes
