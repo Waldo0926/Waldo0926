@@ -21,7 +21,7 @@ Monash University 计算机科学专业学生（算法与软件方向），主�
 ### 项目方向总览
 
 <p align="center">
-  <img src="./assets/profile-overview/project-landscape-zh.svg?v=6" width="100%" alt="项目方向总览" />
+  <img src="./assets/profile-overview/project-landscape-zh.svg?v=7" width="100%" alt="项目方向总览" />
 </p>
 
 📫 **联系方式**
@@ -61,9 +61,9 @@ Monash University 计算机科学专业学生（算法与软件方向），主�
 
 | 项目 | 在线体验 | 说明 |
 | :---: | :---: | --- |
-| **Monash Hub** | [monashhub.secureview.tech](https://monashhub.secureview.tech)<br>[![在线率](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FWaldo0926%2Fuptime%2FHEAD%2Fapi%2Fmonash-hub%2Fuptime.json&style=flat-square)](https://waldo0926.github.io/uptime/history/monash-hub) | 一个人开发并已上线：课程、学位与官方政策检索（PostgreSQL 全文 + 模糊搜索）、带先修校验的课程规划、WAM/GPA 工具、学生社区，界面支持中、英、日、韩四种语言。 |
+| **Monash Hub** | [monashhub.secureview.tech](https://monashhub.secureview.tech)<br>[![在线率](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FWaldo0926%2Fuptime%2FHEAD%2Fapi%2Fmonash-hub%2Fuptime.json&style=flat-square)](https://waldo0926.github.io/uptime/history/monash-hub) | 一个人开发并已上线：课程、学位与官方政策检索（PostgreSQL 全文 + 模糊搜索）、带先修校验的课程规划、WAM/GPA 工具、学生社区，界面支持中、英、日、韩四种语言。除 Handbook 数据外还收录了两个校区官网约 3,100 个官方页面。CI 里有 799 个后端测试，跑在真实的 PostgreSQL 上；每次合并自动部署，部署后检查线上站点，失败就回滚到上一版。 |
 | **SecureView** | [secureview.tech](https://secureview.tech)<br>[![在线率](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FWaldo0926%2Fuptime%2FHEAD%2Fapi%2Fsecureview%2Fuptime.json&style=flat-square)](https://waldo0926.github.io/uptime/history/secureview) | 四人毕业设计（FYP）：浏览器端六种 AEAD 加密、密钥包裹共享、完整性验证与哈希链审计。团队合并的 203 个 PR 中有 182 个由我提交，涵盖安全代理、完整性巡检、CI 与发布闸门、22,264 次操作的容量测试、篡改测试，以及受保护的自动部署。源码、测试和文档已放进仓库，仅供查看。 |
-| **Monash Study Kit** | [最新版本](https://github.com/Waldo0926/monash-study-kit/releases/latest) | 本地优先的 MCP 服务（27 个工具）+ CLI，穿过 Okta/MFA 把 Moodle 和 Ed 接入 Claude：截止日期、公告、成绩，以及课件、课程笔记网页和录播字幕的全文搜索。设计上全部只读，已收录于 Glama。 |
+| **Monash Study Kit** | [PyPI](https://pypi.org/project/monash-study-kit/)<br>[使用指南](https://docs.secureview.tech/zh-cn/study-kit/) | 本地优先的 MCP 服务（17 个工具）+ CLI，穿过 Okta/MFA 把 Moodle 和 Ed 接入 Claude：截止日期、公告、成绩，以及课件、课程笔记网页、Ed 课程内容和录播字幕的全文搜索。设计上全部只读。已发布到 PyPI，macOS 和 Windows 都能一条命令安装，已收录于 Glama。 |
 | **Edge Fleet Ops Automation** | 仅代码 | 从真实 Linux 边缘节点集群运维脚本整理出的脱敏重构，涵盖节点发现、健康巡检、Docker 检查和状态化告警。 |
 | **MUMGuide WeChat Bot** | 微信公众号“马莫百科”<br>[![在线率](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FWaldo0926%2Fuptime%2FHEAD%2Fapi%2Fmumguide-bot%2Fuptime.json&style=flat-square)](https://waldo0926.github.io/uptime/history/mumguide-bot) | 马莫百科公众号的中文问答机器人。先从站长教过的问答、Monash Hub API 和公众号文章里找答案，每条回答都附出处链接。规则答不上时，免费大模型只能摘资料里的原句，程序逐字核对后才发出（核对部分已单独发布为 [quotegate](https://github.com/Waldo0926/quotegate)）。后端用 aiohttp，部署在 Nginx 后面，数据存 SQLite，能在微信被动回复 5 秒、2048 字节的限制内答完。答不上的问题转给站长，站长回复后自动记住。用 pytest 和假 Hub 做离线测试。 |
 | **Monash Exchange Tracker（演示版）** | [在线演示](https://waldo0926.github.io/monash-abroad-tracker-demo/) | 私有正式系统自 2026 年 8 月起每天抓取约 164 个项目并遵守 `robots.txt`，支持字段级变化检测、与冻结的上一轮对比、人工核对的 QS 排名和受访问控制的查看页面。公开演示使用虚构数据。 |
@@ -73,15 +73,17 @@ Monash University 计算机科学专业学生（算法与软件方向），主�
 ## 更多项目
 
 <details>
-<summary><strong>另外 20 个课程衍生与独立项目（按方向分组）</strong></summary>
+<summary><strong>另外 22 个课程衍生与独立项目（按方向分组）</strong></summary>
 <br />
 
-#### 学生工具与网页应用
+#### 学生工具、库与网页应用
 
 | 项目 | 做的是什么 |
 | --- | --- |
 | [ed-web](https://github.com/Waldo0926/ed-web) | 隐私优先的纯前端 Ed Discussion 工具，用于抓取、整理、搜索和总结课程论坛。 |
-| [monash-attendance-reminder](https://github.com/Waldo0926/monash-attendance-reminder) | 可配置的 Monash 签到助手：自动发现近期课程，从 Gmail、Moodle 与 Ed（含本地 OCR）查找签到码、发送提醒，并仅在本人确认后提交。 |
+| [monash-attendance-reminder](https://github.com/Waldo0926/monash-attendance-reminder) | 可配置的 Monash 签到助手：自动发现近期课程，从 Gmail、Moodle 与 Ed（含本地 OCR）查找签到码、发送提醒，并仅在本人确认后提交。2026 年 10 月 25 日已提交 Chrome 应用商店审核。 |
+| [quotegate](https://github.com/Waldo0926/quotegate) | 发布在 PyPI 上的小型 Python 库，没有任何依赖：大模型只能用资料里的原句回答，每句发出前由程序逐字核对。从微信问答机器人里拆出来的。 |
+| [monash-tools-docs](https://github.com/Waldo0926/monash-tools-docs) | 这些学生工具的中英文使用指南网站（[docs.secureview.tech](https://docs.secureview.tech)），用 Astro Starlight 搭建，同时提供 Study Kit 一键安装脚本，每天自动打包签到助手的安装包。 |
 
 #### 软件系统、网络与基础设施
 

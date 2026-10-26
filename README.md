@@ -21,7 +21,7 @@ Based in **Malaysia / China** · open to **AI application and backend internship
 ### Project Landscape
 
 <p align="center">
-  <img src="./assets/profile-overview/project-landscape-en.svg?v=6" width="100%" alt="Project landscape overview" />
+  <img src="./assets/profile-overview/project-landscape-en.svg?v=7" width="100%" alt="Project landscape overview" />
 </p>
 
 📫 **Get in touch**
@@ -61,9 +61,9 @@ Based in **Malaysia / China** · open to **AI application and backend internship
 
 | Project | Live | Notes |
 | :---: | :---: | --- |
-| **Monash Hub** | [monashhub.secureview.tech](https://monashhub.secureview.tech)<br>[![uptime](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FWaldo0926%2Fuptime%2FHEAD%2Fapi%2Fmonash-hub%2Fuptime.json&style=flat-square)](https://waldo0926.github.io/uptime/history/monash-hub) | Solo-built and in production: unit, degree and official-policy search (PostgreSQL full-text + fuzzy), course maps with prerequisite checks, WAM/GPA tools, a student community, and a UI in English, Chinese, Japanese and Korean. |
+| **Monash Hub** | [monashhub.secureview.tech](https://monashhub.secureview.tech)<br>[![uptime](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FWaldo0926%2Fuptime%2FHEAD%2Fapi%2Fmonash-hub%2Fuptime.json&style=flat-square)](https://waldo0926.github.io/uptime/history/monash-hub) | Solo-built and in production: unit, degree and official-policy search (PostgreSQL full-text + fuzzy), course maps with prerequisite checks, WAM/GPA tools, a student community, and a UI in English, Chinese, Japanese and Korean. About 3,100 official pages from both campuses' sites sit next to the Handbook data. 799 backend tests run against a real PostgreSQL in CI, and every merge deploys with a smoke check that rolls back on failure. |
 | **SecureView** | [secureview.tech](https://secureview.tech)<br>[![uptime](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FWaldo0926%2Fuptime%2FHEAD%2Fapi%2Fsecureview%2Fuptime.json&style=flat-square)](https://waldo0926.github.io/uptime/history/secureview) | Four-person Final Year Project: browser-side encryption with six AEAD suites, key-wrapped sharing, integrity verification and a hash-chained audit log. I authored 182 of the team's 203 merged PRs, spanning the security agent, integrity sweep, CI/release gates, a 22,264-operation capacity study, tamper testing, and guarded deployment. Source, tests and docs are published in the repo, view only. |
-| **Monash Study Kit** | [Latest release](https://github.com/Waldo0926/monash-study-kit/releases/latest) | Local-first MCP server (27 tools) + CLI that connects Moodle and Ed to Claude behind Okta/MFA: deadlines, announcements, grades, full-text search over course materials, notes sites and lecture transcripts. Read-only by design; listed on Glama. |
+| **Monash Study Kit** | [PyPI](https://pypi.org/project/monash-study-kit/)<br>[Guide](https://docs.secureview.tech/study-kit/) | Local-first MCP server (17 tools) + CLI that connects Moodle and Ed to Claude behind Okta/MFA: deadlines, announcements, grades, full-text search over course files, course-notes sites, Ed lessons and lecture transcripts. Read-only by design. Published on PyPI with a one-command install for macOS and Windows; listed on Glama. |
 | **Edge Fleet Ops Automation** | Code only | Sanitized reconstruction of automation for a real Linux edge-node fleet: node discovery, disk-health audits, Docker workload checks and stateful alerts. |
 | **MUMGuide WeChat Bot** | 马莫百科 on WeChat<br>[![uptime](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FWaldo0926%2Fuptime%2FHEAD%2Fapi%2Fmumguide-bot%2Fuptime.json&style=flat-square)](https://waldo0926.github.io/uptime/history/mumguide-bot) | Chinese Q&A bot for a student WeChat account. It answers from Q&A the owner taught it, the Monash Hub API and the account's articles, and every answer links its source. When those can't answer, a free language model may only quote sentences from the sources, and code checks each quote word for word before it is sent (published as [quotegate](https://github.com/Waldo0926/quotegate)). Built on aiohttp behind Nginx with SQLite, it fits WeChat's 5-second, 2048-byte passive reply limit. Questions it can't answer go to the owner, and the reply is remembered. Tested offline with pytest against a fake Hub. |
 | **Monash Exchange Tracker (demo)** | [live demo](https://waldo0926.github.io/monash-abroad-tracker-demo/) | The private production system has crawled ~164 programs daily since August 2026, honouring `robots.txt`, with field-level change detection, a frozen previous-round comparison, hand-verified QS rankings and an access-controlled viewer. The public demo runs on synthetic data. |
@@ -73,15 +73,17 @@ The live sites above are checked every 5 minutes from GitHub Actions, and each o
 ## More Projects
 
 <details>
-<summary><strong>20 more coursework-derived and independent projects, grouped by area</strong></summary>
+<summary><strong>22 more coursework-derived and independent projects, grouped by area</strong></summary>
 <br />
 
-#### Student Tools & Web Utilities
+#### Student Tools, Libraries & Web Utilities
 
 | Project | What it does |
 | --- | --- |
 | [ed-web](https://github.com/Waldo0926/ed-web) | A privacy-first, client-side web app for fetching, organising, searching, and summarising Ed Discussion course forums. |
-| [monash-attendance-reminder](https://github.com/Waldo0926/monash-attendance-reminder) | A cross-platform Chrome extension that discovers recent Monash Attendance activities, finds codes from Gmail, Moodle, and Ed with local OCR, sends reminders, and submits only after explicit confirmation. |
+| [monash-attendance-reminder](https://github.com/Waldo0926/monash-attendance-reminder) | A cross-platform Chrome extension that discovers recent Monash Attendance activities, finds codes from Gmail, Moodle, and Ed with local OCR, sends reminders, and submits only after explicit confirmation. Submitted to the Chrome Web Store on 25 October 2026. |
+| [quotegate](https://github.com/Waldo0926/quotegate) | A small Python library on PyPI with no dependencies: a language model may answer only with sentences quoted from your passages, and each quote is checked in code before it is sent. Pulled out of the WeChat bot. |
+| [monash-tools-docs](https://github.com/Waldo0926/monash-tools-docs) | Guide site for these student tools in English and Chinese ([docs.secureview.tech](https://docs.secureview.tech)), built with Astro Starlight. It also serves the Study Kit install scripts and packages the Attendance Helper zip daily. |
 
 #### Software Systems, Networking & Infrastructure
 
