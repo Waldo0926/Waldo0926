@@ -53,11 +53,11 @@ Monash University 计算机科学专业学生（算法与软件方向），主�
   <a href="https://github.com/Waldo0926/monash-hub"><img src="./assets/profile-cards/zh/monash-hub.svg?v=3" width="47%" alt="Monash Hub" /></a>
   <a href="https://github.com/Waldo0926/SecureView"><img src="./assets/profile-cards/zh/secureview.svg?v=4" width="47%" alt="SecureView" /></a>
   <br /><br />
-  <a href="https://github.com/Waldo0926/monash-study-kit"><img src="./assets/profile-cards/zh/monash-study-kit.svg?v=3" width="47%" alt="Monash Study Kit" /></a>
+  <a href="https://github.com/Waldo0926/monash-study-kit"><img src="./assets/profile-cards/zh/monash-study-kit.svg?v=4" width="47%" alt="Monash Study Kit" /></a>
   <a href="https://github.com/Waldo0926/edge-fleet-ops-automation"><img src="./assets/profile-cards/zh/edge-fleet.svg?v=3" width="47%" alt="Edge Fleet Ops Automation" /></a>
   <br /><br />
   <a href="https://github.com/Waldo0926/mumguide-wechat-bot"><img src="./assets/profile-cards/zh/mumguide-wechat-bot.svg?v=1" width="47%" alt="MUMGuide WeChat Bot" /></a>
-  <a href="https://github.com/Waldo0926/monash-abroad-tracker-demo"><img src="./assets/profile-cards/zh/abroad-tracker.svg?v=3" width="47%" alt="Monash Exchange Tracker (demo)" /></a>
+  <a href="https://github.com/Waldo0926/monash-attendance-reminder"><img src="./assets/profile-cards/zh/attendance-helper.svg?v=1" width="47%" alt="Monash Attendance Helper" /></a>
 </p>
 
 | 项目 | 在线体验 | 说明 |
@@ -67,7 +67,7 @@ Monash University 计算机科学专业学生（算法与软件方向），主�
 | **Monash Study Kit** | [PyPI](https://pypi.org/project/monash-study-kit/)<br>[使用指南](https://docs.secureview.tech/zh-cn/study-kit/) | 本地优先的 MCP 服务（18 个工具）+ CLI，穿过 Okta/MFA 把 Moodle 和 Ed 接入 Claude、Codex、Cursor 等本地 MCP 软件：截止日期、公告、成绩，以及课件、课程笔记网页、Ed 课程内容和录播字幕的全文搜索。设计上全部只读。1.4 起有可选的远程模式，ChatGPT 和网页版 Claude 用一次性配对码连上后也能查同一份数据。已发布到 PyPI，macOS 和 Windows 都能一条命令安装，已收录于 Glama。 |
 | **Edge Fleet Ops Automation** | 仅代码 | 从真实 Linux 边缘节点集群运维脚本整理出的脱敏重构，涵盖节点发现、健康巡检、Docker 检查和状态化告警。 |
 | **MUMGuide WeChat Bot** | 微信公众号“马莫百科”<br>[使用指南](https://docs.secureview.tech/zh-cn/wechat-bot/)<br>[![在线率](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FWaldo0926%2Fuptime%2FHEAD%2Fapi%2Fmumguide-bot%2Fuptime.json&style=flat-square)](https://waldo0926.github.io/uptime/history/mumguide-bot) | 马莫百科公众号的中文问答机器人。先从站长教过的问答、Monash Hub API 和公众号文章里找答案，每条回答都附出处链接。规则答不上时，免费大模型只能摘资料里的原句，程序逐字核对后才发出（核对部分已单独发布为 [quotegate](https://github.com/Waldo0926/quotegate)）。后端用 aiohttp，部署在 Nginx 后面，数据存 SQLite，能在微信被动回复 5 秒、2048 字节的限制内答完。答不上的问题转给站长，站长回复后自动记住。用 pytest 和假 Hub 做离线测试。 |
-| **Monash Exchange Tracker（演示版）** | [在线演示](https://waldo0926.github.io/monash-abroad-tracker-demo/) | 私有正式系统自 2026 年 8 月起每天抓取约 164 个项目并遵守 `robots.txt`，支持字段级变化检测、与冻结的上一轮对比、人工核对的 QS 排名和受访问控制的查看页面。公开演示使用虚构数据。 |
+| **Monash Attendance Helper** | [Chrome 应用商店](https://chromewebstore.google.com/detail/monash-attendance-helper/mnbkcmgkjmfngcifndchaidndhdfafcd?hl=zh-CN)<br>[使用指南](https://docs.secureview.tech/zh-cn/attendance/) | Manifest V3 的 Chrome 扩展，Windows、macOS、Linux 都能用。先从 Monash Attendance 读出最近的课，再去 Gmail、Ed 和 Moodle 找签到码，截图里和 Word 文件里的码也能认，OCR 打包在扩展里，不联网。学生逐节勾选上过的课并确认声明之前，什么都不会提交。打包商店 zip 的脚本发现任何远程代码就拒绝打包，CI 在每个 PR 上都跑一遍。 |
 
 上面这些在线站点每 5 分钟由 GitHub Actions 检查一次，挂了会自动开 issue：[状态页](https://waldo0926.github.io/uptime/)。
 
@@ -84,7 +84,7 @@ Monash University 计算机科学专业学生（算法与软件方向），主�
 | 项目 | 做的是什么 |
 | --- | --- |
 | [ed-web](https://github.com/Waldo0926/ed-web) | 隐私优先的纯前端 Ed Discussion 工具，用于抓取、整理、搜索和总结课程论坛。 |
-| [monash-attendance-reminder](https://github.com/Waldo0926/monash-attendance-reminder) | 可配置的 Monash 签到助手：自动发现近期课程，从 Gmail、Moodle 与 Ed（含本地 OCR）查找签到码、发送提醒，并仅在本人确认后提交。已上架 [Chrome 应用商店](https://chromewebstore.google.com/detail/monash-attendance-helper/mnbkcmgkjmfngcifndchaidndhdfafcd?hl=zh-CN)。 |
+| [monash-abroad-tracker-demo](https://github.com/Waldo0926/monash-abroad-tracker-demo) | 交换项目追踪器的公开演示版，用虚构数据（[在线演示](https://waldo0926.github.io/monash-abroad-tracker-demo/)）。私有正式系统自 2026 年 8 月起每天抓取约 164 个项目并遵守 `robots.txt`，支持字段级变化检测、与冻结的上一轮对比和人工核对的 QS 排名。 |
 | [quotegate](https://github.com/Waldo0926/quotegate) | 发布在 PyPI 上的小型 Python 库，没有任何依赖：大模型只能用资料里的原句回答，每句发出前由程序逐字核对。从微信问答机器人里拆出来的。 |
 | [monash-tools-docs](https://github.com/Waldo0926/monash-tools-docs) | 这些学生工具的中英文使用指南网站（[docs.secureview.tech](https://docs.secureview.tech)），用 Astro Starlight 搭建，同时提供 Study Kit 一键安装脚本，每天自动打包签到助手的安装包。 |
 
