@@ -149,15 +149,15 @@ Install and usage guides for the student tools (Study Kit, Monash Hub, Ed Web, A
   <img src="./assets/activity/activity-en-light.svg" width="480" alt="Commits, pull requests and lines changed in the last 7 days" />
 </picture>
 
-- **[monash-hub](https://github.com/Waldo0926/monash-hub)** · Independent Monash student platform for course search, official information retrieval, study planning, WAM/GPA tools and community features. <sub>54 commits · 54 PRs</sub>
+- **[monash-hub](https://github.com/Waldo0926/monash-hub)** · Independent Monash student platform for course search, official information retrieval, study planning, WAM/GPA tools and community features. <sub>55 commits · 55 PRs</sub>
 - **[waldo0926.github.io](https://github.com/Waldo0926/waldo0926.github.io)** <sub>27 commits · 4 PRs</sub>
-- **[monash-tools-docs](https://github.com/Waldo0926/monash-tools-docs)** <sub>12 commits · 3 PRs</sub>
+- **[monash-tools-docs](https://github.com/Waldo0926/monash-tools-docs)** <sub>19 commits · 9 PRs</sub>
+- **[monash-study-kit](https://github.com/Waldo0926/monash-study-kit)** · 把 Monash 的 Moodle 和 Ed 接进 Claude、Codex、Cursor 等 AI 软件（本地 MCP + 命令行，macOS / Windows / Linux） <sub>11 commits · 10 PRs</sub>
 - **[mumguide-wechat-bot](https://github.com/Waldo0926/mumguide-wechat-bot)** · WeChat Q&A bot for 马莫百科 (Monash University Malaysia): rules first, quote-only AI fallback, the rest to a human <sub>8 commits · 7 PRs</sub>
-- **[monash-study-kit](https://github.com/Waldo0926/monash-study-kit)** · 把 Monash 的 Moodle 和 Ed 接进 Claude（本地 MCP + 命令行，macOS / Windows） <sub>5 commits · 4 PRs</sub>
 - **[ed-web](https://github.com/Waldo0926/ed-web)** · A privacy-first, client-side web app for fetching, organising, searching, and summarising Ed Discussion course forums. <sub>3 commits · 3 PRs</sub>
 - 2 other private repos
 
-<sub>Commits on each repo's default branch and PRs I opened, private repos included. Updated daily by a GitHub Actions workflow, last run 2026-10-28.</sub>
+<sub>Commits on each repo's default branch and PRs I opened, private repos included. Updated daily by a GitHub Actions workflow, last run 2026-10-29.</sub>
 <!-- RECENT_ACTIVITY:END -->
 
 ## Portfolio Notes
