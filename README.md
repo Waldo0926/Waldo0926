@@ -53,11 +53,11 @@ Based in **Malaysia / China** · open to **AI application and backend internship
   <a href="https://github.com/Waldo0926/monash-hub"><img src="./assets/profile-cards/en/monash-hub.svg?v=3" width="47%" alt="Monash Hub" /></a>
   <a href="https://github.com/Waldo0926/SecureView"><img src="./assets/profile-cards/en/secureview.svg?v=4" width="47%" alt="SecureView" /></a>
   <br /><br />
-  <a href="https://github.com/Waldo0926/monash-study-kit"><img src="./assets/profile-cards/en/monash-study-kit.svg?v=3" width="47%" alt="Monash Study Kit" /></a>
+  <a href="https://github.com/Waldo0926/monash-study-kit"><img src="./assets/profile-cards/en/monash-study-kit.svg?v=4" width="47%" alt="Monash Study Kit" /></a>
   <a href="https://github.com/Waldo0926/edge-fleet-ops-automation"><img src="./assets/profile-cards/en/edge-fleet.svg?v=3" width="47%" alt="Edge Fleet Ops Automation" /></a>
   <br /><br />
   <a href="https://github.com/Waldo0926/mumguide-wechat-bot"><img src="./assets/profile-cards/en/mumguide-wechat-bot.svg?v=1" width="47%" alt="MUMGuide WeChat Bot" /></a>
-  <a href="https://github.com/Waldo0926/monash-abroad-tracker-demo"><img src="./assets/profile-cards/en/abroad-tracker.svg?v=3" width="47%" alt="Monash Exchange Tracker (demo)" /></a>
+  <a href="https://github.com/Waldo0926/monash-attendance-reminder"><img src="./assets/profile-cards/en/attendance-helper.svg?v=1" width="47%" alt="Monash Attendance Helper" /></a>
 </p>
 
 | Project | Live | Notes |
@@ -67,7 +67,7 @@ Based in **Malaysia / China** · open to **AI application and backend internship
 | **Monash Study Kit** | [PyPI](https://pypi.org/project/monash-study-kit/)<br>[Guide](https://docs.secureview.tech/study-kit/) | Local-first MCP server (18 tools) + CLI that connects Moodle and Ed behind Okta/MFA to Claude, Codex, Cursor and other local MCP apps: deadlines, announcements, grades, full-text search over course files, course-notes sites, Ed lessons and lecture transcripts. Read-only by design. Since 1.4 an optional remote mode lets ChatGPT and Claude on the web reach the same data, paired with a one-time code. Published on PyPI with a one-command install for macOS and Windows; listed on Glama. |
 | **Edge Fleet Ops Automation** | Code only | Sanitized reconstruction of automation for a real Linux edge-node fleet: node discovery, disk-health audits, Docker workload checks and stateful alerts. |
 | **MUMGuide WeChat Bot** | 马莫百科 on WeChat<br>[Guide](https://docs.secureview.tech/wechat-bot/)<br>[![uptime](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FWaldo0926%2Fuptime%2FHEAD%2Fapi%2Fmumguide-bot%2Fuptime.json&style=flat-square)](https://waldo0926.github.io/uptime/history/mumguide-bot) | Chinese Q&A bot for a student WeChat account. It answers from Q&A the owner taught it, the Monash Hub API and the account's articles, and every answer links its source. When those can't answer, a free language model may only quote sentences from the sources, and code checks each quote word for word before it is sent (published as [quotegate](https://github.com/Waldo0926/quotegate)). Built on aiohttp behind Nginx with SQLite, it fits WeChat's 5-second, 2048-byte passive reply limit. Questions it can't answer go to the owner, and the reply is remembered. Tested offline with pytest against a fake Hub. |
-| **Monash Exchange Tracker (demo)** | [live demo](https://waldo0926.github.io/monash-abroad-tracker-demo/) | The private production system has crawled ~164 programs daily since August 2026, honouring `robots.txt`, with field-level change detection, a frozen previous-round comparison, hand-verified QS rankings and an access-controlled viewer. The public demo runs on synthetic data. |
+| **Monash Attendance Helper** | [Chrome Web Store](https://chromewebstore.google.com/detail/monash-attendance-helper/mnbkcmgkjmfngcifndchaidndhdfafcd)<br>[Guide](https://docs.secureview.tech/attendance/) | Manifest V3 Chrome extension for Windows, macOS and Linux. It reads recent classes from Monash Attendance, then looks for the codes in Gmail, Ed and Moodle, including codes posted as screenshots or inside Word files, which it reads with OCR bundled in the extension and no network calls. Nothing is submitted until the student ticks each class they attended and confirms a declaration. A build script refuses to package the store zip if it finds any remote code, and CI runs it on every pull request. |
 
 The live sites above are checked every 5 minutes from GitHub Actions, and each outage opens an issue: [status page](https://waldo0926.github.io/uptime/).
 
@@ -84,7 +84,7 @@ Install and usage guides for the student tools (Study Kit, Monash Hub, Ed Web, A
 | Project | What it does |
 | --- | --- |
 | [ed-web](https://github.com/Waldo0926/ed-web) | A privacy-first, client-side web app for fetching, organising, searching, and summarising Ed Discussion course forums. |
-| [monash-attendance-reminder](https://github.com/Waldo0926/monash-attendance-reminder) | A cross-platform Chrome extension that discovers recent Monash Attendance activities, finds codes from Gmail, Moodle, and Ed with local OCR, sends reminders, and submits only after explicit confirmation. Now on the [Chrome Web Store](https://chromewebstore.google.com/detail/monash-attendance-helper/mnbkcmgkjmfngcifndchaidndhdfafcd). |
+| [monash-abroad-tracker-demo](https://github.com/Waldo0926/monash-abroad-tracker-demo) | Public demo of my exchange tracker on synthetic data ([live demo](https://waldo0926.github.io/monash-abroad-tracker-demo/)). The private system has crawled ~164 programs daily since August 2026, honouring `robots.txt`, with field-level change detection, a frozen previous-round comparison and hand-verified QS rankings. |
 | [quotegate](https://github.com/Waldo0926/quotegate) | A small Python library on PyPI with no dependencies: a language model may answer only with sentences quoted from your passages, and each quote is checked in code before it is sent. Pulled out of the WeChat bot. |
 | [monash-tools-docs](https://github.com/Waldo0926/monash-tools-docs) | Guide site for these student tools in English and Chinese ([docs.secureview.tech](https://docs.secureview.tech)), built with Astro Starlight. It also serves the Study Kit install scripts and packages the Attendance Helper zip daily. |
 
