@@ -3,7 +3,7 @@
 [English](https://github.com/Waldo0926/Waldo0926/blob/main/README.md) · **中文**
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Noto+Sans+SC&weight=600&size=22&duration=3000&pause=1200&color=7C3AED&center=true&vCenter=true&width=760&height=50&lines=Monash+University+%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%93%E4%B8%9A;%E5%81%9A+AI+%E5%BA%94%E7%94%A8%E5%92%8C+Python+%E5%90%8E%E7%AB%AF;%E6%89%BE%E5%AE%9E%E4%B9%A0%EF%BC%9A2026+%E5%B9%B4+10+%E6%9C%88%E5%88%B0+2027+%E5%B9%B4+2+%E6%9C%88" alt="Monash University 计算机科学专业，做 AI 应用和 Python 后端，找 2026 年 10 月到 2027 年 2 月的实习" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Noto+Sans+SC&weight=600&size=22&duration=3000&pause=1200&color=7C3AED&center=true&vCenter=true&width=760&height=50&lines=Monash+University+%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%93%E4%B8%9A;%E5%81%9A+AI+%E5%BA%94%E7%94%A8%E5%92%8C+Python+%E5%90%8E%E7%AB%AF" alt="Monash University 计算机科学专业，做 AI 应用和 Python 后端" />
 </p>
 
 <p align="center">
@@ -11,12 +11,9 @@
   <a href="https://www.monash.edu.my/study/why/our-world-university-rankings"><img src="https://img.shields.io/badge/QS_World_Ranking-31st_(2027)-eab308?style=for-the-badge" alt="QS World Ranking - 31st (2027)" /></a>
   <br />
   <a href="https://github.com/Waldo0926"><img src="https://img.shields.io/badge/Location-Malaysia_%2F_China-2563eb?style=for-the-badge" alt="Location - Malaysia / China" /></a>
-  <a href="mailto:wensx0926@gmail.com"><img src="https://img.shields.io/badge/Open_to-AI_%2F_Backend_Internships_(Oct_2026–Feb_2027)-16a34a?style=for-the-badge" alt="Open to AI and backend internships, Oct 2026 to Feb 2027" /></a>
 </p>
 
 Monash University 计算机科学专业学生（算法与软件方向），主要做 **AI 应用和 Python 后端**：让 Claude 用上真实学生数据的 MCP 工具，用 FastAPI 和 aiohttp 写的 API 服务，以及配套的测试和部署。平时也做全栈产品和基础设施自动化，喜欢把应用算法落地成能用的软件。
-
-目前在**马来西亚 / 中国**，正在找 **AI 应用开发和后端实习**。马来西亚**现在**就能到岗，中国 **2026 年 11 月 9 日**起可到岗，都可以做到 **2027 年 2 月**。
 
 ### 项目方向总览
 
