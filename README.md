@@ -3,7 +3,7 @@
 **English** · [中文](https://github.com/Waldo0926/Waldo0926/blob/main/README.zh-CN.md)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1200&color=7C3AED&center=true&vCenter=true&width=760&height=50&lines=Computer+Science+student+at+Monash+University;Building+AI+applications+and+Python+backends;Open+to+internships%2C+Oct+2026+to+Feb+2027" alt="Computer Science student at Monash University, building AI applications and Python backends, open to internships from Oct 2026 to Feb 2027" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1200&color=7C3AED&center=true&vCenter=true&width=760&height=50&lines=Computer+Science+student+at+Monash+University;Building+AI+applications+and+Python+backends" alt="Computer Science student at Monash University, building AI applications and Python backends" />
 </p>
 
 <p align="center">
@@ -11,12 +11,9 @@
   <a href="https://www.monash.edu.my/study/why/our-world-university-rankings"><img src="https://img.shields.io/badge/QS_World_Ranking-31st_(2027)-eab308?style=for-the-badge" alt="QS World Ranking - 31st (2027)" /></a>
   <br />
   <a href="https://github.com/Waldo0926"><img src="https://img.shields.io/badge/Location-Malaysia_%2F_China-2563eb?style=for-the-badge" alt="Location - Malaysia / China" /></a>
-  <a href="mailto:wensx0926@gmail.com"><img src="https://img.shields.io/badge/Open_to-AI_%2F_Backend_Internships_(Oct_2026–Feb_2027)-16a34a?style=for-the-badge" alt="Open to AI and backend internships, Oct 2026 to Feb 2027" /></a>
 </p>
 
 Computer Science student at **Monash University** (Algorithms & Software major). Most of my work is **AI applications and Python backends**: MCP tools that let Claude work with real student data, API services in FastAPI and aiohttp, and the testing and deployment around them. I also build full-stack products and infrastructure automation, and I enjoy turning applied algorithms into working software.
-
-Based in **Malaysia / China** · open to **AI application and backend internships**, available **now** in Malaysia and from **9 November 2026** in China, through to **February 2027**.
 
 ### Project Landscape
 
