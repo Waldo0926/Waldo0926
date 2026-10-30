@@ -146,15 +146,15 @@ Monash University 计算机科学专业学生（算法与软件方向），主�
   <img src="./assets/activity/activity-zh-light.svg" width="480" alt="最近 7 天的提交、PR 和代码增删" />
 </picture>
 
-- **[monash-hub](https://github.com/Waldo0926/monash-hub)** · 给 Monash 学生用的课程、学位和官方政策检索网站，已上线。 <sub>55 次提交 · 55 个 PR</sub>
-- **[waldo0926.github.io](https://github.com/Waldo0926/waldo0926.github.io)** <sub>27 次提交 · 4 个 PR</sub>
-- **[monash-tools-docs](https://github.com/Waldo0926/monash-tools-docs)** <sub>19 次提交 · 9 个 PR</sub>
+- **[monash-hub](https://github.com/Waldo0926/monash-hub)** · 给 Monash 学生用的课程、学位和官方政策检索网站，已上线。 <sub>55 次提交 · 57 个 PR</sub>
+- **[waldo0926.github.io](https://github.com/Waldo0926/waldo0926.github.io)** <sub>29 次提交 · 4 个 PR</sub>
+- **[monash-tools-docs](https://github.com/Waldo0926/monash-tools-docs)** <sub>20 次提交 · 9 个 PR</sub>
 - **[monash-study-kit](https://github.com/Waldo0926/monash-study-kit)** · 把 Moodle 和 Ed 接到 Claude 的本地 MCP 服务和命令行工具。 <sub>11 次提交 · 10 个 PR</sub>
 - **[mumguide-wechat-bot](https://github.com/Waldo0926/mumguide-wechat-bot)** · 学生公众号的中文问答机器人，不接大模型。 <sub>8 次提交 · 7 个 PR</sub>
-- **[ed-web](https://github.com/Waldo0926/ed-web)** · 在浏览器里整理、搜索和总结 Ed 论坛帖子的网页工具。 <sub>3 次提交 · 3 个 PR</sub>
+- **[SecureView](https://github.com/Waldo0926/SecureView)** · 四人毕业设计，浏览器端加密的文件共享平台。私有团队仓库的提交也算在这里。 <sub>4 次提交 · 5 个 PR</sub>
 - 另外 2 个私有仓库
 
-<sub>统计各仓库默认分支上的提交和我开的 PR，包括私有仓库。由 GitHub Actions 每天更新，上次更新 2026-10-29。</sub>
+<sub>统计各仓库默认分支上的提交和我开的 PR，包括私有仓库。由 GitHub Actions 每天更新，上次更新 2026-10-30。</sub>
 <!-- RECENT_ACTIVITY:END -->
 
 ## 作品集说明
