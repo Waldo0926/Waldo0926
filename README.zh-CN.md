@@ -13,7 +13,9 @@
   <a href="https://github.com/Waldo0926"><img src="https://img.shields.io/badge/Location-Malaysia_%2F_China-2563eb?style=for-the-badge" alt="Location - Malaysia / China" /></a>
 </p>
 
-Monash University 计算机科学专业学生（算法与软件方向），主要做 **AI 应用和 Python 后端**：让 Claude 用上真实学生数据的 MCP 工具，用 FastAPI 和 aiohttp 写的 API 服务，以及配套的测试和部署。平时也做全栈产品和基础设施自动化，喜欢把应用算法落地成能用的软件。
+在Monash University Malaysia读计算机科学（算法与软件方向）。平时做学生工具、后端、安全项目，也折腾Linux服务器。其他仓库还有算法、数据、网络和早期课程实验。
+
+开发过程、遇到的问题和解决办法写在[我的博客](https://blog.secureview.tech)；想把公开项目一次看完，可以去[项目归档](https://blog.secureview.tech/zh/projects/)。
 
 ### 项目方向总览
 
@@ -27,7 +29,7 @@ Monash University 计算机科学专业学生（算法与软件方向），主�
   <a href="mailto:wensx0926@gmail.com"><img src="https://img.shields.io/badge/Email-wensx0926%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="mailto:swen0027@student.monash.edu"><img src="https://img.shields.io/badge/Email-swen0027%40student.monash.edu-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Monash Email" /></a>
   <a href="https://www.linkedin.com/in/shuoxun-wen/"><img src="https://img.shields.io/badge/LinkedIn-Shuoxun_Wen-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://waldo0926.github.io/"><img src="https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-waldo0926.github.io-222222?style=flat-square&logo=githubpages&logoColor=white" alt="博客" /></a>
+  <a href="https://blog.secureview.tech/zh/"><img src="https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-blog.secureview.tech-222222?style=flat-square&logo=githubpages&logoColor=white" alt="博客" /></a>
   <a href="https://docs.secureview.tech/zh-cn/"><img src="https://img.shields.io/badge/%E5%B7%A5%E5%85%B7%E6%8C%87%E5%8D%97-docs.secureview.tech-1e5eff?style=flat-square&logo=readthedocs&logoColor=white" alt="工具指南" /></a>
   <br />
   <a href="https://wa.me/60172560436"><img src="https://img.shields.io/badge/WhatsApp-%2B60_17--256_0436-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
@@ -57,18 +59,16 @@ Monash University 计算机科学专业学生（算法与软件方向），主�
   <a href="https://github.com/Waldo0926/mumguide-wechat-bot"><img src="./assets/profile-cards/zh/mumguide-wechat-bot.svg?v=1" width="47%" alt="MUMGuide WeChat Bot" /></a>
 </p>
 
-| 项目 | 在线体验 | 说明 |
-| :---: | :---: | --- |
-| **Monash Hub** | [monashhub.secureview.tech](https://monashhub.secureview.tech)<br>[![在线率](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FWaldo0926%2Fuptime%2FHEAD%2Fapi%2Fmonash-hub%2Fuptime.json&style=flat-square)](https://waldo0926.github.io/uptime/history/monash-hub) | 一个人开发并已上线：课程、学位与官方政策检索（PostgreSQL 全文 + 模糊搜索）、带先修校验的课程规划、WAM/GPA 工具、学生社区、重要日期、马来西亚学费和给家长看的中文页面，界面支持中、英、日、韩四种语言。除 Handbook 数据外还从两个校区官网的 sitemap 收录了 2,917 个官方页面，提问面板也会显示马莫百科机器人的回答。CI 里有 891 个后端测试，跑在真实的 PostgreSQL 上；每次合并自动部署，部署后检查线上站点，失败就回滚到上一版。 |
-| **SecureView** | [secureview.tech](https://secureview.tech)<br>[![在线率](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FWaldo0926%2Fuptime%2FHEAD%2Fapi%2Fsecureview%2Fuptime.json&style=flat-square)](https://waldo0926.github.io/uptime/history/secureview) | 四人毕业设计（FYP）：浏览器端六种 AEAD 加密、密钥包裹共享、完整性验证与哈希链审计。团队合并的 212 个 PR 中有 187 个由我提交，涵盖安全代理、完整性巡检、CI 与发布闸门、22,264 次操作的容量测试、篡改测试，以及受保护的自动部署。源码、测试和文档已放进仓库，仅供查看。 |
-| **Monash Study Kit** | [PyPI](https://pypi.org/project/monash-study-kit/)<br>[使用指南](https://docs.secureview.tech/zh-cn/study-kit/) | 本地优先的 MCP 服务（19 个工具）+ CLI，穿过 Okta/MFA 把 Moodle 和 Ed 接入 Claude、Codex、Cursor 等本地 MCP 软件：截止日期、公告、成绩，以及课件、课程笔记网页、Ed 课程内容和录播字幕的全文搜索。对 Moodle 和 Ed 设计上只读。1.4 起有可选的远程模式，ChatGPT 和网页版 Claude 用一次性配对码连上后也能查同一份数据，每个软件自己选能用哪些功能。1.5 起可以在 AI 里直接接上学校 Gmail 和考勤，起草邮件、改标签和签到都会先给完整预览，学生确认后才执行。已发布到 PyPI，macOS 和 Windows 都能一条命令安装，已收录于 Glama。 |
-| **Edge Fleet Ops Automation** | 仅代码 | 从真实 Linux 边缘节点集群运维脚本整理出的脱敏重构，涵盖节点发现、健康巡检、Docker 检查和状态化告警。 |
-| **Monash Attendance Helper** | [Chrome 应用商店](https://chromewebstore.google.com/detail/monash-attendance-helper/mnbkcmgkjmfngcifndchaidndhdfafcd?hl=zh-CN)<br>[使用指南](https://docs.secureview.tech/zh-cn/attendance/) | Manifest V3 的 Chrome 扩展，Windows、macOS、Linux 都能用。先从 Monash Attendance 读出最近的课，再去 Gmail、Ed 和 Moodle 找签到码，截图里和 Word 文件里的码也能认，OCR 打包在扩展里，不联网。学生逐节勾选上过的课并确认声明之前，什么都不会提交。打包商店 zip 的脚本发现任何远程代码就拒绝打包，CI 在每个 PR 上都跑一遍。 |
-| **MUMGuide WeChat Bot** | 微信公众号“马莫百科”<br>[使用指南](https://docs.secureview.tech/zh-cn/wechat-bot/)<br>[![在线率](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FWaldo0926%2Fuptime%2FHEAD%2Fapi%2Fmumguide-bot%2Fuptime.json&style=flat-square)](https://waldo0926.github.io/uptime/history/mumguide-bot) | 马莫百科公众号的中文问答机器人。先从站长教过的问答、Monash Hub API 和公众号文章里找答案，每条回答都附出处链接。规则答不上时，免费大模型只能摘资料里的原句，程序逐字核对后才发出（核对部分已单独发布为 [quotegate](https://github.com/Waldo0926/quotegate)）。后端用 aiohttp，部署在 Nginx 后面，数据存 SQLite，能在微信被动回复 5 秒、2048 字节的限制内答完。答不上的问题转给站长，站长回复后自动记住。用 pytest 和假 Hub 做离线测试。 |
+想看详细功能、截图、安装和测试，直接打开对应的项目仓库：
 
-上面这些在线站点每 5 分钟由 GitHub Actions 检查一次，挂了会自动开 issue：[状态页](https://waldo0926.github.io/uptime/)。
+- **[Monash Hub](https://monashhub.secureview.tech)** — 课程、学位规划、WAM/GPA和带出处的官方资料（[代码](https://github.com/Waldo0926/monash-hub)）
+- **[SecureView](https://github.com/Waldo0926/SecureView)** — 我们四人毕业设计的加密文件分享平台（[网站](https://secureview.tech)）
+- **[Monash Study Kit](https://github.com/Waldo0926/monash-study-kit)** — 在AI里查自己的Moodle和Ed；可选邮箱和考勤，执行写操作前会要求确认（[指南](https://docs.secureview.tech/zh-cn/study-kit/)）
+- **[Edge Fleet Ops Automation](https://github.com/Waldo0926/edge-fleet-ops-automation)** — 从早期Linux节点管理工具整理的脱敏版本
+- **[签到助手](https://github.com/Waldo0926/monash-attendance-reminder)** — 查签到码，学生自行确认提交
+- **[马莫百科问答机器人](https://github.com/Waldo0926/mumguide-wechat-bot)** — 在微信上回答学生问题并附来源
 
-这些学生工具（Study Kit、Monash Hub、Ed Web、签到助手和公众号机器人）的中英文安装和使用指南都在 **[docs.secureview.tech](https://docs.secureview.tech/zh-cn/)**。
+**[读博客](https://blog.secureview.tech/zh/)** · **[看全部项目](https://blog.secureview.tech/zh/projects/)** · **[学生工具指南](https://docs.secureview.tech/zh-cn/)** · **[网站运行状态](https://waldo0926.github.io/uptime/)**
 
 ## 更多项目
 
