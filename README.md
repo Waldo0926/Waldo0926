@@ -13,7 +13,9 @@
   <a href="https://github.com/Waldo0926"><img src="https://img.shields.io/badge/Location-Malaysia_%2F_China-2563eb?style=for-the-badge" alt="Location - Malaysia / China" /></a>
 </p>
 
-Computer Science student at **Monash University** (Algorithms & Software major). Most of my work is **AI applications and Python backends**: MCP tools that let Claude work with real student data, API services in FastAPI and aiohttp, and the testing and deployment around them. I also build full-stack products and infrastructure automation, and I enjoy turning applied algorithms into working software.
+I study **Computer Science (Algorithms & Software) at Monash University Malaysia**. I build tools for students, work on backend and security projects, and tinker with Linux and self-hosted services. My other repositories cover algorithms, data, networking and earlier coursework.
+
+I write about the engineering decisions and the things that went wrong on my **[blog](https://blog.secureview.tech)**. The **[project archive](https://blog.secureview.tech/projects/)** has a shorter description of each public repository.
 
 ### Project Landscape
 
@@ -27,7 +29,7 @@ Computer Science student at **Monash University** (Algorithms & Software major).
   <a href="mailto:wensx0926@gmail.com"><img src="https://img.shields.io/badge/Email-wensx0926%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="mailto:swen0027@student.monash.edu"><img src="https://img.shields.io/badge/Email-swen0027%40student.monash.edu-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Monash Email" /></a>
   <a href="https://www.linkedin.com/in/shuoxun-wen/"><img src="https://img.shields.io/badge/LinkedIn-Shuoxun_Wen-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://waldo0926.github.io/"><img src="https://img.shields.io/badge/Blog-waldo0926.github.io-222222?style=flat-square&logo=githubpages&logoColor=white" alt="Blog" /></a>
+  <a href="https://blog.secureview.tech/"><img src="https://img.shields.io/badge/Blog-blog.secureview.tech-222222?style=flat-square&logo=githubpages&logoColor=white" alt="Blog" /></a>
   <a href="https://docs.secureview.tech/"><img src="https://img.shields.io/badge/Tool_guides-docs.secureview.tech-1e5eff?style=flat-square&logo=readthedocs&logoColor=white" alt="Tool guides" /></a>
   <br />
   <a href="https://wa.me/60172560436"><img src="https://img.shields.io/badge/WhatsApp-%2B60_17--256_0436-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
@@ -57,18 +59,16 @@ Computer Science student at **Monash University** (Algorithms & Software major).
   <a href="https://github.com/Waldo0926/mumguide-wechat-bot"><img src="./assets/profile-cards/en/mumguide-wechat-bot.svg?v=1" width="47%" alt="MUMGuide WeChat Bot" /></a>
 </p>
 
-| Project | Live | Notes |
-| :---: | :---: | --- |
-| **Monash Hub** | [monashhub.secureview.tech](https://monashhub.secureview.tech)<br>[![uptime](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FWaldo0926%2Fuptime%2FHEAD%2Fapi%2Fmonash-hub%2Fuptime.json&style=flat-square)](https://waldo0926.github.io/uptime/history/monash-hub) | Solo-built and in production: unit, degree and official-policy search (PostgreSQL full-text + fuzzy), course maps with prerequisite checks, WAM/GPA tools, a student community, key dates, Malaysia tuition fees, a Chinese page for parents, and a UI in English, Chinese, Japanese and Korean. 2,917 official pages from both campuses' sitemaps sit next to the Handbook data, and the Ask panel also shows what the 马莫百科 bot knows. 891 backend tests run against a real PostgreSQL in CI, and every merge deploys with a smoke check that rolls back on failure. |
-| **SecureView** | [secureview.tech](https://secureview.tech)<br>[![uptime](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FWaldo0926%2Fuptime%2FHEAD%2Fapi%2Fsecureview%2Fuptime.json&style=flat-square)](https://waldo0926.github.io/uptime/history/secureview) | Four-person Final Year Project: browser-side encryption with six AEAD suites, key-wrapped sharing, integrity verification and a hash-chained audit log. I authored 187 of the team's 212 merged PRs, spanning the security agent, integrity sweep, CI/release gates, a 22,264-operation capacity study, tamper testing, and guarded deployment. Source, tests and docs are published in the repo, view only. |
-| **Monash Study Kit** | [PyPI](https://pypi.org/project/monash-study-kit/)<br>[Guide](https://docs.secureview.tech/study-kit/) | Local-first MCP server (19 tools) + CLI that connects Moodle and Ed behind Okta/MFA to Claude, Codex, Cursor and other local MCP apps: deadlines, announcements, grades, full-text search over course files, course-notes sites, Ed lessons and lecture transcripts. Read-only for Moodle and Ed by design. Since 1.4 an optional remote mode lets ChatGPT and Claude on the web reach the same data, paired with a one-time code, with each app choosing its own features. Since 1.5 it can also connect school Gmail and attendance from inside the AI app; drafting, label changes and check-in show a full preview and run only after the student confirms. Published on PyPI with a one-command install for macOS and Windows; listed on Glama. |
-| **Edge Fleet Ops Automation** | Code only | Sanitized reconstruction of automation for a real Linux edge-node fleet: node discovery, disk-health audits, Docker workload checks and stateful alerts. |
-| **Monash Attendance Helper** | [Chrome Web Store](https://chromewebstore.google.com/detail/monash-attendance-helper/mnbkcmgkjmfngcifndchaidndhdfafcd)<br>[Guide](https://docs.secureview.tech/attendance/) | Manifest V3 Chrome extension for Windows, macOS and Linux. It reads recent classes from Monash Attendance, then looks for the codes in Gmail, Ed and Moodle, including codes posted as screenshots or inside Word files, which it reads with OCR bundled in the extension and no network calls. Nothing is submitted until the student ticks each class they attended and confirms a declaration. A build script refuses to package the store zip if it finds any remote code, and CI runs it on every pull request. |
-| **MUMGuide WeChat Bot** | 马莫百科 on WeChat<br>[Guide](https://docs.secureview.tech/wechat-bot/)<br>[![uptime](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FWaldo0926%2Fuptime%2FHEAD%2Fapi%2Fmumguide-bot%2Fuptime.json&style=flat-square)](https://waldo0926.github.io/uptime/history/mumguide-bot) | Chinese Q&A bot for a student WeChat account. It answers from Q&A the owner taught it, the Monash Hub API and the account's articles, and every answer links its source. When those can't answer, a free language model may only quote sentences from the sources, and code checks each quote word for word before it is sent (published as [quotegate](https://github.com/Waldo0926/quotegate)). Built on aiohttp behind Nginx with SQLite, it fits WeChat's 5-second, 2048-byte passive reply limit. Questions it can't answer go to the owner, and the reply is remembered. Tested offline with pytest against a fake Hub. |
+For the full feature lists, screenshots, installation steps and tests, open each repository:
 
-The live sites above are checked every 5 minutes from GitHub Actions, and each outage opens an issue: [status page](https://waldo0926.github.io/uptime/).
+- **[Monash Hub](https://monashhub.secureview.tech)** — look up Monash units, plan a degree, calculate WAM/GPA and find sourced official guides ([code](https://github.com/Waldo0926/monash-hub)).
+- **[SecureView](https://github.com/Waldo0926/SecureView)** — encrypted file sharing, integrity and audit trails, built with our four-person FYP team ([website](https://secureview.tech)).
+- **[Monash Study Kit](https://github.com/Waldo0926/monash-study-kit)** — local-first Moodle/Ed searches in MCP clients; school mail and attendance are optional and require confirmation for write actions ([guide](https://docs.secureview.tech/study-kit/)).
+- **[Edge Fleet Ops Automation](https://github.com/Waldo0926/edge-fleet-ops-automation)** — sanitized reconstruction of Linux fleet health checks and alerts.
+- **[Attendance Helper](https://github.com/Waldo0926/monash-attendance-reminder)** — Chrome extension that finds attendance codes; the student confirms any submission.
+- **[MUMGuide WeChat Bot](https://github.com/Waldo0926/mumguide-wechat-bot)** — Chinese Q&A with links to sources and a quote-checking fallback.
 
-Install and usage guides for the student tools (Study Kit, Monash Hub, Ed Web, Attendance Helper and the WeChat bot), in English and Chinese: **[docs.secureview.tech](https://docs.secureview.tech)**.
+**[Read the blog](https://blog.secureview.tech)** · **[Browse the full project archive](https://blog.secureview.tech/projects/)** · **[Tool guides](https://docs.secureview.tech)** · **[Service status](https://waldo0926.github.io/uptime/)**
 
 ## More Projects
 
