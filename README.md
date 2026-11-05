@@ -147,14 +147,14 @@ For the full feature lists, screenshots, installation steps and tests, open each
 </picture>
 
 - **[waldo0926.github.io](https://github.com/Waldo0926/waldo0926.github.io)** <sub>78 commits · 7 PRs</sub>
-- **[monash-hub](https://github.com/Waldo0926/monash-hub)** · Independent Monash student platform for course search, official information retrieval, study planning, WAM/GPA tools and community features. <sub>28 commits · 27 PRs</sub>
 - **[monash-tools-docs](https://github.com/Waldo0926/monash-tools-docs)** <sub>26 commits · 14 PRs</sub>
+- **[monash-hub](https://github.com/Waldo0926/monash-hub)** · Independent Monash student platform for course search, official information retrieval, study planning, WAM/GPA tools and community features. <sub>22 commits · 21 PRs</sub>
 - **[monash-study-kit](https://github.com/Waldo0926/monash-study-kit)** · 把 Monash 的 Moodle 和 Ed 接进 Claude、Codex、Cursor 等 AI 软件（本地 MCP + 命令行，macOS / Windows / Linux） <sub>21 commits · 22 PRs</sub>
 - **[Monash Exchange Tracker (private)](https://github.com/Waldo0926/monash-abroad-tracker-demo)** · Production exchange program tracker. The public demo runs on synthetic data. <sub>4 commits · 4 PRs</sub>
 - **[SecureView](https://github.com/Waldo0926/SecureView)** · Four-person Final Year Project: encrypted file sharing in the browser. Commits to the private team repo are counted here. <sub>2 commits · 3 PRs</sub>
 - 4 other private repos
 
-<sub>Commits on each repo's default branch and PRs I opened, private repos included. Updated daily by a GitHub Actions workflow, last run 2026-11-04.</sub>
+<sub>Commits on each repo's default branch and PRs I opened, private repos included. Updated daily by a GitHub Actions workflow, last run 2026-11-05.</sub>
 <!-- RECENT_ACTIVITY:END -->
 
 ## Portfolio Notes
