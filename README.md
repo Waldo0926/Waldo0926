@@ -146,15 +146,15 @@ For the full feature lists, screenshots, installation steps and tests, open each
   <img src="./assets/activity/activity-en-light.svg" width="480" alt="Commits, pull requests and lines changed in the last 7 days" />
 </picture>
 
-- **[monash-study-kit](https://github.com/Waldo0926/monash-study-kit)** · 把 Monash 的 Moodle 和 Ed 接进 Claude、Codex、Cursor 等 AI 软件（本地 MCP + 命令行，macOS / Windows / Linux） <sub>10 commits · 16 PRs</sub>
-- **[monash-hub](https://github.com/Waldo0926/monash-hub)** · Independent Monash student platform for course search, official information retrieval, study planning, WAM/GPA tools and community features. <sub>8 commits · 17 PRs</sub>
-- **[waldo0926.github.io](https://github.com/Waldo0926/waldo0926.github.io)** <sub>8 commits · 4 PRs</sub>
-- **[monash-tools-docs](https://github.com/Waldo0926/monash-tools-docs)** <sub>7 commits · 3 PRs</sub>
-- **[Monash Exchange Tracker (private)](https://github.com/Waldo0926/monash-abroad-tracker-demo)** · Production exchange program tracker. The public demo runs on synthetic data. <sub>3 commits · 3 PRs</sub>
+- **[monash-hub](https://github.com/Waldo0926/monash-hub)** · Independent Monash student platform for course search, official information retrieval, study planning, WAM/GPA tools and community features. <sub>7 commits · 8 PRs</sub>
+- **[waldo0926.github.io](https://github.com/Waldo0926/waldo0926.github.io)** <sub>5 commits · 1 PR</sub>
+- **[monash-tools-docs](https://github.com/Waldo0926/monash-tools-docs)** <sub>4 commits · 1 PR</sub>
+- **[monash-study-kit](https://github.com/Waldo0926/monash-study-kit)** · 把 Monash 的 Moodle 和 Ed 接进 Claude、Codex、Cursor 等 AI 软件（本地 MCP + 命令行，macOS / Windows / Linux） <sub>2 commits · 4 PRs</sub>
+- **[Monash Exchange Tracker (private)](https://github.com/Waldo0926/monash-abroad-tracker-demo)** · Production exchange program tracker. The public demo runs on synthetic data. <sub>2 commits · 2 PRs</sub>
 - **[mumguide-wechat-bot](https://github.com/Waldo0926/mumguide-wechat-bot)** · WeChat Q&A bot for 马莫百科 (Monash University Malaysia): rules first, quote-only AI fallback, the rest to a human <sub>1 commit · 1 PR</sub>
-- 3 other private repos
+- 1 other private repo
 
-<sub>Commits on each repo's default branch and PRs I opened, private repos included. Updated daily by a GitHub Actions workflow, last run 2026-11-08.</sub>
+<sub>Commits on each repo's default branch and PRs I opened, private repos included. Updated daily by a GitHub Actions workflow, last run 2026-11-10.</sub>
 <!-- RECENT_ACTIVITY:END -->
 
 ## Portfolio Notes
