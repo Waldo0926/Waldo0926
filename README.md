@@ -146,8 +146,9 @@ For the full feature lists, screenshots, installation steps and tests, open each
   <img src="./assets/activity/activity-en-light.svg" width="480" alt="Commits, pull requests and lines changed in the last 7 days" />
 </picture>
 
-- **[monash-hub](https://github.com/Waldo0926/monash-hub)** · Independent Monash student platform for course search, official information retrieval, study planning, WAM/GPA tools and community features. <sub>2 commits · 4 PRs</sub>
-- **[monash-study-kit](https://github.com/Waldo0926/monash-study-kit)** · 把 Monash 的 Moodle 和 Ed 接进 Claude、Codex、Cursor 等 AI 软件（本地 MCP + 命令行，macOS / Windows / Linux） <sub>1 commit · 1 PR</sub>
+- **[monash-study-kit](https://github.com/Waldo0926/monash-study-kit)** · 把 Monash 的 Moodle 和 Ed 接进 Claude、Codex、Cursor 等 AI 软件（本地 MCP + 命令行，macOS / Windows / Linux） <sub>2 commits · 3 PRs</sub>
+- **[monash-hub](https://github.com/Waldo0926/monash-hub)** · Independent Monash student platform for course search, official information retrieval, study planning, WAM/GPA tools and community features. <sub>1 commit · 4 PRs</sub>
+- 1 other private repo
 
 <sub>Commits on each repo's default branch and PRs I opened, private repos included. Updated daily by a GitHub Actions workflow, last run 2026-11-14.</sub>
 <!-- RECENT_ACTIVITY:END -->
