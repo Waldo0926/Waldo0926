@@ -3,13 +3,13 @@
 [English](https://github.com/Waldo0926/Waldo0926/blob/main/README.md) · **中文**
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Noto+Sans+SC&weight=600&size=22&duration=3000&pause=1200&color=0b0a09&center=true&vCenter=true&width=880&height=50&lines=Monash%20University%20Malaysia%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6;%E5%AD%A6%E7%94%9F%E5%B7%A5%E5%85%B7%E3%80%81%E5%90%8E%E7%AB%AF%EF%BC%8C%E8%BF%98%E6%9C%89%E8%B7%91%E7%9D%80%E5%AE%83%E4%BB%AC%E7%9A%84%E6%9C%8D%E5%8A%A1%E5%99%A8" alt="Monash University Malaysia 计算机科学，做学生工具、后端和服务器" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Noto+Sans+SC&weight=600&size=22&duration=3000&pause=1200&color=7C3AED&center=true&vCenter=true&width=880&height=50&lines=Monash%20University%20Malaysia%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6;%E5%AD%A6%E7%94%9F%E5%B7%A5%E5%85%B7%E3%80%81%E5%90%8E%E7%AB%AF%EF%BC%8C%E8%BF%98%E6%9C%89%E8%B7%91%E7%9D%80%E5%AE%83%E4%BB%AC%E7%9A%84%E6%9C%8D%E5%8A%A1%E5%99%A8" alt="Monash University Malaysia 计算机科学，做学生工具、后端和服务器" />
 </p>
 
 <p align="center">
-  <a href="https://www.monash.edu.my/"><img src="https://img.shields.io/badge/Monash%20University-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6-006DAE?style=for-the-badge" alt="Monash University 计算机科学" /></a>
-  <a href="https://www.monash.edu.my/study/why/our-world-university-rankings"><img src="https://img.shields.io/badge/QS%202027-%E4%B8%96%E7%95%8C%E7%AC%AC%2031-0b0a09?style=for-the-badge" alt="QS 世界大学排名 2027 第 31" /></a>
-  <a href="https://github.com/Waldo0926"><img src="https://img.shields.io/badge/%E5%B8%B8%E9%A9%BB-%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%20%2F%20%E4%B8%AD%E5%9B%BD-0b0a09?style=for-the-badge" alt="常驻马来西亚 / 中国" /></a>
+  <a href="https://www.monash.edu.my/"><img src="https://img.shields.io/badge/Monash%20University-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6-7c3aed?style=for-the-badge" alt="Monash University 计算机科学" /></a>
+  <a href="https://www.monash.edu.my/study/why/our-world-university-rankings"><img src="https://img.shields.io/badge/QS%20%E4%B8%96%E7%95%8C%E6%8E%92%E5%90%8D-%E7%AC%AC%2031%20%282027%29-eab308?style=for-the-badge" alt="QS 世界排名 第 31 (2027)" /></a>
+  <a href="https://github.com/Waldo0926"><img src="https://img.shields.io/badge/%E5%B8%B8%E9%A9%BB-%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%20%2F%20%E4%B8%AD%E5%9B%BD-2563eb?style=for-the-badge" alt="常驻 马来西亚 / 中国" /></a>
 </p>
 
 在 Monash University Malaysia 读计算机科学（算法与软件方向）。平时做学生工具、后端、安全项目，也折腾 Linux 服务器。其他仓库还有算法、数据、网络和早期课程实验。
@@ -25,8 +25,15 @@
 📫 **联系方式**
 
 <p align="center">
-  <a href="mailto:wensx0926@gmail.com"><img src="https://img.shields.io/badge/%E9%82%AE%E7%AE%B1-wensx0926%40gmail.com-0b0a09?style=flat-square&logo=gmail&logoColor=white" alt="邮箱" /></a>
-  <a href="mailto:swen0027@student.monash.edu"><img src="https://img.shields.io/badge/%E5%AD%A6%E6%A0%A1%E9%82%AE%E7%AE%B1-swen0027%40student.monash.edu-0b0a09?style=flat-square&logo=gmail&logoColor=white" alt="学校邮箱" /></a>
+  <a href="mailto:wensx0926@gmail.com"><img src="https://img.shields.io/badge/%E9%82%AE%E7%AE%B1-wensx0926%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="邮箱" /></a>
+  <a href="mailto:swen0027@student.monash.edu"><img src="https://img.shields.io/badge/%E5%AD%A6%E6%A0%A1%E9%82%AE%E7%AE%B1-swen0027%40student.monash.edu-006DAE?style=for-the-badge&logo=gmail&logoColor=white" alt="学校邮箱" /></a>
+  <br />
+  <a href="https://www.linkedin.com/in/shuoxun-wen/"><img src="https://img.shields.io/badge/LinkedIn-Shuoxun%20Wen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://blog.secureview.tech/zh/"><img src="https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-blog.secureview.tech-222222?style=for-the-badge&logo=jekyll&logoColor=white" alt="博客" /></a>
+  <a href="https://docs.secureview.tech/zh-cn/"><img src="https://img.shields.io/badge/%E5%B7%A5%E5%85%B7%E6%8C%87%E5%8D%97-docs.secureview.tech-1e5eff?style=for-the-badge&logo=astro&logoColor=white" alt="工具指南" /></a>
+  <br />
+  <a href="https://wa.me/60172560436"><img src="https://img.shields.io/badge/WhatsApp-%2B60%2017--256%200436-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <a href="https://u.wechat.com/MF78QB01Ooq7L9GHgP8kzJ4?s=4"><img src="https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-WenSX0926-07C160?style=for-the-badge&logo=wechat&logoColor=white" alt="微信" /></a>
 </p>
 
 <p align="center">
