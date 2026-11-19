@@ -36,13 +36,13 @@
   <a href="https://u.wechat.com/MF78QB01Ooq7L9GHgP8kzJ4?s=4"><img src="https://img.shields.io/badge/WeChat-WenSX0926-07C160?style=flat-square&logo=wechat&logoColor=white" alt="WeChat" /></a>
 </p>
 
-<details>
-<summary><strong>📱 扫码联系</strong></summary>
-<br />
-<p align="center">
-  <img src="./assets/contact/contact-original.webp?v=2" width="760" alt="WhatsApp 与微信联系二维码" />
-</p>
-</details>
+<table align="center">
+  <tr>
+    <td align="center" width="200"><img src="./assets/contact/whatsapp.webp" width="150" alt="WhatsApp 二维码" /><br /><sub><strong>WhatsApp</strong><br />+60 17-256 0436</sub></td>
+    <td align="center" width="200"><img src="./assets/contact/wechat.webp" width="150" alt="微信二维码" /><br /><sub><strong>微信</strong><br />WenSX0926</sub></td>
+    <td align="center" width="200"><img src="./assets/contact/mamo-official.webp" width="150" alt="马莫百科公众号二维码" /><br /><sub><strong>公众号</strong><br />马莫百科</sub></td>
+  </tr>
+</table>
 
 ---
 

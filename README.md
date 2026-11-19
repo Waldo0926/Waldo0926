@@ -36,13 +36,13 @@ I write about the engineering decisions and the things that went wrong on my **[
   <a href="https://u.wechat.com/MF78QB01Ooq7L9GHgP8kzJ4?s=4"><img src="https://img.shields.io/badge/WeChat-WenSX0926-07C160?style=flat-square&logo=wechat&logoColor=white" alt="WeChat" /></a>
 </p>
 
-<details>
-<summary><strong>📱 Scan to connect</strong></summary>
-<br />
-<p align="center">
-  <img src="./assets/contact/contact-original.webp?v=2" width="760" alt="WhatsApp and WeChat contact QR codes" />
-</p>
-</details>
+<table align="center">
+  <tr>
+    <td align="center" width="200"><img src="./assets/contact/whatsapp.webp" width="150" alt="WhatsApp QR code" /><br /><sub><strong>WhatsApp</strong><br />+60 17-256 0436</sub></td>
+    <td align="center" width="200"><img src="./assets/contact/wechat.webp" width="150" alt="WeChat QR code" /><br /><sub><strong>WeChat</strong><br />WenSX0926</sub></td>
+    <td align="center" width="200"><img src="./assets/contact/mamo-official.webp" width="150" alt="马莫百科 WeChat channel QR code" /><br /><sub><strong>马莫百科</strong><br />my WeChat channel</sub></td>
+  </tr>
+</table>
 
 ---
 

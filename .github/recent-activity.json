@@ -20,6 +20,7 @@
       "zh": "四人毕业设计，浏览器端加密的文件共享平台。私有团队仓库的提交也算在这里。"
     },
     "Waldo0926/monash-study-kit": {
+      "en": "Local MCP server and CLI that connect Moodle and Ed to Claude, Codex or Cursor.",
       "zh": "把 Moodle 和 Ed 接到 Claude 的本地 MCP 服务和命令行工具。"
     },
     "Waldo0926/mumguide-wechat-bot": {
