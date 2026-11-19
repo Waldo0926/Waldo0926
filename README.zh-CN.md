@@ -26,20 +26,20 @@
 📫 **联系方式**
 
 <p align="center">
-  <a href="mailto:wensx0926@gmail.com"><img src="https://img.shields.io/badge/Email-wensx0926%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="mailto:swen0027@student.monash.edu"><img src="https://img.shields.io/badge/Email-swen0027%40student.monash.edu-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Monash Email" /></a>
-  <a href="https://www.linkedin.com/in/shuoxun-wen/"><img src="https://img.shields.io/badge/LinkedIn-Shuoxun_Wen-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://blog.secureview.tech/zh/"><img src="https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-blog.secureview.tech-222222?style=flat-square&logo=githubpages&logoColor=white" alt="博客" /></a>
-  <a href="https://docs.secureview.tech/zh-cn/"><img src="https://img.shields.io/badge/%E5%B7%A5%E5%85%B7%E6%8C%87%E5%8D%97-docs.secureview.tech-1e5eff?style=flat-square&logo=readthedocs&logoColor=white" alt="工具指南" /></a>
-  <br />
-  <a href="https://wa.me/60172560436"><img src="https://img.shields.io/badge/WhatsApp-%2B60_17--256_0436-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-  <a href="https://u.wechat.com/MF78QB01Ooq7L9GHgP8kzJ4?s=4"><img src="https://img.shields.io/badge/WeChat-WenSX0926-07C160?style=flat-square&logo=wechat&logoColor=white" alt="WeChat" /></a>
+  <a href="mailto:wensx0926@gmail.com"><img src="https://img.shields.io/badge/%E9%82%AE%E7%AE%B1-wensx0926%40gmail.com-0b0a09?style=flat-square&logo=gmail&logoColor=white" alt="邮箱" /></a>
+  <a href="mailto:swen0027@student.monash.edu"><img src="https://img.shields.io/badge/%E5%AD%A6%E6%A0%A1%E9%82%AE%E7%AE%B1-swen0027%40student.monash.edu-0b0a09?style=flat-square&logo=gmail&logoColor=white" alt="学校邮箱" /></a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shuoxun-wen/"><img src="https://img.shields.io/badge/LinkedIn-Shuoxun%20Wen-0b0a09?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://blog.secureview.tech/zh/"><img src="https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-blog.secureview.tech-0b0a09?style=flat-square&logo=jekyll&logoColor=white" alt="博客" /></a>
+  <a href="https://docs.secureview.tech/zh-cn/"><img src="https://img.shields.io/badge/%E5%B7%A5%E5%85%B7%E6%8C%87%E5%8D%97-docs.secureview.tech-0b0a09?style=flat-square&logo=astro&logoColor=white" alt="工具指南" /></a>
 </p>
 
 <table align="center">
   <tr>
-    <td align="center" width="200"><img src="./assets/contact/whatsapp.webp" width="150" alt="WhatsApp 二维码" /><br /><sub><strong>WhatsApp</strong><br />+60 17-256 0436</sub></td>
-    <td align="center" width="200"><img src="./assets/contact/wechat.webp" width="150" alt="微信二维码" /><br /><sub><strong>微信</strong><br />WenSX0926</sub></td>
+    <td align="center" width="200"><img src="./assets/contact/whatsapp.webp" width="150" alt="WhatsApp 二维码" /><br /><sub><strong>WhatsApp</strong><br /><a href="https://wa.me/60172560436">+60 17-256 0436</a></sub></td>
+    <td align="center" width="200"><img src="./assets/contact/wechat.webp" width="150" alt="微信二维码" /><br /><sub><strong>微信</strong><br /><a href="https://u.wechat.com/MF78QB01Ooq7L9GHgP8kzJ4?s=4">WenSX0926</a></sub></td>
     <td align="center" width="200"><img src="./assets/contact/mamo-official.webp" width="150" alt="马莫百科公众号二维码" /><br /><sub><strong>公众号</strong><br />马莫百科</sub></td>
   </tr>
 </table>

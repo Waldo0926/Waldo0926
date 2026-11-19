@@ -26,20 +26,20 @@ I write about the engineering decisions and the things that went wrong on my **[
 📫 **Get in touch**
 
 <p align="center">
-  <a href="mailto:wensx0926@gmail.com"><img src="https://img.shields.io/badge/Email-wensx0926%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="mailto:swen0027@student.monash.edu"><img src="https://img.shields.io/badge/Email-swen0027%40student.monash.edu-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Monash Email" /></a>
-  <a href="https://www.linkedin.com/in/shuoxun-wen/"><img src="https://img.shields.io/badge/LinkedIn-Shuoxun_Wen-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://blog.secureview.tech/"><img src="https://img.shields.io/badge/Blog-blog.secureview.tech-222222?style=flat-square&logo=githubpages&logoColor=white" alt="Blog" /></a>
-  <a href="https://docs.secureview.tech/"><img src="https://img.shields.io/badge/Tool_guides-docs.secureview.tech-1e5eff?style=flat-square&logo=readthedocs&logoColor=white" alt="Tool guides" /></a>
-  <br />
-  <a href="https://wa.me/60172560436"><img src="https://img.shields.io/badge/WhatsApp-%2B60_17--256_0436-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-  <a href="https://u.wechat.com/MF78QB01Ooq7L9GHgP8kzJ4?s=4"><img src="https://img.shields.io/badge/WeChat-WenSX0926-07C160?style=flat-square&logo=wechat&logoColor=white" alt="WeChat" /></a>
+  <a href="mailto:wensx0926@gmail.com"><img src="https://img.shields.io/badge/Email-wensx0926%40gmail.com-0b0a09?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:swen0027@student.monash.edu"><img src="https://img.shields.io/badge/Monash-swen0027%40student.monash.edu-0b0a09?style=flat-square&logo=gmail&logoColor=white" alt="Monash email" /></a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shuoxun-wen/"><img src="https://img.shields.io/badge/LinkedIn-Shuoxun%20Wen-0b0a09?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://blog.secureview.tech/"><img src="https://img.shields.io/badge/Blog-blog.secureview.tech-0b0a09?style=flat-square&logo=jekyll&logoColor=white" alt="Blog" /></a>
+  <a href="https://docs.secureview.tech/"><img src="https://img.shields.io/badge/Docs-docs.secureview.tech-0b0a09?style=flat-square&logo=astro&logoColor=white" alt="Tool guides" /></a>
 </p>
 
 <table align="center">
   <tr>
-    <td align="center" width="200"><img src="./assets/contact/whatsapp.webp" width="150" alt="WhatsApp QR code" /><br /><sub><strong>WhatsApp</strong><br />+60 17-256 0436</sub></td>
-    <td align="center" width="200"><img src="./assets/contact/wechat.webp" width="150" alt="WeChat QR code" /><br /><sub><strong>WeChat</strong><br />WenSX0926</sub></td>
+    <td align="center" width="200"><img src="./assets/contact/whatsapp.webp" width="150" alt="WhatsApp QR code" /><br /><sub><strong>WhatsApp</strong><br /><a href="https://wa.me/60172560436">+60 17-256 0436</a></sub></td>
+    <td align="center" width="200"><img src="./assets/contact/wechat.webp" width="150" alt="WeChat QR code" /><br /><sub><strong>WeChat</strong><br /><a href="https://u.wechat.com/MF78QB01Ooq7L9GHgP8kzJ4?s=4">WenSX0926</a></sub></td>
     <td align="center" width="200"><img src="./assets/contact/mamo-official.webp" width="150" alt="马莫百科 WeChat channel QR code" /><br /><sub><strong>马莫百科</strong><br />my WeChat channel</sub></td>
   </tr>
 </table>
