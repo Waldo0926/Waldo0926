@@ -3,14 +3,13 @@
 [English](https://github.com/Waldo0926/Waldo0926/blob/main/README.md) · **中文**
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Noto+Sans+SC&weight=600&size=22&duration=3000&pause=1200&color=7C3AED&center=true&vCenter=true&width=760&height=50&lines=Monash+University+%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%93%E4%B8%9A;%E5%81%9A+AI+%E5%BA%94%E7%94%A8%E5%92%8C+Python+%E5%90%8E%E7%AB%AF" alt="Monash University 计算机科学专业，做 AI 应用和 Python 后端" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Noto+Sans+SC&weight=600&size=22&duration=3000&pause=1200&color=0b0a09&center=true&vCenter=true&width=880&height=50&lines=Monash%20University%20Malaysia%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6;%E5%AD%A6%E7%94%9F%E5%B7%A5%E5%85%B7%E3%80%81%E5%90%8E%E7%AB%AF%EF%BC%8C%E8%BF%98%E6%9C%89%E8%B7%91%E7%9D%80%E5%AE%83%E4%BB%AC%E7%9A%84%E6%9C%8D%E5%8A%A1%E5%99%A8" alt="Monash University Malaysia 计算机科学，做学生工具、后端和服务器" />
 </p>
 
 <p align="center">
-  <a href="https://www.monash.edu.my/"><img src="https://img.shields.io/badge/Monash_University-Computer_Science-7c3aed?style=for-the-badge" alt="Monash University - Computer Science" /></a>
-  <a href="https://www.monash.edu.my/study/why/our-world-university-rankings"><img src="https://img.shields.io/badge/QS_World_Ranking-31st_(2027)-eab308?style=for-the-badge" alt="QS World Ranking - 31st (2027)" /></a>
-  <br />
-  <a href="https://github.com/Waldo0926"><img src="https://img.shields.io/badge/Location-Malaysia_%2F_China-2563eb?style=for-the-badge" alt="Location - Malaysia / China" /></a>
+  <a href="https://www.monash.edu.my/"><img src="https://img.shields.io/badge/Monash%20University-%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6-006DAE?style=for-the-badge" alt="Monash University 计算机科学" /></a>
+  <a href="https://www.monash.edu.my/study/why/our-world-university-rankings"><img src="https://img.shields.io/badge/QS%202027-%E4%B8%96%E7%95%8C%E7%AC%AC%2031-0b0a09?style=for-the-badge" alt="QS 世界大学排名 2027 第 31" /></a>
+  <a href="https://github.com/Waldo0926"><img src="https://img.shields.io/badge/%E5%B8%B8%E9%A9%BB-%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%20%2F%20%E4%B8%AD%E5%9B%BD-0b0a09?style=for-the-badge" alt="常驻马来西亚 / 中国" /></a>
 </p>
 
 在 Monash University Malaysia 读计算机科学（算法与软件方向）。平时做学生工具、后端、安全项目，也折腾 Linux 服务器。其他仓库还有算法、数据、网络和早期课程实验。

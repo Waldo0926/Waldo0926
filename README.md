@@ -3,14 +3,13 @@
 **English** · [中文](https://github.com/Waldo0926/Waldo0926/blob/main/README.zh-CN.md)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1200&color=7C3AED&center=true&vCenter=true&width=760&height=50&lines=Computer+Science+student+at+Monash+University;Building+AI+applications+and+Python+backends" alt="Computer Science student at Monash University, building AI applications and Python backends" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1200&color=0b0a09&center=true&vCenter=true&width=880&height=50&lines=Computer%20Science%20student%20at%20Monash%20University%20Malaysia;Student%20tools%2C%20backends%2C%20and%20the%20servers%20they%20run%20on" alt="Computer Science student at Monash University Malaysia, building student tools, backends and the servers they run on" />
 </p>
 
 <p align="center">
-  <a href="https://www.monash.edu.my/"><img src="https://img.shields.io/badge/Monash_University-Computer_Science-7c3aed?style=for-the-badge" alt="Monash University - Computer Science" /></a>
-  <a href="https://www.monash.edu.my/study/why/our-world-university-rankings"><img src="https://img.shields.io/badge/QS_World_Ranking-31st_(2027)-eab308?style=for-the-badge" alt="QS World Ranking - 31st (2027)" /></a>
-  <br />
-  <a href="https://github.com/Waldo0926"><img src="https://img.shields.io/badge/Location-Malaysia_%2F_China-2563eb?style=for-the-badge" alt="Location - Malaysia / China" /></a>
+  <a href="https://www.monash.edu.my/"><img src="https://img.shields.io/badge/Monash%20University-Computer%20Science-006DAE?style=for-the-badge" alt="Monash University - Computer Science" /></a>
+  <a href="https://www.monash.edu.my/study/why/our-world-university-rankings"><img src="https://img.shields.io/badge/QS%202027-%2331%20in%20the%20world-0b0a09?style=for-the-badge" alt="QS World University Rankings 2027 - 31st" /></a>
+  <a href="https://github.com/Waldo0926"><img src="https://img.shields.io/badge/Based%20in-Malaysia%20%2F%20China-0b0a09?style=for-the-badge" alt="Based in Malaysia / China" /></a>
 </p>
 
 I study **Computer Science (Algorithms & Software) at Monash University Malaysia**. I build tools for students, work on backend and security projects, and tinker with Linux and self-hosted services. My other repositories cover algorithms, data, networking and earlier coursework.
