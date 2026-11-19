@@ -13,7 +13,7 @@
   <a href="https://github.com/Waldo0926"><img src="https://img.shields.io/badge/Location-Malaysia_%2F_China-2563eb?style=for-the-badge" alt="Location - Malaysia / China" /></a>
 </p>
 
-在Monash University Malaysia读计算机科学（算法与软件方向）。平时做学生工具、后端、安全项目，也折腾Linux服务器。其他仓库还有算法、数据、网络和早期课程实验。
+在 Monash University Malaysia 读计算机科学（算法与软件方向）。平时做学生工具、后端、安全项目，也折腾 Linux 服务器。其他仓库还有算法、数据、网络和早期课程实验。
 
 开发过程、遇到的问题和解决办法写在[我的博客](https://blog.secureview.tech)；想把公开项目一次看完，可以去[项目归档](https://blog.secureview.tech/zh/projects/)。
 
@@ -52,28 +52,31 @@
   <a href="https://github.com/Waldo0926/monash-hub"><img src="./assets/profile-cards/zh/monash-hub.svg?v=3" width="47%" alt="Monash Hub" /></a>
   <a href="https://github.com/Waldo0926/SecureView"><img src="./assets/profile-cards/zh/secureview.svg?v=4" width="47%" alt="SecureView" /></a>
   <br /><br />
-  <a href="https://github.com/Waldo0926/monash-study-kit"><img src="./assets/profile-cards/zh/monash-study-kit.svg?v=4" width="47%" alt="Monash Study Kit" /></a>
+  <a href="https://github.com/Waldo0926/monash-study-kit"><img src="./assets/profile-cards/zh/monash-study-kit.svg?v=5" width="47%" alt="Monash Study Kit" /></a>
   <a href="https://github.com/Waldo0926/edge-fleet-ops-automation"><img src="./assets/profile-cards/zh/edge-fleet.svg?v=3" width="47%" alt="Edge Fleet Ops Automation" /></a>
   <br /><br />
   <a href="https://github.com/Waldo0926/monash-attendance-reminder"><img src="./assets/profile-cards/zh/attendance-helper.svg?v=1" width="47%" alt="Monash Attendance Helper" /></a>
   <a href="https://github.com/Waldo0926/mumguide-wechat-bot"><img src="./assets/profile-cards/zh/mumguide-wechat-bot.svg?v=1" width="47%" alt="MUMGuide WeChat Bot" /></a>
+  <br /><br />
+  <a href="https://github.com/Waldo0926/monash-tools-docs"><img src="./assets/profile-cards/zh/monash-tools-docs.svg?v=1" width="47%" alt="学生工具指南" /></a>
 </p>
 
 想看详细功能、截图、安装和测试，直接打开对应的项目仓库：
 
-- **[Monash Hub](https://monashhub.secureview.tech)** — 课程、学位规划、WAM/GPA和带出处的官方资料（[代码](https://github.com/Waldo0926/monash-hub)）
+- **[Monash Hub](https://monashhub.secureview.tech)** — 查课程、排学位计划、算 WAM/GPA，还有重要日期、马来西亚学费和带出处的官方资料（[代码](https://github.com/Waldo0926/monash-hub)）
 - **[SecureView](https://github.com/Waldo0926/SecureView)** — 我们四人毕业设计的加密文件分享平台（[网站](https://secureview.tech)）
-- **[Monash Study Kit](https://github.com/Waldo0926/monash-study-kit)** — 在AI里查自己的Moodle和Ed；可选邮箱和考勤，执行写操作前会要求确认（[指南](https://docs.secureview.tech/zh-cn/study-kit/)）
-- **[Edge Fleet Ops Automation](https://github.com/Waldo0926/edge-fleet-ops-automation)** — 从早期Linux节点管理工具整理的脱敏版本
-- **[签到助手](https://github.com/Waldo0926/monash-attendance-reminder)** — 查签到码，学生自行确认提交
+- **[Monash Study Kit](https://github.com/Waldo0926/monash-study-kit)** — PyPI 上的 1.15.0：让 AI 软件读你自己的 Moodle 和 Ed，截止日期、评分反馈、全文搜索和整门课资料导出都有，`monash semester` 还能打出一周的私有视图并导成 `.ics`；学校邮箱和考勤是可选的，写操作前都会先问（[指南](https://docs.secureview.tech/zh-cn/study-kit/)）
+- **[Edge Fleet Ops Automation](https://github.com/Waldo0926/edge-fleet-ops-automation)** — 从早期 Linux 节点管理工具整理的脱敏版本
+- **[签到助手](https://github.com/Waldo0926/monash-attendance-reminder)** — 查签到码，学生自行确认提交，已上架 [Chrome 应用商店](https://chromewebstore.google.com/detail/monash-attendance-helper/mnbkcmgkjmfngcifndchaidndhdfafcd?hl=zh-CN)
 - **[马莫百科问答机器人](https://github.com/Waldo0926/mumguide-wechat-bot)** — 在微信上回答学生问题并附来源
+- **[学生工具指南](https://docs.secureview.tech/zh-cn/)** — 上面这些工具的中英文安装和使用说明，页面写成可以直接丢给 AI，让它照着把工具装好（[代码](https://github.com/Waldo0926/monash-tools-docs)）
 
 **[读博客](https://blog.secureview.tech/zh/)** · **[看全部项目](https://blog.secureview.tech/zh/projects/)** · **[学生工具指南](https://docs.secureview.tech/zh-cn/)** · **[网站运行状态](https://waldo0926.github.io/uptime/)**
 
 ## 更多项目
 
 <details>
-<summary><strong>另外 22 个课程衍生与独立项目（按方向分组）</strong></summary>
+<summary><strong>另外 23 个课程衍生与独立项目（按方向分组）</strong></summary>
 <br />
 
 #### 学生工具、库与网页应用
@@ -83,7 +86,6 @@
 | [ed-web](https://github.com/Waldo0926/ed-web) | 隐私优先的纯前端 Ed Discussion 工具，用于抓取、整理、搜索和总结课程论坛。 |
 | [monash-abroad-tracker-demo](https://github.com/Waldo0926/monash-abroad-tracker-demo) | 交换项目追踪器的公开演示版，用虚构数据（[在线演示](https://waldo0926.github.io/monash-abroad-tracker-demo/)）。私有正式系统自 2026 年 8 月起每天抓取约 164 个项目并遵守 `robots.txt`，支持字段级变化检测、与冻结的上一轮对比和人工核对的 QS 排名。 |
 | [quotegate](https://github.com/Waldo0926/quotegate) | 发布在 PyPI 上的小型 Python 库，没有任何依赖：大模型只能用资料里的原句回答，每句发出前由程序逐字核对。从微信问答机器人里拆出来的。 |
-| [monash-tools-docs](https://github.com/Waldo0926/monash-tools-docs) | 这些学生工具的中英文使用指南网站（[docs.secureview.tech](https://docs.secureview.tech)），用 Astro Starlight 搭建，同时提供 Study Kit 一键安装脚本，每天自动打包签到助手的安装包。 |
 
 #### 软件系统、网络与基础设施
 
@@ -100,6 +102,7 @@
 | 项目 | 做的是什么 |
 | --- | --- |
 | [advanced-string-algorithms](https://github.com/Waldo0926/advanced-string-algorithms) | 纯 Python 高级字符串算法：Ukkonen 后缀树、BWT 近似匹配、Z 算法精确匹配、Rabin-Karp 滚动哈希与 Miller-Rabin 素性测试，附 pytest 测试。 |
+| [c-cpp-programming-foundations](https://github.com/Waldo0926/c-cpp-programming-foundations) | 本科阶段的 C/C++ 练习、调试训练和 CCF CSP 题解，从 2021 年的课程材料里整理出来，去掉了可执行文件、IDE 缓存和别人的提交。 |
 | [classical-algorithms-cpp](https://github.com/Waldo0926/classical-algorithms-cpp) | C++ 经典算法：动态规划、回溯、分支限界、分治与遗传算法。 |
 | [data-structures-labs-cpp](https://github.com/Waldo0926/data-structures-labs-cpp) | 基于早期 C 风格数据结构课程实验重构的现代 C++17 实现，涵盖栈、队列、树、哈夫曼编码、图与排序。 |
 | [bst-record-management-cpp](https://github.com/Waldo0926/bst-record-management-cpp) | 由早期数据结构课程设计重构的现代 C++17 二叉搜索树信息管理系统。 |
@@ -113,6 +116,7 @@
 | [tensorflow-cnn-image-classification](https://github.com/Waldo0926/tensorflow-cnn-image-classification) | 基于 TensorFlow/Keras 的 CIFAR-10 与 MNIST CNN 可复现实验、自动评估与模型结构对比。 |
 | [student-performance-ml-pipeline](https://github.com/Waldo0926/student-performance-ml-pipeline) | 基于 scikit-learn 的学生成绩分类：避免数据泄漏，涵盖 SVM、随机森林、超参数调优与类别不平衡评估。 |
 | [pattern-recognition-from-scratch](https://github.com/Waldo0926/pattern-recognition-from-scratch) | 使用 NumPy 从零实现经典模式识别算法：朴素贝叶斯、感知机、Fisher LDA、K-Means、FCM 与 HMM。 |
+| [animal-expert-system](https://github.com/Waldo0926/animal-expert-system) | 符号 AI：用产生式规则知识库和正向推理引擎，从可观察的特征推断动物种类。 |
 | [million-row-tweet-analysis-bash-r](https://github.com/Waldo0926/million-row-tweet-analysis-bash-r) | 使用 Unix/Bash 流式管道、CSV 安全 Python 解析与 R 聚合/可视化分析 147 万条推文。 |
 
 #### 数据库、机器人与信号处理
