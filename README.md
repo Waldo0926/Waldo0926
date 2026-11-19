@@ -3,14 +3,13 @@
 **English** · [中文](https://github.com/Waldo0926/Waldo0926/blob/main/README.zh-CN.md)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1200&color=7C3AED&center=true&vCenter=true&width=760&height=50&lines=Computer+Science+student+at+Monash+University;Building+AI+applications+and+Python+backends" alt="Computer Science student at Monash University, building AI applications and Python backends" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1200&color=7C3AED&center=true&vCenter=true&width=880&height=50&lines=Computer%20Science%20student%20at%20Monash%20University%20Malaysia;Student%20tools%2C%20backends%2C%20and%20the%20servers%20they%20run%20on" alt="Computer Science student at Monash University Malaysia, building student tools, backends and the servers they run on" />
 </p>
 
 <p align="center">
-  <a href="https://www.monash.edu.my/"><img src="https://img.shields.io/badge/Monash_University-Computer_Science-7c3aed?style=for-the-badge" alt="Monash University - Computer Science" /></a>
-  <a href="https://www.monash.edu.my/study/why/our-world-university-rankings"><img src="https://img.shields.io/badge/QS_World_Ranking-31st_(2027)-eab308?style=for-the-badge" alt="QS World Ranking - 31st (2027)" /></a>
-  <br />
-  <a href="https://github.com/Waldo0926"><img src="https://img.shields.io/badge/Location-Malaysia_%2F_China-2563eb?style=for-the-badge" alt="Location - Malaysia / China" /></a>
+  <a href="https://www.monash.edu.my/"><img src="https://img.shields.io/badge/Monash%20University-Computer%20Science-7c3aed?style=for-the-badge" alt="Monash University - Computer Science" /></a>
+  <a href="https://www.monash.edu.my/study/why/our-world-university-rankings"><img src="https://img.shields.io/badge/QS%20World%20Ranking-31st%20%282027%29-eab308?style=for-the-badge" alt="QS World Ranking - 31st (2027)" /></a>
+  <a href="https://github.com/Waldo0926"><img src="https://img.shields.io/badge/Location-Malaysia%20%2F%20China-2563eb?style=for-the-badge" alt="Location - Malaysia / China" /></a>
 </p>
 
 I study **Computer Science (Algorithms & Software) at Monash University Malaysia**. I build tools for students, work on backend and security projects, and tinker with Linux and self-hosted services. My other repositories cover algorithms, data, networking and earlier coursework.
@@ -26,20 +25,27 @@ I write about the engineering decisions and the things that went wrong on my **[
 📫 **Get in touch**
 
 <p align="center">
-  <a href="mailto:wensx0926@gmail.com"><img src="https://img.shields.io/badge/Email-wensx0926%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="mailto:swen0027@student.monash.edu"><img src="https://img.shields.io/badge/Email-swen0027%40student.monash.edu-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Monash Email" /></a>
-  <a href="https://www.linkedin.com/in/shuoxun-wen/"><img src="https://img.shields.io/badge/LinkedIn-Shuoxun_Wen-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://blog.secureview.tech/"><img src="https://img.shields.io/badge/Blog-blog.secureview.tech-222222?style=flat-square&logo=githubpages&logoColor=white" alt="Blog" /></a>
-  <a href="https://docs.secureview.tech/"><img src="https://img.shields.io/badge/Tool_guides-docs.secureview.tech-1e5eff?style=flat-square&logo=readthedocs&logoColor=white" alt="Tool guides" /></a>
+  <a href="mailto:wensx0926@gmail.com"><img src="https://img.shields.io/badge/Email-wensx0926%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:swen0027@student.monash.edu"><img src="https://img.shields.io/badge/Monash-swen0027%40student.monash.edu-006DAE?style=for-the-badge&logo=gmail&logoColor=white" alt="Monash email" /></a>
   <br />
-  <a href="https://wa.me/60172560436"><img src="https://img.shields.io/badge/WhatsApp-%2B60_17--256_0436-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-  <a href="https://u.wechat.com/MF78QB01Ooq7L9GHgP8kzJ4?s=4"><img src="https://img.shields.io/badge/WeChat-WenSX0926-07C160?style=flat-square&logo=wechat&logoColor=white" alt="WeChat" /></a>
+  <a href="https://www.linkedin.com/in/shuoxun-wen/"><img src="https://img.shields.io/badge/LinkedIn-Shuoxun%20Wen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://blog.secureview.tech/"><img src="https://img.shields.io/badge/Blog-blog.secureview.tech-222222?style=for-the-badge&logo=jekyll&logoColor=white" alt="Blog" /></a>
+  <a href="https://docs.secureview.tech/"><img src="https://img.shields.io/badge/Docs-docs.secureview.tech-1e5eff?style=for-the-badge&logo=astro&logoColor=white" alt="Tool guides" /></a>
+  <br />
+  <a href="https://wa.me/60172560436"><img src="https://img.shields.io/badge/WhatsApp-%2B60%2017--256%200436-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <a href="https://u.wechat.com/MF78QB01Ooq7L9GHgP8kzJ4?s=4"><img src="https://img.shields.io/badge/WeChat-WenSX0926-07C160?style=for-the-badge&logo=wechat&logoColor=white" alt="WeChat" /></a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shuoxun-wen/"><img src="https://img.shields.io/badge/LinkedIn-Shuoxun%20Wen-0b0a09?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://blog.secureview.tech/"><img src="https://img.shields.io/badge/Blog-blog.secureview.tech-0b0a09?style=flat-square&logo=jekyll&logoColor=white" alt="Blog" /></a>
+  <a href="https://docs.secureview.tech/"><img src="https://img.shields.io/badge/Docs-docs.secureview.tech-0b0a09?style=flat-square&logo=astro&logoColor=white" alt="Tool guides" /></a>
 </p>
 
 <table align="center">
   <tr>
-    <td align="center" width="200"><img src="./assets/contact/whatsapp.webp" width="150" alt="WhatsApp QR code" /><br /><sub><strong>WhatsApp</strong><br />+60 17-256 0436</sub></td>
-    <td align="center" width="200"><img src="./assets/contact/wechat.webp" width="150" alt="WeChat QR code" /><br /><sub><strong>WeChat</strong><br />WenSX0926</sub></td>
+    <td align="center" width="200"><img src="./assets/contact/whatsapp.webp" width="150" alt="WhatsApp QR code" /><br /><sub><strong>WhatsApp</strong><br /><a href="https://wa.me/60172560436">+60 17-256 0436</a></sub></td>
+    <td align="center" width="200"><img src="./assets/contact/wechat.webp" width="150" alt="WeChat QR code" /><br /><sub><strong>WeChat</strong><br /><a href="https://u.wechat.com/MF78QB01Ooq7L9GHgP8kzJ4?s=4">WenSX0926</a></sub></td>
     <td align="center" width="200"><img src="./assets/contact/mamo-official.webp" width="150" alt="马莫百科 WeChat channel QR code" /><br /><sub><strong>马莫百科</strong><br />my WeChat channel</sub></td>
   </tr>
 </table>
