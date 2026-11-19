@@ -52,28 +52,31 @@ I write about the engineering decisions and the things that went wrong on my **[
   <a href="https://github.com/Waldo0926/monash-hub"><img src="./assets/profile-cards/en/monash-hub.svg?v=3" width="47%" alt="Monash Hub" /></a>
   <a href="https://github.com/Waldo0926/SecureView"><img src="./assets/profile-cards/en/secureview.svg?v=4" width="47%" alt="SecureView" /></a>
   <br /><br />
-  <a href="https://github.com/Waldo0926/monash-study-kit"><img src="./assets/profile-cards/en/monash-study-kit.svg?v=4" width="47%" alt="Monash Study Kit" /></a>
+  <a href="https://github.com/Waldo0926/monash-study-kit"><img src="./assets/profile-cards/en/monash-study-kit.svg?v=5" width="47%" alt="Monash Study Kit" /></a>
   <a href="https://github.com/Waldo0926/edge-fleet-ops-automation"><img src="./assets/profile-cards/en/edge-fleet.svg?v=3" width="47%" alt="Edge Fleet Ops Automation" /></a>
   <br /><br />
   <a href="https://github.com/Waldo0926/monash-attendance-reminder"><img src="./assets/profile-cards/en/attendance-helper.svg?v=1" width="47%" alt="Monash Attendance Helper" /></a>
   <a href="https://github.com/Waldo0926/mumguide-wechat-bot"><img src="./assets/profile-cards/en/mumguide-wechat-bot.svg?v=1" width="47%" alt="MUMGuide WeChat Bot" /></a>
+  <br /><br />
+  <a href="https://github.com/Waldo0926/monash-tools-docs"><img src="./assets/profile-cards/en/monash-tools-docs.svg?v=1" width="47%" alt="Monash Student Tools docs" /></a>
 </p>
 
 For the full feature lists, screenshots, installation steps and tests, open each repository:
 
-- **[Monash Hub](https://monashhub.secureview.tech)** — look up Monash units, plan a degree, calculate WAM/GPA and find sourced official guides ([code](https://github.com/Waldo0926/monash-hub)).
+- **[Monash Hub](https://monashhub.secureview.tech)** — look up Monash units, plan a degree, calculate WAM/GPA, check key dates and Malaysia tuition fees, and read official guides with the source next to each answer ([code](https://github.com/Waldo0926/monash-hub)).
 - **[SecureView](https://github.com/Waldo0926/SecureView)** — encrypted file sharing, integrity and audit trails, built with our four-person FYP team ([website](https://secureview.tech)).
-- **[Monash Study Kit](https://github.com/Waldo0926/monash-study-kit)** — local-first Moodle/Ed searches in MCP clients; school mail and attendance are optional and require confirmation for write actions ([guide](https://docs.secureview.tech/study-kit/)).
+- **[Monash Study Kit](https://github.com/Waldo0926/monash-study-kit)** — 1.15.0 on PyPI: your AI app reads your own Moodle and Ed, from deadlines and marking feedback to full-text search and whole-unit exports, and `monash semester` prints a private week view it can also write out as an `.ics` file. School mail and attendance are optional and ask before anything is written ([guide](https://docs.secureview.tech/study-kit/)).
 - **[Edge Fleet Ops Automation](https://github.com/Waldo0926/edge-fleet-ops-automation)** — sanitized reconstruction of Linux fleet health checks and alerts.
-- **[Attendance Helper](https://github.com/Waldo0926/monash-attendance-reminder)** — Chrome extension that finds attendance codes; the student confirms any submission.
+- **[Attendance Helper](https://github.com/Waldo0926/monash-attendance-reminder)** — Chrome extension that finds attendance codes; the student confirms any submission. On the [Chrome Web Store](https://chromewebstore.google.com/detail/monash-attendance-helper/mnbkcmgkjmfngcifndchaidndhdfafcd).
 - **[MUMGuide WeChat Bot](https://github.com/Waldo0926/mumguide-wechat-bot)** — Chinese Q&A with links to sources and a quote-checking fallback.
+- **[Monash Student Tools docs](https://docs.secureview.tech)** — install and usage guides for these tools in English and Chinese, written so a student can hand the page to their AI and have it set up ([code](https://github.com/Waldo0926/monash-tools-docs)).
 
 **[Read the blog](https://blog.secureview.tech)** · **[Browse the full project archive](https://blog.secureview.tech/projects/)** · **[Tool guides](https://docs.secureview.tech)** · **[Service status](https://waldo0926.github.io/uptime/)**
 
 ## More Projects
 
 <details>
-<summary><strong>22 more coursework-derived and independent projects, grouped by area</strong></summary>
+<summary><strong>23 more coursework-derived and independent projects, grouped by area</strong></summary>
 <br />
 
 #### Student Tools, Libraries & Web Utilities
@@ -83,7 +86,6 @@ For the full feature lists, screenshots, installation steps and tests, open each
 | [ed-web](https://github.com/Waldo0926/ed-web) | A privacy-first, client-side web app for fetching, organising, searching, and summarising Ed Discussion course forums. |
 | [monash-abroad-tracker-demo](https://github.com/Waldo0926/monash-abroad-tracker-demo) | Public demo of my exchange tracker on synthetic data ([live demo](https://waldo0926.github.io/monash-abroad-tracker-demo/)). The private system has crawled ~164 programs daily since August 2026, honouring `robots.txt`, with field-level change detection, a frozen previous-round comparison and hand-verified QS rankings. |
 | [quotegate](https://github.com/Waldo0926/quotegate) | A small Python library on PyPI with no dependencies: a language model may answer only with sentences quoted from your passages, and each quote is checked in code before it is sent. Pulled out of the WeChat bot. |
-| [monash-tools-docs](https://github.com/Waldo0926/monash-tools-docs) | Guide site for these student tools in English and Chinese ([docs.secureview.tech](https://docs.secureview.tech)), built with Astro Starlight. It also serves the Study Kit install scripts and packages the Attendance Helper zip daily. |
 
 #### Software Systems, Networking & Infrastructure
 
@@ -100,6 +102,7 @@ For the full feature lists, screenshots, installation steps and tests, open each
 | Project | What it does |
 | --- | --- |
 | [advanced-string-algorithms](https://github.com/Waldo0926/advanced-string-algorithms) | Pure-Python Ukkonen suffix trees, BWT approximate matching, Z-based exact matching, Rabin-Karp rolling hashes and Miller-Rabin primality testing, with pytest. |
+| [c-cpp-programming-foundations](https://github.com/Waldo0926/c-cpp-programming-foundations) | Undergraduate C/C++ exercises, debugging practice and CCF CSP solutions, rebuilt from 2021 coursework with binaries, IDE caches and other people's submissions left out. |
 | [classical-algorithms-cpp](https://github.com/Waldo0926/classical-algorithms-cpp) | Classic algorithms in C++: dynamic programming, backtracking, branch and bound, divide and conquer, and genetic algorithms. |
 | [data-structures-labs-cpp](https://github.com/Waldo0926/data-structures-labs-cpp) | Modernised C++17 implementations covering stacks, queues, trees, Huffman coding, graphs and sorting. |
 | [bst-record-management-cpp](https://github.com/Waldo0926/bst-record-management-cpp) | Modernised C++17 BST record management system with CRUD, persistence, RAII, tests and CI. |
@@ -113,6 +116,7 @@ For the full feature lists, screenshots, installation steps and tests, open each
 | [tensorflow-cnn-image-classification](https://github.com/Waldo0926/tensorflow-cnn-image-classification) | Reproducible TensorFlow/Keras CNN experiments on CIFAR-10 and MNIST with automated evaluation. |
 | [student-performance-ml-pipeline](https://github.com/Waldo0926/student-performance-ml-pipeline) | Leakage-safe student grade classification with scikit-learn pipelines, SVM, Random Forest, and imbalance-aware evaluation. |
 | [pattern-recognition-from-scratch](https://github.com/Waldo0926/pattern-recognition-from-scratch) | Classical pattern-recognition algorithms implemented from scratch with NumPy: Naive Bayes, Perceptron, Fisher LDA, K-Means, FCM, HMM. |
+| [animal-expert-system](https://github.com/Waldo0926/animal-expert-system) | Symbolic AI: identifies animals from observable features with a production-rule knowledge base and a forward-chaining inference engine. |
 | [million-row-tweet-analysis-bash-r](https://github.com/Waldo0926/million-row-tweet-analysis-bash-r) | Streaming analysis of 1.47M tweets using Unix/Bash pipelines, CSV-safe Python parsing, and R aggregation/visualisation. |
 
 #### Databases, Robotics & Signal Processing
