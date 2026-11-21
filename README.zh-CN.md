@@ -156,10 +156,10 @@
   <img src="./assets/activity/activity-zh-light.svg" width="480" alt="最近 7 天的提交、PR 和代码增删" />
 </picture>
 
-- **[monash-tools-docs](https://github.com/Waldo0926/monash-tools-docs)** <sub>15 次提交 · 3 个 PR</sub>
+- **[monash-tools-docs](https://github.com/Waldo0926/monash-tools-docs)** <sub>21 次提交 · 7 个 PR</sub>
+- **[waldo0926.github.io](https://github.com/Waldo0926/waldo0926.github.io)** <sub>13 次提交 · 8 个 PR</sub>
 - **[monash-hub](https://github.com/Waldo0926/monash-hub)** · 给 Monash 学生用的课程、学位和官方政策检索网站，已上线。 <sub>11 次提交 · 10 个 PR</sub>
-- **[waldo0926.github.io](https://github.com/Waldo0926/waldo0926.github.io)** <sub>9 次提交 · 5 个 PR</sub>
-- **[monash-study-kit](https://github.com/Waldo0926/monash-study-kit)** · 把 Moodle 和 Ed 接到 Claude 的本地 MCP 服务和命令行工具。 <sub>8 次提交 · 7 个 PR</sub>
+- **[monash-study-kit](https://github.com/Waldo0926/monash-study-kit)** · 把 Moodle 和 Ed 接到 Claude 的本地 MCP 服务和命令行工具。 <sub>9 次提交 · 10 个 PR</sub>
 - **[monash-abroad-tracker-demo](https://github.com/Waldo0926/monash-abroad-tracker-demo)** · 交换项目追踪的公开 demo，用的是模拟数据。 <sub>1 次提交 · 1 个 PR</sub>
 - **[SecureView](https://github.com/Waldo0926/SecureView)** · 四人毕业设计，浏览器端加密的文件共享平台。私有团队仓库的提交也算在这里。 <sub>1 次提交</sub>
 - 另外 2 个私有仓库
