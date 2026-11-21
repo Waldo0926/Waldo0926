@@ -164,7 +164,7 @@ For the full feature lists, screenshots, installation steps and tests, open each
 - **[SecureView](https://github.com/Waldo0926/SecureView)** · Four-person Final Year Project: encrypted file sharing in the browser. Commits to the private team repo are counted here. <sub>1 commit</sub>
 - 2 other private repos
 
-<sub>Commits on each repo's default branch and PRs I opened, private repos included. Updated daily by a GitHub Actions workflow, last run 2026-11-20.</sub>
+<sub>Commits on each repo's default branch and PRs I opened, private repos included. Updated daily by a GitHub Actions workflow, last run 2026-11-21.</sub>
 <!-- RECENT_ACTIVITY:END -->
 
 ## Portfolio Notes
