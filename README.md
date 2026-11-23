@@ -156,15 +156,15 @@ For the full feature lists, screenshots, installation steps and tests, open each
   <img src="./assets/activity/activity-en-light.svg" width="480" alt="Commits, pull requests and lines changed in the last 7 days" />
 </picture>
 
-- **[monash-tools-docs](https://github.com/Waldo0926/monash-tools-docs)** <sub>21 commits · 7 PRs</sub>
+- **[monash-tools-docs](https://github.com/Waldo0926/monash-tools-docs)** <sub>23 commits · 9 PRs</sub>
 - **[waldo0926.github.io](https://github.com/Waldo0926/waldo0926.github.io)** <sub>13 commits · 8 PRs</sub>
 - **[monash-hub](https://github.com/Waldo0926/monash-hub)** · Independent Monash student platform for course search, official information retrieval, study planning, WAM/GPA tools and community features. <sub>11 commits · 10 PRs</sub>
-- **[monash-study-kit](https://github.com/Waldo0926/monash-study-kit)** · Local MCP server and CLI that connect Moodle and Ed to Claude, Codex or Cursor. <sub>9 commits · 10 PRs</sub>
+- **[monash-study-kit](https://github.com/Waldo0926/monash-study-kit)** · Local MCP server and CLI that connect Moodle and Ed to Claude, Codex or Cursor. <sub>10 commits · 10 PRs</sub>
 - **[monash-abroad-tracker-demo](https://github.com/Waldo0926/monash-abroad-tracker-demo)** · Public synthetic-data demo of a Monash semester-exchange tracker with multi-facet filtering and round-over-round change detection. | Monash 学期交换追踪器公开演示：合成数据、多维筛选与轮次变化检测。 <sub>1 commit · 1 PR</sub>
 - **[SecureView](https://github.com/Waldo0926/SecureView)** · Four-person Final Year Project: encrypted file sharing in the browser. Commits to the private team repo are counted here. <sub>1 commit</sub>
 - 2 other private repos
 
-<sub>Commits on each repo's default branch and PRs I opened, private repos included. Updated daily by a GitHub Actions workflow, last run 2026-11-21.</sub>
+<sub>Commits on each repo's default branch and PRs I opened, private repos included. Updated daily by a GitHub Actions workflow, last run 2026-11-23.</sub>
 <!-- RECENT_ACTIVITY:END -->
 
 ## Portfolio Notes
