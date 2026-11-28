@@ -158,11 +158,11 @@ For the full feature lists, screenshots, installation steps and tests, open each
 
 - **[monash-study-kit](https://github.com/Waldo0926/monash-study-kit)** · Local MCP server and CLI that connect Moodle and Ed to Claude, Codex or Cursor. <sub>13 commits · 14 PRs</sub>
 - **[monash-tools-docs](https://github.com/Waldo0926/monash-tools-docs)** <sub>10 commits · 8 PRs</sub>
+- **[waldo0926.github.io](https://github.com/Waldo0926/waldo0926.github.io)** <sub>7 commits · 6 PRs</sub>
 - **[monash-hub](https://github.com/Waldo0926/monash-hub)** · Independent Monash student platform for course search, official information retrieval, study planning, WAM/GPA tools and community features. <sub>6 commits · 6 PRs</sub>
-- **[waldo0926.github.io](https://github.com/Waldo0926/waldo0926.github.io)** <sub>4 commits · 3 PRs</sub>
-- 2 other private repos
+- 3 other private repos
 
-<sub>Commits on each repo's default branch and PRs I opened, private repos included. Updated daily by a GitHub Actions workflow, last run 2026-11-27.</sub>
+<sub>Commits on each repo's default branch and PRs I opened, private repos included. Updated daily by a GitHub Actions workflow, last run 2026-11-28.</sub>
 <!-- RECENT_ACTIVITY:END -->
 
 ## Portfolio Notes
